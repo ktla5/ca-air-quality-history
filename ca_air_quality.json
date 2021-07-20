@@ -767,6 +767,19 @@
     "IntlAQSCode": "840060510001"
   },
   {
+    "Latitude": 34.21017,
+    "Longitude": -118.87051,
+    "UTC": "2021-07-20T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 42,
+    "Category": 1,
+    "SiteName": "Thousand Oaks - Moorpark Road",
+    "AgencyName": "Ventura County  APCD",
+    "FullAQSCode": "061110007",
+    "IntlAQSCode": "840061110007"
+  },
+  {
     "Latitude": 34.8416,
     "Longitude": -118.8647,
     "UTC": "2021-07-20T17:00",
