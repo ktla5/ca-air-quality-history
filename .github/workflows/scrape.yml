@@ -1,0 +1,25 @@
+name: Scrape air quality data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "5,25,45 * * * *"
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repo
+        uses: actions/checkout@v2
+      - name: Fetch latest data
+        run: |-
+          curl https://www.airnowapi.org/aq/data/\?parameters\=PM25\&BBOX\=-123.548508,31.753563,-113.265305,38.880071\&dataType\=A\&format\=application/json\&verbose\=1\&nowcastonly\=0\&includerawconcentrations\=0\&API_KEY\=53128024-7EFB-41DB-A8EB-14530A88982E | jq '.'  > ca_air_quality.json
+      - name: Commit and push if changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
