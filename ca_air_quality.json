@@ -338,6 +338,19 @@
     "IntlAQSCode": "840060670011"
   },
   {
+    "Latitude": 38.613804,
+    "Longitude": -121.368007,
+    "UTC": "2021-07-20T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 42,
+    "Category": 1,
+    "SiteName": "Arden Arcade - Del Paso Manor",
+    "AgencyName": "Sacramento Metro. AQMD",
+    "FullAQSCode": "060670006",
+    "IntlAQSCode": "840060670006"
+  },
+  {
     "Latitude": 36.843425,
     "Longitude": -121.3621,
     "UTC": "2021-07-20T18:00",
@@ -499,7 +512,7 @@
     "UTC": "2021-07-20T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 40,
+    "AQI": 35,
     "Category": 1,
     "SiteName": "Lompoc H Street",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
