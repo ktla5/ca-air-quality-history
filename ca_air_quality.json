@@ -616,7 +616,7 @@
     "UTC": "2021-07-21T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 16,
+    "AQI": 12,
     "Category": 1,
     "SiteName": "Madera-City",
     "AgencyName": "San Joaquin Valley Unified APCD",
@@ -702,7 +702,7 @@
     "IntlAQSCode": "840060431001"
   },
   {
-    "Latitude": 38.54564,
+    "Latitude": 38.54565,
     "Longitude": -119.47885,
     "UTC": "2021-07-21T17:00",
     "Parameter": "PM2.5",
