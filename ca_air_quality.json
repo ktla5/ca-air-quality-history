@@ -1188,8 +1188,8 @@
     "UTC": "2021-07-21T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 51,
-    "Category": 2,
+    "AQI": 45,
+    "Category": 1,
     "SiteName": "San Diego - Sherman Elementary School",
     "AgencyName": "San Diego APCD",
     "FullAQSCode": "840060731026",
@@ -1285,6 +1285,19 @@
     "AgencyName": "National Park Service",
     "FullAQSCode": "060650010",
     "IntlAQSCode": "840060650010"
+  },
+  {
+    "Latitude": 32.978298,
+    "Longitude": -115.5383,
+    "UTC": "2021-07-21T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 37,
+    "Category": 1,
+    "SiteName": "Brawley - 220 Main Street",
+    "AgencyName": "Imperial County Air Pollution Control District",
+    "FullAQSCode": "060250007",
+    "IntlAQSCode": "840060250007"
   },
   {
     "Latitude": 32.6336,
