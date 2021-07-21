@@ -603,7 +603,7 @@
     "UTC": "2021-07-21T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 28,
+    "AQI": 26,
     "Category": 1,
     "SiteName": "Santa Ynez",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -1157,6 +1157,19 @@
     "IntlAQSCode": "840060710005"
   },
   {
+    "Latitude": 32.710177,
+    "Longitude": -117.142665,
+    "UTC": "2021-07-21T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 51,
+    "Category": 2,
+    "SiteName": "San Diego - Sherman Elementary School",
+    "AgencyName": "San Diego APCD",
+    "FullAQSCode": "840060731026",
+    "IntlAQSCode": "840060731026"
+  },
+  {
     "Latitude": 33.583099,
     "Longitude": -117.072197,
     "UTC": "2021-07-21T17:00",
@@ -1480,6 +1493,19 @@
     "AgencyName": "Arizona Department of Environmental Quality",
     "FullAQSCode": "040278011",
     "IntlAQSCode": "840040278011"
+  },
+  {
+    "Latitude": 36.815897,
+    "Longitude": -114.050347,
+    "UTC": "2021-07-21T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Virgin Valley",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030024",
+    "IntlAQSCode": "840320030024"
   },
   {
     "Latitude": 34.243889,
