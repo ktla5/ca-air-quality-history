@@ -351,6 +351,19 @@
     "IntlAQSCode": "840060670006"
   },
   {
+    "Latitude": 36.843425,
+    "Longitude": -121.3621,
+    "UTC": "2021-07-21T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 31,
+    "Category": 1,
+    "SiteName": "Hollister AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060690002",
+    "IntlAQSCode": "840060690002"
+  },
+  {
     "Latitude": 37.95075,
     "Longitude": -121.26897,
     "UTC": "2021-07-21T21:00",
@@ -538,7 +551,7 @@
     "UTC": "2021-07-21T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 57,
+    "AQI": 59,
     "Category": 2,
     "SiteName": "Santa Maria",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -1123,7 +1136,7 @@
     "UTC": "2021-07-21T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 41,
+    "AQI": 40,
     "Category": 1,
     "SiteName": "San Diego - Sherman Elementary School",
     "AgencyName": "San Diego APCD",
