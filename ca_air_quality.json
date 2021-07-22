@@ -429,6 +429,19 @@
     "IntlAQSCode": "840060670012"
   },
   {
+    "Latitude": 36.209286,
+    "Longitude": -121.126371,
+    "UTC": "2021-07-22T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 60,
+    "Category": 2,
+    "SiteName": "King City AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060530008",
+    "IntlAQSCode": "840060530008"
+  },
+  {
     "Latitude": 37.642165,
     "Longitude": -120.994212,
     "UTC": "2021-07-22T21:00",
@@ -856,19 +869,6 @@
     "AgencyName": "Forest Service",
     "FullAQSCode": "840061079998",
     "IntlAQSCode": "840061079998"
-  },
-  {
-    "Latitude": 34.40428,
-    "Longitude": -118.80998,
-    "UTC": "2021-07-22T21:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 69,
-    "Category": 2,
-    "SiteName": "Piru - Pacific",
-    "AgencyName": "Ventura County  APCD",
-    "FullAQSCode": "061110009",
-    "IntlAQSCode": "840061110009"
   },
   {
     "Latitude": 34.27632,
