@@ -1131,6 +1131,19 @@
     "IntlAQSCode": "840060731008"
   },
   {
+    "Latitude": 33.676535,
+    "Longitude": -117.331027,
+    "UTC": "2021-07-22T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 39,
+    "Category": 1,
+    "SiteName": "Lake Elsinore - W. Flint Street",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060659001",
+    "IntlAQSCode": "840060659001"
+  },
+  {
     "Latitude": 34.510955,
     "Longitude": -117.32555,
     "UTC": "2021-07-22T15:00",
