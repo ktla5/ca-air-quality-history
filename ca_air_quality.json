@@ -369,8 +369,8 @@
     "UTC": "2021-07-22T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 46,
-    "Category": 1,
+    "AQI": 52,
+    "Category": 2,
     "SiteName": "Hollister AMS",
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060690002",
@@ -427,19 +427,6 @@
     "AgencyName": "Sacramento Metro. AQMD",
     "FullAQSCode": "060670012",
     "IntlAQSCode": "840060670012"
-  },
-  {
-    "Latitude": 36.209286,
-    "Longitude": -121.126371,
-    "UTC": "2021-07-22T19:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 60,
-    "Category": 2,
-    "SiteName": "King City AMS",
-    "AgencyName": "Monterey Bay Unified APCD",
-    "FullAQSCode": "060530008",
-    "IntlAQSCode": "840060530008"
   },
   {
     "Latitude": 37.642165,
@@ -702,12 +689,12 @@
     "IntlAQSCode": "840060431001"
   },
   {
-    "Latitude": 38.545586,
-    "Longitude": -119.478872,
+    "Latitude": 38.545661,
+    "Longitude": -119.478829,
     "UTC": "2021-07-22T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 82,
+    "AQI": 98,
     "Category": 2,
     "SiteName": "Coleville EBAM",
     "AgencyName": "Great Basin Unified Air Pollution Control District",
