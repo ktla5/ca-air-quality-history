@@ -577,7 +577,7 @@
     "UTC": "2021-07-22T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 39,
+    "AQI": 45,
     "Category": 1,
     "SiteName": "Santa Maria",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -637,6 +637,19 @@
     "IntlAQSCode": "840060392010"
   },
   {
+    "Latitude": 34.445301,
+    "Longitude": -119.827797,
+    "UTC": "2021-07-22T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 60,
+    "Category": 2,
+    "SiteName": "Goleta",
+    "AgencyName": "Santa Barbara County Air Pollution Control District",
+    "FullAQSCode": "060832011",
+    "IntlAQSCode": "840060832011"
+  },
+  {
     "Latitude": 36.78538,
     "Longitude": -119.77321,
     "UTC": "2021-07-22T16:00",
@@ -661,6 +674,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060195001",
     "IntlAQSCode": "840060195001"
+  },
+  {
+    "Latitude": 34.42775,
+    "Longitude": -119.69091,
+    "UTC": "2021-07-22T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 51,
+    "Category": 2,
+    "SiteName": "Santa Barbara",
+    "AgencyName": "Santa Barbara County Air Pollution Control District",
+    "FullAQSCode": "060830011",
+    "IntlAQSCode": "840060830011"
   },
   {
     "Latitude": 36.3144,
