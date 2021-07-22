@@ -1274,19 +1274,6 @@
     "IntlAQSCode": "840060650010"
   },
   {
-    "Latitude": 32.978298,
-    "Longitude": -115.5383,
-    "UTC": "2021-07-22T14:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 19,
-    "Category": 1,
-    "SiteName": "Brawley - 220 Main Street",
-    "AgencyName": "Imperial County Air Pollution Control District",
-    "FullAQSCode": "060250007",
-    "IntlAQSCode": "840060250007"
-  },
-  {
     "Latitude": 32.6336,
     "Longitude": -115.5042,
     "UTC": "2021-07-22T14:00",
