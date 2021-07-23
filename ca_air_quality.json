@@ -1261,6 +1261,19 @@
     "IntlAQSCode": "840TT5980500"
   },
   {
+    "Latitude": 33.7472,
+    "Longitude": -115.8201,
+    "UTC": "2021-07-23T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 32,
+    "Category": 1,
+    "SiteName": "Joshua Tree NP - Cottonwood Canyon 2",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "060650010",
+    "IntlAQSCode": "840060650010"
+  },
+  {
     "Latitude": 32.978298,
     "Longitude": -115.5383,
     "UTC": "2021-07-23T13:00",
