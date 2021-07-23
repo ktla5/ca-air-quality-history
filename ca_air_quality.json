@@ -585,6 +585,19 @@
     "IntlAQSCode": "840060192009"
   },
   {
+    "Latitude": 36.1994,
+    "Longitude": -120.0991,
+    "UTC": "2021-07-23T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 37,
+    "Category": 1,
+    "SiteName": "Huron",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060192008",
+    "IntlAQSCode": "840060192008"
+  },
+  {
     "Latitude": 34.605819,
     "Longitude": -120.07506,
     "UTC": "2021-07-23T03:00",
