@@ -403,19 +403,6 @@
     "IntlAQSCode": "840060675003"
   },
   {
-    "Latitude": 38.683304,
-    "Longitude": -121.164457,
-    "UTC": "2021-07-24T08:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 51,
-    "Category": 2,
-    "SiteName": "Folsom",
-    "AgencyName": "Sacramento Metro. AQMD",
-    "FullAQSCode": "060670012",
-    "IntlAQSCode": "840060670012"
-  },
-  {
     "Latitude": 36.209286,
     "Longitude": -121.126371,
     "UTC": "2021-07-24T08:00",
