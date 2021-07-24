@@ -78,6 +78,19 @@
     "IntlAQSCode": "840060010012"
   },
   {
+    "Latitude": 38.102507,
+    "Longitude": -122.237976,
+    "UTC": "2021-07-24T12:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 34,
+    "Category": 1,
+    "SiteName": "Vallejo",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060950004",
+    "IntlAQSCode": "840060950004"
+  },
+  {
     "Latitude": 37.4828,
     "Longitude": -122.2022,
     "UTC": "2021-07-24T12:00",
@@ -180,6 +193,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060850005",
     "IntlAQSCode": "840060850005"
+  },
+  {
+    "Latitude": 37.338202,
+    "Longitude": -121.849892,
+    "UTC": "2021-07-24T12:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 55,
+    "Category": 2,
+    "SiteName": "San Jose - Knox Ave",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060850006",
+    "IntlAQSCode": "840060850006"
   },
   {
     "Latitude": 37.687526,
