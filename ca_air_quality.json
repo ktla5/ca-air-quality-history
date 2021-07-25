@@ -182,6 +182,19 @@
     "IntlAQSCode": "840060850005"
   },
   {
+    "Latitude": 37.338202,
+    "Longitude": -121.849892,
+    "UTC": "2021-07-25T12:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 35,
+    "Category": 1,
+    "SiteName": "San Jose - Knox Ave",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060850006",
+    "IntlAQSCode": "840060850006"
+  },
+  {
     "Latitude": 37.687526,
     "Longitude": -121.784217,
     "UTC": "2021-07-25T12:00",
@@ -1253,7 +1266,7 @@
     "UTC": "2021-07-25T12:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 24,
+    "AQI": 23,
     "Category": 1,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
