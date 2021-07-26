@@ -1001,6 +1001,19 @@
     "IntlAQSCode": "840060290019"
   },
   {
+    "Latitude": 34.669589,
+    "Longitude": -118.130689,
+    "UTC": "2021-07-26T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 35,
+    "Category": 1,
+    "SiteName": "Lancaster-Division",
+    "AgencyName": "Mojave Desert AQMD",
+    "FullAQSCode": "060379033",
+    "IntlAQSCode": "840060379033"
+  },
+  {
     "Latitude": 36.607711,
     "Longitude": -118.06215,
     "UTC": "2021-07-26T19:00",
