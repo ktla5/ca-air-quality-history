@@ -577,7 +577,7 @@
     "UTC": "2021-07-26T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 21,
     "Category": 1,
     "SiteName": "Santa Ynez",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -596,6 +596,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060392010",
     "IntlAQSCode": "840060392010"
+  },
+  {
+    "Latitude": 34.445301,
+    "Longitude": -119.827797,
+    "UTC": "2021-07-26T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 29,
+    "Category": 1,
+    "SiteName": "Goleta",
+    "AgencyName": "Santa Barbara County Air Pollution Control District",
+    "FullAQSCode": "060832011",
+    "IntlAQSCode": "840060832011"
   },
   {
     "Latitude": 36.78538,
