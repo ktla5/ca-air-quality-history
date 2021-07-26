@@ -702,6 +702,19 @@
     "IntlAQSCode": "840061111004"
   },
   {
+    "Latitude": 38.24771,
+    "Longitude": -119.227452,
+    "UTC": "2021-07-26T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 75,
+    "Category": 2,
+    "SiteName": "N/A",
+    "AgencyName": "Great Basin Unified Air Pollution Control District",
+    "FullAQSCode": "840MMGBU1003",
+    "IntlAQSCode": "840MMGBU1003"
+  },
+  {
     "Latitude": 34.25239,
     "Longitude": -119.14318,
     "UTC": "2021-07-26T15:00",
@@ -1077,6 +1090,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "060658001",
     "IntlAQSCode": "840060658001"
+  },
+  {
+    "Latitude": 33.676535,
+    "Longitude": -117.331027,
+    "UTC": "2021-07-26T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 36,
+    "Category": 1,
+    "SiteName": "Lake Elsinore - W. Flint Street",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060659001",
+    "IntlAQSCode": "840060659001"
   },
   {
     "Latitude": 34.510955,
