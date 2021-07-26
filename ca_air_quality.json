@@ -585,6 +585,19 @@
     "IntlAQSCode": "840060192008"
   },
   {
+    "Latitude": 34.605819,
+    "Longitude": -120.07506,
+    "UTC": "2021-07-26T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 28,
+    "Category": 1,
+    "SiteName": "Santa Ynez",
+    "AgencyName": "Santa Barbara County Air Pollution Control District",
+    "FullAQSCode": "060833001",
+    "IntlAQSCode": "840060833001"
+  },
+  {
     "Latitude": 36.9533,
     "Longitude": -120.0341,
     "UTC": "2021-07-26T20:00",
@@ -1532,6 +1545,19 @@
     "AgencyName": "Clark County Department of Environment and Sustainability ",
     "FullAQSCode": "320030024",
     "IntlAQSCode": "840320030024"
+  },
+  {
+    "Latitude": 34.243889,
+    "Longitude": -113.558611,
+    "UTC": "2021-07-26T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 29,
+    "Category": 1,
+    "SiteName": "Alamo Lake",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040128000",
+    "IntlAQSCode": "840040128000"
   },
   {
     "Latitude": 37.179,
