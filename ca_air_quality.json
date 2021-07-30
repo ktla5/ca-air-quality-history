@@ -538,7 +538,7 @@
     "UTC": "2021-07-30T11:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 0,
+    "AQI": 2,
     "Category": 1,
     "SiteName": "Lompoc H Street",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
