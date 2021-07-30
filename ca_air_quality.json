@@ -351,6 +351,19 @@
     "IntlAQSCode": "840060670011"
   },
   {
+    "Latitude": 38.613804,
+    "Longitude": -121.368007,
+    "UTC": "2021-07-30T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 23,
+    "Category": 1,
+    "SiteName": "Arden Arcade - Del Paso Manor",
+    "AgencyName": "Sacramento Metro. AQMD",
+    "FullAQSCode": "060670006",
+    "IntlAQSCode": "840060670006"
+  },
+  {
     "Latitude": 36.843425,
     "Longitude": -121.3621,
     "UTC": "2021-07-30T17:00",
@@ -401,6 +414,19 @@
     "AgencyName": "Sacramento Metro. AQMD",
     "FullAQSCode": "060675003",
     "IntlAQSCode": "840060675003"
+  },
+  {
+    "Latitude": 38.683304,
+    "Longitude": -121.164457,
+    "UTC": "2021-07-30T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 40,
+    "Category": 1,
+    "SiteName": "Folsom",
+    "AgencyName": "Sacramento Metro. AQMD",
+    "FullAQSCode": "060670012",
+    "IntlAQSCode": "840060670012"
   },
   {
     "Latitude": 36.209286,
@@ -551,7 +577,7 @@
     "UTC": "2021-07-30T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 24,
+    "AQI": 23,
     "Category": 1,
     "SiteName": "Santa Maria",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
