@@ -551,7 +551,7 @@
     "UTC": "2021-08-01T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 33,
+    "AQI": 32,
     "Category": 1,
     "SiteName": "Santa Maria",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -648,6 +648,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060195001",
     "IntlAQSCode": "840060195001"
+  },
+  {
+    "Latitude": 34.42775,
+    "Longitude": -119.69091,
+    "UTC": "2021-08-01T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "Santa Barbara",
+    "AgencyName": "Santa Barbara County Air Pollution Control District",
+    "FullAQSCode": "060830011",
+    "IntlAQSCode": "840060830011"
   },
   {
     "Latitude": 36.3144,
@@ -902,7 +915,7 @@
     "UTC": "2021-08-01T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 34,
+    "AQI": 36,
     "Category": 1,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
