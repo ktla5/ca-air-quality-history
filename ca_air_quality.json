@@ -13,6 +13,19 @@
     "IntlAQSCode": "840060410001"
   },
   {
+    "Latitude": 37.7658,
+    "Longitude": -122.3978,
+    "UTC": "2021-08-02T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "San Francisco",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060750005",
+    "IntlAQSCode": "840060750005"
+  },
+  {
     "Latitude": 37.9604,
     "Longitude": -122.3571,
     "UTC": "2021-08-02T18:00",
@@ -494,6 +507,19 @@
     "IntlAQSCode": "840060472510"
   },
   {
+    "Latitude": 34.637798,
+    "Longitude": -120.456703,
+    "UTC": "2021-08-02T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 8,
+    "Category": 1,
+    "SiteName": "Lompoc H Street",
+    "AgencyName": "Santa Barbara County Air Pollution Control District",
+    "FullAQSCode": "060832004",
+    "IntlAQSCode": "840060832004"
+  },
+  {
     "Latitude": 37.2817,
     "Longitude": -120.433601,
     "UTC": "2021-08-02T18:00",
@@ -512,7 +538,7 @@
     "UTC": "2021-08-02T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 29,
+    "AQI": 28,
     "Category": 1,
     "SiteName": "Santa Maria",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -616,7 +642,7 @@
     "UTC": "2021-08-02T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 23,
+    "AQI": 26,
     "Category": 1,
     "SiteName": "Santa Barbara",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
