@@ -455,6 +455,19 @@
     "IntlAQSCode": "840060990006"
   },
   {
+    "Latitude": 35.494556,
+    "Longitude": -120.666203,
+    "UTC": "2021-08-02T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "Atascadero2",
+    "AgencyName": "San Luis Obispo County APCD",
+    "FullAQSCode": "060798002",
+    "IntlAQSCode": "840060798002"
+  },
+  {
     "Latitude": 35.259473,
     "Longitude": -120.644493,
     "UTC": "2021-08-02T21:00",
@@ -642,7 +655,7 @@
     "UTC": "2021-08-02T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 19,
+    "AQI": 9,
     "Category": 1,
     "SiteName": "Santa Barbara",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -915,7 +928,7 @@
     "UTC": "2021-08-02T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 27,
+    "AQI": 24,
     "Category": 1,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
