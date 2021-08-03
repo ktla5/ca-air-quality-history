@@ -104,6 +104,19 @@
     "IntlAQSCode": "840060953002"
   },
   {
+    "Latitude": 37.701222,
+    "Longitude": -121.903019,
+    "UTC": "2021-08-03T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 20,
+    "Category": 1,
+    "SiteName": "Pleasanton - Owens Ct.",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010015",
+    "IntlAQSCode": "840060010015"
+  },
+  {
     "Latitude": 37.687526,
     "Longitude": -121.784217,
     "UTC": "2021-08-03T10:00",
@@ -208,6 +221,19 @@
     "IntlAQSCode": "840060670015"
   },
   {
+    "Latitude": 38.56844,
+    "Longitude": -121.49311,
+    "UTC": "2021-08-03T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 19,
+    "Category": 1,
+    "SiteName": "Downtown Sacramento - T Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060670010",
+    "IntlAQSCode": "840060670010"
+  },
+  {
     "Latitude": 37.6825,
     "Longitude": -121.4406,
     "UTC": "2021-08-03T10:00",
@@ -260,6 +286,19 @@
     "IntlAQSCode": "840060690002"
   },
   {
+    "Latitude": 38.74643,
+    "Longitude": -121.26498,
+    "UTC": "2021-08-03T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 17,
+    "Category": 1,
+    "SiteName": "Roseville - N.Sunrise/Douglas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060610006",
+    "IntlAQSCode": "840060610006"
+  },
+  {
     "Latitude": 38.494475,
     "Longitude": -121.211131,
     "UTC": "2021-08-03T10:00",
@@ -304,7 +343,7 @@
     "UTC": "2021-08-03T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 74,
+    "AQI": 68,
     "Category": 2,
     "SiteName": "Modesto - 14th Street",
     "AgencyName": "California Air Resources Board",
@@ -330,7 +369,7 @@
     "UTC": "2021-08-03T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 20,
+    "AQI": 14,
     "Category": 1,
     "SiteName": "San Andreas",
     "AgencyName": "California Air Resources Board",
@@ -434,7 +473,7 @@
     "UTC": "2021-08-03T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 28,
+    "AQI": 31,
     "Category": 1,
     "SiteName": "Santa Maria",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -453,6 +492,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060192009",
     "IntlAQSCode": "840060192009"
+  },
+  {
+    "Latitude": 36.1994,
+    "Longitude": -120.0991,
+    "UTC": "2021-08-03T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 45,
+    "Category": 1,
+    "SiteName": "Huron",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060192008",
+    "IntlAQSCode": "840060192008"
   },
   {
     "Latitude": 34.605819,
@@ -499,7 +551,7 @@
     "UTC": "2021-08-03T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 115,
+    "AQI": 106,
     "Category": 3,
     "SiteName": "Fresno - Garland",
     "AgencyName": "California Air Resources Board",
@@ -525,7 +577,7 @@
     "UTC": "2021-08-03T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 19,
+    "AQI": 18,
     "Category": 1,
     "SiteName": "Santa Barbara",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -551,7 +603,7 @@
     "UTC": "2021-08-03T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 32,
+    "AQI": 28,
     "Category": 1,
     "SiteName": "Yosemite Village - Visitor Center",
     "AgencyName": "California Air Resources Board",
@@ -564,7 +616,7 @@
     "UTC": "2021-08-03T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 117,
+    "AQI": 128,
     "Category": 3,
     "SiteName": "Visalia - N. Church Street",
     "AgencyName": "California Air Resources Board",
@@ -622,6 +674,19 @@
     "AgencyName": "Great Basin Unified Air Pollution Control District",
     "FullAQSCode": "060510005",
     "IntlAQSCode": "840060510005"
+  },
+  {
+    "Latitude": 35.356615,
+    "Longitude": -119.062613,
+    "UTC": "2021-08-03T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 55,
+    "Category": 2,
+    "SiteName": "Bakersfield - California Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060290014",
+    "IntlAQSCode": "840060290014"
   },
   {
     "Latitude": 36.0319,
@@ -856,6 +921,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "060374004",
     "IntlAQSCode": "840060374004"
+  },
+  {
+    "Latitude": 35.046528,
+    "Longitude": -118.162833,
+    "UTC": "2021-08-03T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 29,
+    "Category": 1,
+    "SiteName": "Mojave - CA 58 Business",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060290019",
+    "IntlAQSCode": "840060290019"
   },
   {
     "Latitude": 34.669589,
@@ -1168,6 +1246,19 @@
     "AgencyName": "Baja California",
     "FullAQSCode": "800020014",
     "IntlAQSCode": "484800020014"
+  },
+  {
+    "Latitude": 32.67618,
+    "Longitude": -115.48307,
+    "UTC": "2021-08-03T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 8,
+    "Category": 1,
+    "SiteName": "Calexico - Ethel Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060250005",
+    "IntlAQSCode": "840060250005"
   },
   {
     "Latitude": 32.6292,
