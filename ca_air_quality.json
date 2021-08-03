@@ -13,6 +13,19 @@
     "IntlAQSCode": "840060410001"
   },
   {
+    "Latitude": 37.7658,
+    "Longitude": -122.3978,
+    "UTC": "2021-08-03T11:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "San Francisco",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060750005",
+    "IntlAQSCode": "840060750005"
+  },
+  {
     "Latitude": 37.9604,
     "Longitude": -122.3571,
     "UTC": "2021-08-03T11:00",
@@ -39,6 +52,19 @@
     "IntlAQSCode": "840060010013"
   },
   {
+    "Latitude": 37.8148,
+    "Longitude": -122.282402,
+    "UTC": "2021-08-03T11:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Oakland West",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010011",
+    "IntlAQSCode": "840060010011"
+  },
+  {
     "Latitude": 37.793624,
     "Longitude": -122.263376,
     "UTC": "2021-08-03T11:00",
@@ -52,12 +78,25 @@
     "IntlAQSCode": "840060010012"
   },
   {
+    "Latitude": 38.102507,
+    "Longitude": -122.237976,
+    "UTC": "2021-08-03T11:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 17,
+    "Category": 1,
+    "SiteName": "Vallejo",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060950004",
+    "IntlAQSCode": "840060950004"
+  },
+  {
     "Latitude": 37.4828,
     "Longitude": -122.2022,
     "UTC": "2021-08-03T11:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 5,
+    "AQI": 9,
     "Category": 1,
     "SiteName": "Redwood City",
     "AgencyName": "San Francisco Bay Area AQMD",
@@ -89,6 +128,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060871005",
     "IntlAQSCode": "840060871005"
+  },
+  {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2021-08-03T11:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 14,
+    "Category": 1,
+    "SiteName": "Concord",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
   },
   {
     "Latitude": 36.98332,
@@ -128,6 +180,32 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060010015",
     "IntlAQSCode": "840060010015"
+  },
+  {
+    "Latitude": 37.3483,
+    "Longitude": -121.8947,
+    "UTC": "2021-08-03T11:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 18,
+    "Category": 1,
+    "SiteName": "San Jose - Jackson St.",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060850005",
+    "IntlAQSCode": "840060850005"
+  },
+  {
+    "Latitude": 37.338202,
+    "Longitude": -121.849892,
+    "UTC": "2021-08-03T11:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 19,
+    "Category": 1,
+    "SiteName": "San Jose - Knox Ave",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060850006",
+    "IntlAQSCode": "840060850006"
   },
   {
     "Latitude": 37.687526,
