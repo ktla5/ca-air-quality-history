@@ -364,6 +364,19 @@
     "IntlAQSCode": "840060690002"
   },
   {
+    "Latitude": 37.95075,
+    "Longitude": -121.26897,
+    "UTC": "2021-08-03T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 74,
+    "Category": 2,
+    "SiteName": "Stockton - Hazelton Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060771002",
+    "IntlAQSCode": "840060771002"
+  },
+  {
     "Latitude": 38.74643,
     "Longitude": -121.26498,
     "UTC": "2021-08-03T16:00",
@@ -427,19 +440,6 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060990005",
     "IntlAQSCode": "840060990005"
-  },
-  {
-    "Latitude": 37.4883,
-    "Longitude": -120.8358,
-    "UTC": "2021-08-03T16:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 48,
-    "Category": 1,
-    "SiteName": "Turlock - S. Minaret Street",
-    "AgencyName": "San Joaquin Valley Unified APCD",
-    "FullAQSCode": "060990006",
-    "IntlAQSCode": "840060990006"
   },
   {
     "Latitude": 38.20185,
@@ -551,7 +551,7 @@
     "UTC": "2021-08-03T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 32,
+    "AQI": 38,
     "Category": 1,
     "SiteName": "Santa Maria",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -655,7 +655,7 @@
     "UTC": "2021-08-03T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 23,
+    "AQI": 30,
     "Category": 1,
     "SiteName": "Santa Barbara",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -928,7 +928,7 @@
     "UTC": "2021-08-03T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 33,
+    "AQI": 31,
     "Category": 1,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
