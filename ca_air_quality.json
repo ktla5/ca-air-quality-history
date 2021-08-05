@@ -655,7 +655,7 @@
     "UTC": "2021-08-05T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 45,
+    "AQI": 41,
     "Category": 1,
     "SiteName": "Santa Barbara",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -869,6 +869,19 @@
     "AgencyName": "Ventura County  APCD",
     "FullAQSCode": "061110009",
     "IntlAQSCode": "840061110009"
+  },
+  {
+    "Latitude": 34.27632,
+    "Longitude": -118.68369,
+    "UTC": "2021-08-05T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 58,
+    "Category": 2,
+    "SiteName": "Simi Valley - Cochran Street",
+    "AgencyName": "Ventura County  APCD",
+    "FullAQSCode": "061112002",
+    "IntlAQSCode": "840061112002"
   },
   {
     "Latitude": 34.1992,
