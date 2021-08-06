@@ -525,7 +525,7 @@
     "UTC": "2021-08-06T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 0,
+    "AQI": 3,
     "Category": 1,
     "SiteName": "Lompoc H Street",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -551,7 +551,7 @@
     "UTC": "2021-08-06T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 21,
+    "AQI": 23,
     "Category": 1,
     "SiteName": "Santa Maria",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -655,8 +655,8 @@
     "UTC": "2021-08-06T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 32,
-    "Category": 1,
+    "AQI": 51,
+    "Category": 2,
     "SiteName": "Santa Barbara",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
     "FullAQSCode": "060830011",
@@ -726,19 +726,6 @@
     "AgencyName": "Ventura County  APCD",
     "FullAQSCode": "061111004",
     "IntlAQSCode": "840061111004"
-  },
-  {
-    "Latitude": 38.247721,
-    "Longitude": -119.227474,
-    "UTC": "2021-08-06T21:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 54,
-    "Category": 2,
-    "SiteName": "Bridgeport EBAM",
-    "AgencyName": "Great Basin Unified Air Pollution Control District",
-    "FullAQSCode": "840MMGBU1003",
-    "IntlAQSCode": "840MMGBU1003"
   },
   {
     "Latitude": 34.25239,
@@ -941,7 +928,7 @@
     "UTC": "2021-08-06T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 88,
+    "AQI": 79,
     "Category": 2,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
@@ -1534,6 +1521,19 @@
     "IntlAQSCode": "840320030602"
   },
   {
+    "Latitude": 32.690277,
+    "Longitude": -114.614441,
+    "UTC": "2021-08-06T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 52,
+    "Category": 2,
+    "SiteName": "Yuma Supersite",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040278011",
+    "IntlAQSCode": "840040278011"
+  },
+  {
     "Latitude": 36.815897,
     "Longitude": -114.050347,
     "UTC": "2021-08-06T21:00",
@@ -1545,6 +1545,19 @@
     "AgencyName": "Clark County Department of Environment and Sustainability ",
     "FullAQSCode": "320030024",
     "IntlAQSCode": "840320030024"
+  },
+  {
+    "Latitude": 34.243889,
+    "Longitude": -113.558611,
+    "UTC": "2021-08-06T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 26,
+    "Category": 1,
+    "SiteName": "Alamo Lake",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040128000",
+    "IntlAQSCode": "840040128000"
   },
   {
     "Latitude": 37.179,
