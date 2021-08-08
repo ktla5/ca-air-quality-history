@@ -564,7 +564,7 @@
     "UTC": "2021-08-08T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 24,
+    "AQI": 23,
     "Category": 1,
     "SiteName": "Santa Maria",
     "AgencyName": "Santa Barbara County Air Pollution Control District",
@@ -1532,6 +1532,19 @@
     "AgencyName": "Clark County Department of Environment and Sustainability ",
     "FullAQSCode": "320030602",
     "IntlAQSCode": "840320030602"
+  },
+  {
+    "Latitude": 32.690277,
+    "Longitude": -114.614441,
+    "UTC": "2021-08-08T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 34,
+    "Category": 1,
+    "SiteName": "Yuma Supersite",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040278011",
+    "IntlAQSCode": "840040278011"
   },
   {
     "Latitude": 36.815897,
