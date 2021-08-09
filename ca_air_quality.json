@@ -741,6 +741,19 @@
     "IntlAQSCode": "840061111004"
   },
   {
+    "Latitude": 38.247721,
+    "Longitude": -119.227452,
+    "UTC": "2021-08-09T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 93,
+    "Category": 2,
+    "SiteName": "Bridgeport EBAM",
+    "AgencyName": "Great Basin Unified Air Pollution Control District",
+    "FullAQSCode": "840MMGBU1003",
+    "IntlAQSCode": "840MMGBU1003"
+  },
+  {
     "Latitude": 34.25239,
     "Longitude": -119.14318,
     "UTC": "2021-08-09T13:00",
