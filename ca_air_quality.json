@@ -156,6 +156,19 @@
     "IntlAQSCode": "840060870007"
   },
   {
+    "Latitude": 38.3525,
+    "Longitude": -121.9617,
+    "UTC": "2021-08-16T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 64,
+    "Category": 2,
+    "SiteName": "Vacaville",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060953002",
+    "IntlAQSCode": "840060953002"
+  },
+  {
     "Latitude": 37.701222,
     "Longitude": -121.903019,
     "UTC": "2021-08-16T03:00",
@@ -219,6 +232,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "061130004",
     "IntlAQSCode": "840061130004"
+  },
+  {
+    "Latitude": 38.6619,
+    "Longitude": -121.7278,
+    "UTC": "2021-08-16T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 92,
+    "Category": 2,
+    "SiteName": "Woodland",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "061131003",
+    "IntlAQSCode": "840061131003"
   },
   {
     "Latitude": 36.694261,
