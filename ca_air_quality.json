@@ -169,6 +169,19 @@
     "IntlAQSCode": "840060870007"
   },
   {
+    "Latitude": 38.3525,
+    "Longitude": -121.9617,
+    "UTC": "2021-08-17T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 45,
+    "Category": 1,
+    "SiteName": "Vacaville",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060953002",
+    "IntlAQSCode": "840060953002"
+  },
+  {
     "Latitude": 37.701222,
     "Longitude": -121.903019,
     "UTC": "2021-08-17T01:00",
@@ -252,7 +265,7 @@
     "UTC": "2021-08-17T01:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 67,
+    "AQI": 60,
     "Category": 2,
     "SiteName": "Woodland",
     "AgencyName": "Yolo-Solano AQMD",
