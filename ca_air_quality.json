@@ -655,8 +655,8 @@
     "UTC": "2021-09-13T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 48,
-    "Category": 1,
+    "AQI": 64,
+    "Category": 2,
     "SiteName": "Fresno-Pacific",
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "840060195025",
@@ -856,6 +856,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060292009",
     "IntlAQSCode": "840060292009"
+  },
+  {
+    "Latitude": 36.489399,
+    "Longitude": -118.826897,
+    "UTC": "2021-09-13T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 385,
+    "Category": 6,
+    "SiteName": "Sequoia and Kings Canyon - Ash Mountain",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "061070009",
+    "IntlAQSCode": "840061070009"
   },
   {
     "Latitude": 36.1358,
