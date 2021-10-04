@@ -715,6 +715,19 @@
     "IntlAQSCode": "840060310004"
   },
   {
+    "Latitude": 36.33252,
+    "Longitude": -119.29095,
+    "UTC": "2021-10-04T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 219,
+    "Category": 5,
+    "SiteName": "Visalia - N. Church Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "061072002",
+    "IntlAQSCode": "840061072002"
+  },
+  {
     "Latitude": 34.44806,
     "Longitude": -119.2313,
     "UTC": "2021-10-04T13:00",
