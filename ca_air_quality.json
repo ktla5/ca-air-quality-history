@@ -200,7 +200,7 @@
     "UTC": "2021-10-23T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 14,
+    "AQI": 13,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -278,7 +278,7 @@
     "UTC": "2021-10-23T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 17,
+    "AQI": 25,
     "Category": 1,
     "SiteName": "Woodland",
     "AgencyName": "Yolo-Solano AQMD",
@@ -291,7 +291,7 @@
     "UTC": "2021-10-23T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 28,
+    "AQI": 30,
     "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -349,6 +349,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "840MMCA82025",
     "IntlAQSCode": "840MMCA82025"
+  },
+  {
+    "Latitude": 38.568535,
+    "Longitude": -121.493297,
+    "UTC": "2021-10-23T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "N/A",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840MMCA82035",
+    "IntlAQSCode": "840MMCA82035"
   },
   {
     "Latitude": 38.56844,
@@ -674,6 +687,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "840MMCA81050",
     "IntlAQSCode": "840MMCA81050"
+  },
+  {
+    "Latitude": 38.321342,
+    "Longitude": -120.251434,
+    "UTC": "2021-10-23T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "MMCA81030",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "MMCA81030",
+    "IntlAQSCode": "840MMCA81030"
   },
   {
     "Latitude": 36.1994,
@@ -1027,6 +1053,19 @@
     "IntlAQSCode": "840060510001"
   },
   {
+    "Latitude": 36.427746,
+    "Longitude": -118.912389,
+    "UTC": "2021-10-23T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "MMFS11085",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840MMFS11085",
+    "IntlAQSCode": "840MMFS11085"
+  },
+  {
     "Latitude": 34.21017,
     "Longitude": -118.87051,
     "UTC": "2021-10-23T16:00",
@@ -1246,6 +1285,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "840060290019",
     "IntlAQSCode": "840060290019"
+  },
+  {
+    "Latitude": 36.021338,
+    "Longitude": -118.13693,
+    "UTC": "2021-10-23T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "Unit1030",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "MMFS11030",
+    "IntlAQSCode": "840MMFS11030"
   },
   {
     "Latitude": 34.669589,
