@@ -200,7 +200,7 @@
     "UTC": "2021-10-25T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 27,
+    "AQI": 20,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -278,7 +278,7 @@
     "UTC": "2021-10-25T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 3,
+    "AQI": 8,
     "Category": 1,
     "SiteName": "Woodland",
     "AgencyName": "Yolo-Solano AQMD",
@@ -291,7 +291,7 @@
     "UTC": "2021-10-25T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 34,
+    "AQI": 36,
     "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -715,7 +715,7 @@
     "IntlAQSCode": "840MMCA82009"
   },
   {
-    "Latitude": 37.497947,
+    "Latitude": 37.497915,
     "Longitude": -119.981883,
     "UTC": "2021-10-25T18:00",
     "Parameter": "PM2.5",
@@ -819,8 +819,8 @@
     "IntlAQSCode": "840060830011"
   },
   {
-    "Latitude": 37.540015,
-    "Longitude": -119.658194,
+    "Latitude": 37.53994,
+    "Longitude": -119.658151,
     "UTC": "2021-10-25T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -871,8 +871,8 @@
     "IntlAQSCode": "840MMCA82039"
   },
   {
-    "Latitude": 37.233042,
-    "Longitude": -119.505672,
+    "Latitude": 37.233009,
+    "Longitude": -119.505608,
     "UTC": "2021-10-25T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -1092,8 +1092,8 @@
     "IntlAQSCode": "840061112002"
   },
   {
-    "Latitude": 36.790359,
-    "Longitude": -118.658674,
+    "Latitude": 36.790348,
+    "Longitude": -118.658652,
     "UTC": "2021-10-25T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -1131,8 +1131,8 @@
     "IntlAQSCode": "840060376012"
   },
   {
-    "Latitude": 35.755069,
-    "Longitude": -118.417511,
+    "Latitude": 35.755005,
+    "Longitude": -118.417425,
     "UTC": "2021-10-25T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
