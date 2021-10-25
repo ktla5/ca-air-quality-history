@@ -676,8 +676,8 @@
     "IntlAQSCode": "840MMCA81050"
   },
   {
-    "Latitude": 38.321332,
-    "Longitude": -120.251348,
+    "Latitude": 38.321364,
+    "Longitude": -120.251434,
     "UTC": "2021-10-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -741,7 +741,7 @@
     "IntlAQSCode": "840MMCA82009"
   },
   {
-    "Latitude": 37.497883,
+    "Latitude": 37.497947,
     "Longitude": -119.981883,
     "UTC": "2021-10-25T06:00",
     "Parameter": "PM2.5",
@@ -859,7 +859,7 @@
   },
   {
     "Latitude": 37.540015,
-    "Longitude": -119.658279,
+    "Longitude": -119.658194,
     "UTC": "2021-10-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -910,8 +910,8 @@
     "IntlAQSCode": "840MMCA82039"
   },
   {
-    "Latitude": 37.233031,
-    "Longitude": -119.505651,
+    "Latitude": 37.233042,
+    "Longitude": -119.505672,
     "UTC": "2021-10-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -949,8 +949,8 @@
     "IntlAQSCode": "840061111004"
   },
   {
-    "Latitude": 36.71589,
-    "Longitude": -119.170911,
+    "Latitude": 36.715944,
+    "Longitude": -119.170976,
     "UTC": "2021-10-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -1053,8 +1053,8 @@
     "IntlAQSCode": "840060510001"
   },
   {
-    "Latitude": 36.739193,
-    "Longitude": -118.962021,
+    "Latitude": 36.739333,
+    "Longitude": -118.962085,
     "UTC": "2021-10-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -1144,8 +1144,8 @@
     "IntlAQSCode": "840061112002"
   },
   {
-    "Latitude": 36.790327,
-    "Longitude": -118.658652,
+    "Latitude": 36.790359,
+    "Longitude": -118.658674,
     "UTC": "2021-10-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -1183,8 +1183,8 @@
     "IntlAQSCode": "840060376012"
   },
   {
-    "Latitude": 35.755026,
-    "Longitude": -118.417447,
+    "Latitude": 35.755069,
+    "Longitude": -118.417511,
     "UTC": "2021-10-25T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
