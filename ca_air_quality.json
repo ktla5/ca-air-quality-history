@@ -793,6 +793,19 @@
     "IntlAQSCode": "840060190011"
   },
   {
+    "Latitude": 37.464548,
+    "Longitude": -119.743466,
+    "UTC": "2021-10-26T04:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "N/A",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840MMCA82036",
+    "IntlAQSCode": "840MMCA82036"
+  },
+  {
     "Latitude": 36.72622,
     "Longitude": -119.73249,
     "UTC": "2021-10-26T04:00",
@@ -882,6 +895,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060310004",
     "IntlAQSCode": "840060310004"
+  },
+  {
+    "Latitude": 34.390222,
+    "Longitude": -119.506381,
+    "UTC": "2021-10-26T04:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "MMCA82039",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840MMCA82039",
+    "IntlAQSCode": "840MMCA82039"
   },
   {
     "Latitude": 37.233009,
