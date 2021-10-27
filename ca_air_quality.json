@@ -806,19 +806,6 @@
     "IntlAQSCode": "840060190011"
   },
   {
-    "Latitude": 37.464548,
-    "Longitude": -119.743466,
-    "UTC": "2021-10-27T04:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "N/A",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82036",
-    "IntlAQSCode": "840MMCA82036"
-  },
-  {
     "Latitude": 36.72622,
     "Longitude": -119.73249,
     "UTC": "2021-10-27T04:00",
