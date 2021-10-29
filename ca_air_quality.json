@@ -369,7 +369,7 @@
     "UTC": "2021-10-29T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 71,
+    "AQI": 73,
     "Category": 2,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -728,8 +728,8 @@
     "IntlAQSCode": "840MMCA82009"
   },
   {
-    "Latitude": 37.497915,
-    "Longitude": -119.981925,
+    "Latitude": 37.497936,
+    "Longitude": -119.981947,
     "UTC": "2021-10-29T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -845,8 +845,8 @@
     "IntlAQSCode": "840060830011"
   },
   {
-    "Latitude": 37.539876,
-    "Longitude": -119.658151,
+    "Latitude": 37.540004,
+    "Longitude": -119.658215,
     "UTC": "2021-10-29T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -897,8 +897,21 @@
     "IntlAQSCode": "840060310004"
   },
   {
-    "Latitude": 37.233052,
-    "Longitude": -119.505672,
+    "Latitude": 34.390222,
+    "Longitude": -119.506423,
+    "UTC": "2021-10-29T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "MMCA82039",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840MMCA82039",
+    "IntlAQSCode": "840MMCA82039"
+  },
+  {
+    "Latitude": 37.23302,
+    "Longitude": -119.505694,
     "UTC": "2021-10-29T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -936,7 +949,7 @@
     "IntlAQSCode": "840061111004"
   },
   {
-    "Latitude": 36.715869,
+    "Latitude": 36.715847,
     "Longitude": -119.170911,
     "UTC": "2021-10-29T06:00",
     "Parameter": "PM2.5",
@@ -1040,8 +1053,8 @@
     "IntlAQSCode": "840060510001"
   },
   {
-    "Latitude": 36.739225,
-    "Longitude": -118.962021,
+    "Latitude": 36.7393,
+    "Longitude": -118.962107,
     "UTC": "2021-10-29T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -1157,7 +1170,7 @@
     "IntlAQSCode": "840061112002"
   },
   {
-    "Latitude": 36.790327,
+    "Latitude": 36.790359,
     "Longitude": -118.658695,
     "UTC": "2021-10-29T06:00",
     "Parameter": "PM2.5",
@@ -1196,8 +1209,8 @@
     "IntlAQSCode": "840060376012"
   },
   {
-    "Latitude": 35.755037,
-    "Longitude": -118.417447,
+    "Latitude": 35.75508,
+    "Longitude": -118.41749,
     "UTC": "2021-10-29T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -1578,8 +1591,8 @@
     "UTC": "2021-10-29T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 113,
-    "Category": 3,
+    "AQI": 80,
+    "Category": 2,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060250005",
