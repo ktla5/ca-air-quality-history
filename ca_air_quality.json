@@ -481,6 +481,19 @@
     "IntlAQSCode": "840060990005"
   },
   {
+    "Latitude": 35.36639,
+    "Longitude": -120.8426,
+    "UTC": "2021-10-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Morro Bay",
+    "AgencyName": "San Luis Obispo County APCD",
+    "FullAQSCode": "060793001",
+    "IntlAQSCode": "840060793001"
+  },
+  {
     "Latitude": 37.4883,
     "Longitude": -120.8358,
     "UTC": "2021-10-29T01:00",
@@ -505,6 +518,58 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060090001",
     "IntlAQSCode": "840060090001"
+  },
+  {
+    "Latitude": 35.494556,
+    "Longitude": -120.666203,
+    "UTC": "2021-10-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 52,
+    "Category": 2,
+    "SiteName": "Atascadero2",
+    "AgencyName": "San Luis Obispo County APCD",
+    "FullAQSCode": "060798002",
+    "IntlAQSCode": "840060798002"
+  },
+  {
+    "Latitude": 35.259473,
+    "Longitude": -120.644493,
+    "UTC": "2021-10-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 28,
+    "Category": 1,
+    "SiteName": "SLO Roberto",
+    "AgencyName": "San Luis Obispo County APCD",
+    "FullAQSCode": "840060792020",
+    "IntlAQSCode": "840060792020"
+  },
+  {
+    "Latitude": 35.04676,
+    "Longitude": -120.58777,
+    "UTC": "2021-10-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 23,
+    "Category": 1,
+    "SiteName": "Nipomo Mesa CDF",
+    "AgencyName": "San Luis Obispo County APCD",
+    "FullAQSCode": "060792007",
+    "IntlAQSCode": "840060792007"
+  },
+  {
+    "Latitude": 35.02079,
+    "Longitude": -120.56389,
+    "UTC": "2021-10-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 23,
+    "Category": 1,
+    "SiteName": "Mesa 2 /Nipomo",
+    "AgencyName": "San Luis Obispo County APCD",
+    "FullAQSCode": "060792004",
+    "IntlAQSCode": "840060792004"
   },
   {
     "Latitude": 37.30833,
@@ -661,6 +726,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060190011",
     "IntlAQSCode": "840060190011"
+  },
+  {
+    "Latitude": 37.464548,
+    "Longitude": -119.743466,
+    "UTC": "2021-10-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "N/A",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840MMCA82036",
+    "IntlAQSCode": "840MMCA82036"
   },
   {
     "Latitude": 36.72622,
