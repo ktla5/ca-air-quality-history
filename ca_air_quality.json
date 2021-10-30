@@ -187,7 +187,7 @@
     "UTC": "2021-10-30T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 12,
+    "AQI": 8,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -278,7 +278,7 @@
     "UTC": "2021-10-30T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 3,
+    "AQI": 0,
     "Category": 1,
     "SiteName": "Woodland",
     "AgencyName": "Yolo-Solano AQMD",
@@ -291,7 +291,7 @@
     "UTC": "2021-10-30T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 14,
+    "AQI": 20,
     "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -715,8 +715,8 @@
     "IntlAQSCode": "840MMCA82009"
   },
   {
-    "Latitude": 37.497936,
-    "Longitude": -119.981925,
+    "Latitude": 37.497958,
+    "Longitude": -119.981904,
     "UTC": "2021-10-30T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -832,8 +832,8 @@
     "IntlAQSCode": "840060830011"
   },
   {
-    "Latitude": 37.540026,
-    "Longitude": -119.658237,
+    "Latitude": 37.539918,
+    "Longitude": -119.658129,
     "UTC": "2021-10-30T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -897,8 +897,8 @@
     "IntlAQSCode": "840MMCA82039"
   },
   {
-    "Latitude": 37.23302,
-    "Longitude": -119.505672,
+    "Latitude": 37.233052,
+    "Longitude": -119.505565,
     "UTC": "2021-10-30T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -936,8 +936,8 @@
     "IntlAQSCode": "840061111004"
   },
   {
-    "Latitude": 36.71589,
-    "Longitude": -119.170997,
+    "Latitude": 36.715901,
+    "Longitude": -119.170954,
     "UTC": "2021-10-30T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -1027,8 +1027,8 @@
     "IntlAQSCode": "840060510001"
   },
   {
-    "Latitude": 36.739279,
-    "Longitude": -118.962107,
+    "Latitude": 36.739247,
+    "Longitude": -118.962042,
     "UTC": "2021-10-30T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -1118,8 +1118,8 @@
     "IntlAQSCode": "840061112002"
   },
   {
-    "Latitude": 36.790348,
-    "Longitude": -118.658695,
+    "Latitude": 36.790327,
+    "Longitude": -118.658674,
     "UTC": "2021-10-30T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
