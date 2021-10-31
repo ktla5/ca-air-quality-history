@@ -728,7 +728,7 @@
     "IntlAQSCode": "840MMCA82009"
   },
   {
-    "Latitude": 37.497969,
+    "Latitude": 37.497915,
     "Longitude": -119.981904,
     "UTC": "2021-10-31T18:00",
     "Parameter": "PM2.5",
@@ -897,7 +897,7 @@
     "IntlAQSCode": "840MMCA82039"
   },
   {
-    "Latitude": 37.233031,
+    "Latitude": 37.233074,
     "Longitude": -119.505651,
     "UTC": "2021-10-31T18:00",
     "Parameter": "PM2.5",
@@ -936,7 +936,7 @@
     "IntlAQSCode": "840061111004"
   },
   {
-    "Latitude": 36.715837,
+    "Latitude": 36.71589,
     "Longitude": -119.170933,
     "UTC": "2021-10-31T18:00",
     "Parameter": "PM2.5",
@@ -1040,7 +1040,7 @@
     "IntlAQSCode": "840060510001"
   },
   {
-    "Latitude": 36.739311,
+    "Latitude": 36.739225,
     "Longitude": -118.962064,
     "UTC": "2021-10-31T18:00",
     "Parameter": "PM2.5",
