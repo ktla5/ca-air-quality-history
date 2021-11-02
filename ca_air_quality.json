@@ -715,6 +715,19 @@
     "IntlAQSCode": "840060392010"
   },
   {
+    "Latitude": 37.497894,
+    "Longitude": -119.981818,
+    "UTC": "2021-11-02T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "MariposaUnit1000",
+    "AgencyName": "Mariposa County",
+    "FullAQSCode": "MMMPC1000",
+    "IntlAQSCode": "840MMMPC1000"
+  },
+  {
     "Latitude": 34.445301,
     "Longitude": -119.827797,
     "UTC": "2021-11-02T16:00",
