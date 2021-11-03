@@ -598,8 +598,8 @@
     "IntlAQSCode": "840MMCA82009"
   },
   {
-    "Latitude": 37.498001,
-    "Longitude": -119.98199,
+    "Latitude": 37.497894,
+    "Longitude": -119.981968,
     "UTC": "2021-11-03T08:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
