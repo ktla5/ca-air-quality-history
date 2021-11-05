@@ -338,6 +338,19 @@
     "IntlAQSCode": "840060850002"
   },
   {
+    "Latitude": 38.56095,
+    "Longitude": -121.507094,
+    "UTC": "2021-11-05T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "MMCA82059",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840MMCA82059",
+    "IntlAQSCode": "840MMCA82059"
+  },
+  {
     "Latitude": 38.593328,
     "Longitude": -121.503728,
     "UTC": "2021-11-05T19:00",
@@ -1025,19 +1038,6 @@
     "AgencyName": "Great Basin Unified Air Pollution Control District",
     "FullAQSCode": "060510001",
     "IntlAQSCode": "840060510001"
-  },
-  {
-    "Latitude": 36.788106,
-    "Longitude": -118.916466,
-    "UTC": "2021-11-05T19:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "MMCA82059",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82059",
-    "IntlAQSCode": "840MMCA82059"
   },
   {
     "Latitude": 34.21017,
