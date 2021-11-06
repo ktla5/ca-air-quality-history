@@ -70,7 +70,7 @@
     "UTC": "2021-11-06T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 50,
+    "AQI": 44,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -122,7 +122,7 @@
     "UTC": "2021-11-06T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 26,
+    "AQI": 23,
     "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -531,6 +531,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "840MMCA82009",
     "IntlAQSCode": "840MMCA82009"
+  },
+  {
+    "Latitude": 37.497829,
+    "Longitude": -119.981883,
+    "UTC": "2021-11-06T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "MariposaUnit1000",
+    "AgencyName": "Mariposa County",
+    "FullAQSCode": "MMMPC1000",
+    "IntlAQSCode": "840MMMPC1000"
   },
   {
     "Latitude": 34.445301,
@@ -1324,6 +1337,19 @@
     "AgencyName": "Baja California",
     "FullAQSCode": "800020014",
     "IntlAQSCode": "484800020014"
+  },
+  {
+    "Latitude": 32.67618,
+    "Longitude": -115.48307,
+    "UTC": "2021-11-06T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 105,
+    "Category": 3,
+    "SiteName": "Calexico - Ethel Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060250005",
+    "IntlAQSCode": "840060250005"
   },
   {
     "Latitude": 32.6292,
