@@ -195,6 +195,19 @@
     "IntlAQSCode": "840060870007"
   },
   {
+    "Latitude": 38.3525,
+    "Longitude": -121.9617,
+    "UTC": "2021-11-06T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 57,
+    "Category": 2,
+    "SiteName": "Vacaville",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060953002",
+    "IntlAQSCode": "840060953002"
+  },
+  {
     "Latitude": 37.701222,
     "Longitude": -121.903019,
     "UTC": "2021-11-06T07:00",
@@ -271,6 +284,32 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060530002",
     "IntlAQSCode": "840060530002"
+  },
+  {
+    "Latitude": 38.6619,
+    "Longitude": -121.7278,
+    "UTC": "2021-11-06T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "Woodland",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "061131003",
+    "IntlAQSCode": "840061131003"
+  },
+  {
+    "Latitude": 38.18839,
+    "Longitude": -121.70564,
+    "UTC": "2021-11-06T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 32,
+    "Category": 1,
+    "SiteName": "Rio Vista",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060959999",
+    "IntlAQSCode": "840060959999"
   },
   {
     "Latitude": 36.694261,
@@ -856,6 +895,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060310004",
     "IntlAQSCode": "840060310004"
+  },
+  {
+    "Latitude": 34.390554,
+    "Longitude": -119.506423,
+    "UTC": "2021-11-06T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "MMCA82039",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840MMCA82039",
+    "IntlAQSCode": "840MMCA82039"
   },
   {
     "Latitude": 37.233042,
@@ -1500,8 +1552,8 @@
     "UTC": "2021-11-06T07:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 79,
-    "Category": 2,
+    "AQI": 104,
+    "Category": 3,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060250005",
