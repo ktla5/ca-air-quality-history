@@ -200,7 +200,7 @@
     "UTC": "2021-11-06T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 19,
+    "AQI": 24,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -291,7 +291,7 @@
     "UTC": "2021-11-06T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 32,
+    "AQI": 26,
     "Category": 1,
     "SiteName": "Woodland",
     "AgencyName": "Yolo-Solano AQMD",
@@ -304,7 +304,7 @@
     "UTC": "2021-11-06T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 22,
+    "AQI": 30,
     "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -715,6 +715,19 @@
     "IntlAQSCode": "840MMCA82009"
   },
   {
+    "Latitude": 37.498022,
+    "Longitude": -119.981797,
+    "UTC": "2021-11-06T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "MariposaUnit1000",
+    "AgencyName": "Mariposa County",
+    "FullAQSCode": "MMMPC1000",
+    "IntlAQSCode": "840MMMPC1000"
+  },
+  {
     "Latitude": 34.445301,
     "Longitude": -119.827797,
     "UTC": "2021-11-06T03:00",
@@ -869,6 +882,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060310004",
     "IntlAQSCode": "840060310004"
+  },
+  {
+    "Latitude": 34.390554,
+    "Longitude": -119.506423,
+    "UTC": "2021-11-06T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "MMCA82039",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840MMCA82039",
+    "IntlAQSCode": "840MMCA82039"
   },
   {
     "Latitude": 37.233009,
