@@ -585,7 +585,7 @@
     "IntlAQSCode": "840MMCA82009"
   },
   {
-    "Latitude": 37.497872,
+    "Latitude": 37.498001,
     "Longitude": -119.981861,
     "UTC": "2021-11-08T18:00",
     "Parameter": "PM2.5",
@@ -702,8 +702,8 @@
     "IntlAQSCode": "840060830011"
   },
   {
-    "Latitude": 37.540015,
-    "Longitude": -119.658237,
+    "Latitude": 37.539961,
+    "Longitude": -119.658215,
     "UTC": "2021-11-08T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -767,8 +767,8 @@
     "IntlAQSCode": "840MMCA82039"
   },
   {
-    "Latitude": 37.23302,
-    "Longitude": -119.50563,
+    "Latitude": 37.233009,
+    "Longitude": -119.505651,
     "UTC": "2021-11-08T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
@@ -806,7 +806,7 @@
     "IntlAQSCode": "840061111004"
   },
   {
-    "Latitude": 36.71589,
+    "Latitude": 36.715879,
     "Longitude": -119.170933,
     "UTC": "2021-11-08T18:00",
     "Parameter": "PM2.5",
@@ -1038,6 +1038,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "060376012",
     "IntlAQSCode": "840060376012"
+  },
+  {
+    "Latitude": 35.75508,
+    "Longitude": -118.417468,
+    "UTC": "2021-11-08T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": 0,
+    "SiteName": "Unit1051",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "MMFS11051",
+    "IntlAQSCode": "840MMFS11051"
   },
   {
     "Latitude": 37.3667,
