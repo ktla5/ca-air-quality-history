@@ -533,6 +533,19 @@
     "IntlAQSCode": "840060793001"
   },
   {
+    "Latitude": 37.4883,
+    "Longitude": -120.8358,
+    "UTC": "2021-11-18T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 89,
+    "Category": 2,
+    "SiteName": "Turlock - S. Minaret Street",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060990006",
+    "IntlAQSCode": "840060990006"
+  },
+  {
     "Latitude": 38.20185,
     "Longitude": -120.680277,
     "UTC": "2021-11-18T21:00",
