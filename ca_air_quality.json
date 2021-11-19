@@ -2,7 +2,7 @@
   {
     "Latitude": 38.403765,
     "Longitude": -122.818294,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 54,
@@ -15,7 +15,7 @@
   {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 27,
@@ -28,7 +28,7 @@
   {
     "Latitude": 37.7658,
     "Longitude": -122.3978,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 70,
@@ -41,7 +41,7 @@
   {
     "Latitude": 37.9604,
     "Longitude": -122.3571,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 54,
@@ -54,7 +54,7 @@
   {
     "Latitude": 37.8148,
     "Longitude": -122.282402,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 68,
@@ -65,22 +65,9 @@
     "IntlAQSCode": "840060010011"
   },
   {
-    "Latitude": 37.793624,
-    "Longitude": -122.263376,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 57,
-    "Category": 2,
-    "SiteName": "Laney College",
-    "AgencyName": "San Francisco Bay Area AQMD",
-    "FullAQSCode": "060010012",
-    "IntlAQSCode": "840060010012"
-  },
-  {
     "Latitude": 38.102507,
     "Longitude": -122.237976,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 55,
@@ -93,7 +80,7 @@
   {
     "Latitude": 37.4828,
     "Longitude": -122.2022,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 55,
@@ -106,7 +93,7 @@
   {
     "Latitude": 37.743061,
     "Longitude": -122.169907,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 69,
@@ -119,7 +106,7 @@
   {
     "Latitude": 37.125861,
     "Longitude": -122.122127,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 23,
@@ -132,7 +119,7 @@
   {
     "Latitude": 37.06315,
     "Longitude": -122.083092,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 20,
@@ -145,7 +132,7 @@
   {
     "Latitude": 37.0481,
     "Longitude": -122.074603,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 21,
@@ -158,7 +145,7 @@
   {
     "Latitude": 37.067003,
     "Longitude": -122.057206,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 32,
@@ -171,7 +158,7 @@
   {
     "Latitude": 37.9383,
     "Longitude": -122.025,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 59,
@@ -184,7 +171,7 @@
   {
     "Latitude": 36.98332,
     "Longitude": -121.98822,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 46,
@@ -197,7 +184,7 @@
   {
     "Latitude": 38.3525,
     "Longitude": -121.9617,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 79,
@@ -210,7 +197,7 @@
   {
     "Latitude": 37.701222,
     "Longitude": -121.903019,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 71,
@@ -223,7 +210,7 @@
   {
     "Latitude": 37.3483,
     "Longitude": -121.8947,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 67,
@@ -236,7 +223,7 @@
   {
     "Latitude": 37.338202,
     "Longitude": -121.849892,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 75,
@@ -249,7 +236,7 @@
   {
     "Latitude": 37.687526,
     "Longitude": -121.784217,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 69,
@@ -262,7 +249,7 @@
   {
     "Latitude": 38.53455,
     "Longitude": -121.7734,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 72,
@@ -275,7 +262,7 @@
   {
     "Latitude": 36.48187,
     "Longitude": -121.73333,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 3,
@@ -288,7 +275,7 @@
   {
     "Latitude": 38.6619,
     "Longitude": -121.7278,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 74,
@@ -301,7 +288,7 @@
   {
     "Latitude": 38.18839,
     "Longitude": -121.70564,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 64,
@@ -314,7 +301,7 @@
   {
     "Latitude": 36.694261,
     "Longitude": -121.623271,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 40,
@@ -327,7 +314,7 @@
   {
     "Latitude": 36.999571,
     "Longitude": -121.574684,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 66,
@@ -340,7 +327,7 @@
   {
     "Latitude": 38.593328,
     "Longitude": -121.503728,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 72,
@@ -351,35 +338,9 @@
     "IntlAQSCode": "840060670015"
   },
   {
-    "Latitude": 38.568449,
-    "Longitude": -121.493297,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "MMCA82025",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82025",
-    "IntlAQSCode": "840MMCA82025"
-  },
-  {
-    "Latitude": 38.568481,
-    "Longitude": -121.493297,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "N/A",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82035",
-    "IntlAQSCode": "840MMCA82035"
-  },
-  {
     "Latitude": 38.56844,
     "Longitude": -121.49311,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 63,
@@ -392,7 +353,7 @@
   {
     "Latitude": 37.6825,
     "Longitude": -121.4406,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 81,
@@ -405,7 +366,7 @@
   {
     "Latitude": 38.302591,
     "Longitude": -121.420838,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 60,
@@ -418,7 +379,7 @@
   {
     "Latitude": 38.613804,
     "Longitude": -121.368007,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 77,
@@ -431,7 +392,7 @@
   {
     "Latitude": 36.843425,
     "Longitude": -121.3621,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 27,
@@ -444,7 +405,7 @@
   {
     "Latitude": 37.961578,
     "Longitude": -121.281414,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 69,
@@ -457,7 +418,7 @@
   {
     "Latitude": 38.74643,
     "Longitude": -121.26498,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 82,
@@ -470,7 +431,7 @@
   {
     "Latitude": 37.8027,
     "Longitude": -121.2208,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 85,
@@ -483,7 +444,7 @@
   {
     "Latitude": 38.683304,
     "Longitude": -121.164457,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 76,
@@ -496,7 +457,7 @@
   {
     "Latitude": 36.209286,
     "Longitude": -121.126371,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 31,
@@ -509,7 +470,7 @@
   {
     "Latitude": 37.642165,
     "Longitude": -120.994212,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 107,
@@ -522,7 +483,7 @@
   {
     "Latitude": 35.36639,
     "Longitude": -120.8426,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 0,
@@ -533,22 +494,9 @@
     "IntlAQSCode": "840060793001"
   },
   {
-    "Latitude": 37.4883,
-    "Longitude": -120.8358,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 112,
-    "Category": 3,
-    "SiteName": "Turlock - S. Minaret Street",
-    "AgencyName": "San Joaquin Valley Unified APCD",
-    "FullAQSCode": "060990006",
-    "IntlAQSCode": "840060990006"
-  },
-  {
     "Latitude": 38.20185,
     "Longitude": -120.680277,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 59,
@@ -561,7 +509,7 @@
   {
     "Latitude": 35.494556,
     "Longitude": -120.666203,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 31,
@@ -574,7 +522,7 @@
   {
     "Latitude": 35.259473,
     "Longitude": -120.644493,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 25,
@@ -587,7 +535,7 @@
   {
     "Latitude": 35.04676,
     "Longitude": -120.58777,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 47,
@@ -600,7 +548,7 @@
   {
     "Latitude": 35.02079,
     "Longitude": -120.56389,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 31,
@@ -613,7 +561,7 @@
   {
     "Latitude": 37.30833,
     "Longitude": -120.480361,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 105,
@@ -626,7 +574,7 @@
   {
     "Latitude": 34.637798,
     "Longitude": -120.456703,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 41,
@@ -639,7 +587,7 @@
   {
     "Latitude": 37.2817,
     "Longitude": -120.433601,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 95,
@@ -652,7 +600,7 @@
   {
     "Latitude": 34.890667,
     "Longitude": -120.432844,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 21,
@@ -665,7 +613,7 @@
   {
     "Latitude": 36.6324,
     "Longitude": -120.3822,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 97,
@@ -676,35 +624,9 @@
     "IntlAQSCode": "840060192009"
   },
   {
-    "Latitude": 38.258128,
-    "Longitude": -120.355031,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "MMCA81050",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA81050",
-    "IntlAQSCode": "840MMCA81050"
-  },
-  {
-    "Latitude": 34.664483,
-    "Longitude": -120.109899,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "MMCA82053",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82053",
-    "IntlAQSCode": "840MMCA82053"
-  },
-  {
     "Latitude": 36.1994,
     "Longitude": -120.0991,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 80,
@@ -715,25 +637,12 @@
     "IntlAQSCode": "840060192008"
   },
   {
-    "Latitude": 34.605819,
-    "Longitude": -120.07506,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 33,
-    "Category": 1,
-    "SiteName": "Santa Ynez",
-    "AgencyName": "Santa Barbara County Air Pollution Control District",
-    "FullAQSCode": "060833001",
-    "IntlAQSCode": "840060833001"
-  },
-  {
     "Latitude": 36.9533,
     "Longitude": -120.0341,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 89,
+    "AQI": 92,
     "Category": 2,
     "SiteName": "Madera-City",
     "AgencyName": "San Joaquin Valley Unified APCD",
@@ -741,22 +650,9 @@
     "IntlAQSCode": "840060392010"
   },
   {
-    "Latitude": 37.442951,
-    "Longitude": -119.993405,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "MMCA82009",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82009",
-    "IntlAQSCode": "840MMCA82009"
-  },
-  {
     "Latitude": 34.445301,
     "Longitude": -119.827797,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 31,
@@ -769,7 +665,7 @@
   {
     "Latitude": 36.71088,
     "Longitude": -119.77743,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 102,
@@ -782,7 +678,7 @@
   {
     "Latitude": 36.78538,
     "Longitude": -119.77321,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 82,
@@ -793,22 +689,9 @@
     "IntlAQSCode": "840060190011"
   },
   {
-    "Latitude": 37.464559,
-    "Longitude": -119.743488,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "N/A",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82036",
-    "IntlAQSCode": "840MMCA82036"
-  },
-  {
     "Latitude": 36.72622,
     "Longitude": -119.73249,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 128,
@@ -821,7 +704,7 @@
   {
     "Latitude": 36.819199,
     "Longitude": -119.7164,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 75,
@@ -832,22 +715,9 @@
     "IntlAQSCode": "840060195001"
   },
   {
-    "Latitude": 34.944291,
-    "Longitude": -119.691517,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "MMCA82034",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82034",
-    "IntlAQSCode": "840MMCA82034"
-  },
-  {
     "Latitude": 34.42775,
     "Longitude": -119.69091,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 28,
@@ -860,7 +730,7 @@
   {
     "Latitude": 36.3144,
     "Longitude": -119.6436,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 86,
@@ -873,7 +743,7 @@
   {
     "Latitude": 37.748707,
     "Longitude": -119.587094,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 28,
@@ -886,10 +756,10 @@
   {
     "Latitude": 36.102219,
     "Longitude": -119.566002,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 79,
+    "AQI": 78,
     "Category": 2,
     "SiteName": "Corcoran",
     "AgencyName": "San Joaquin Valley Unified APCD",
@@ -897,22 +767,9 @@
     "IntlAQSCode": "840060310004"
   },
   {
-    "Latitude": 34.390211,
-    "Longitude": -119.506402,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "MMCA82039",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82039",
-    "IntlAQSCode": "840MMCA82039"
-  },
-  {
     "Latitude": 36.33252,
     "Longitude": -119.29095,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 76,
@@ -925,7 +782,7 @@
   {
     "Latitude": 34.44806,
     "Longitude": -119.2313,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 20,
@@ -938,7 +795,7 @@
   {
     "Latitude": 34.25239,
     "Longitude": -119.14318,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 22,
@@ -951,7 +808,7 @@
   {
     "Latitude": 37.962069,
     "Longitude": -119.120278,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 10,
@@ -962,22 +819,9 @@
     "IntlAQSCode": "840060510005"
   },
   {
-    "Latitude": 36.414571,
-    "Longitude": -119.104264,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "N/A",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82046",
-    "IntlAQSCode": "840MMCA82046"
-  },
-  {
     "Latitude": 35.356615,
     "Longitude": -119.062613,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 79,
@@ -990,7 +834,7 @@
   {
     "Latitude": 36.0319,
     "Longitude": -119.055,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 78,
@@ -1003,7 +847,7 @@
   {
     "Latitude": 36.6972,
     "Longitude": -119.0189,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 0,
@@ -1016,7 +860,7 @@
   {
     "Latitude": 35.3853,
     "Longitude": -119.014702,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 99,
@@ -1029,7 +873,7 @@
   {
     "Latitude": 37.645718,
     "Longitude": -118.966515,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 5,
@@ -1042,7 +886,7 @@
   {
     "Latitude": 34.21017,
     "Longitude": -118.87051,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 32,
@@ -1053,22 +897,9 @@
     "IntlAQSCode": "840061110007"
   },
   {
-    "Latitude": 34.8416,
-    "Longitude": -118.8647,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 0,
-    "Category": 1,
-    "SiteName": "Lebec",
-    "AgencyName": "San Joaquin Valley Unified APCD",
-    "FullAQSCode": "060292009",
-    "IntlAQSCode": "840060292009"
-  },
-  {
     "Latitude": 36.489399,
     "Longitude": -118.826897,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 22,
@@ -1081,10 +912,10 @@
   {
     "Latitude": 36.1358,
     "Longitude": -118.8108,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 62,
+    "AQI": 63,
     "Category": 2,
     "SiteName": "Springville",
     "AgencyName": "Forest Service",
@@ -1094,7 +925,7 @@
   {
     "Latitude": 34.40428,
     "Longitude": -118.80998,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 15,
@@ -1107,7 +938,7 @@
   {
     "Latitude": 34.27632,
     "Longitude": -118.68369,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 36,
@@ -1120,7 +951,7 @@
   {
     "Latitude": 34.1992,
     "Longitude": -118.5331,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 58,
@@ -1133,7 +964,7 @@
   {
     "Latitude": 34.3833,
     "Longitude": -118.5283,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 79,
@@ -1146,7 +977,7 @@
   {
     "Latitude": 37.3667,
     "Longitude": -118.4167,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 80,
@@ -1159,7 +990,7 @@
   {
     "Latitude": 34.181977,
     "Longitude": -118.363036,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 85,
@@ -1172,7 +1003,7 @@
   {
     "Latitude": 37.360701,
     "Longitude": -118.330835,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 15,
@@ -1185,7 +1016,7 @@
   {
     "Latitude": 34.066429,
     "Longitude": -118.226755,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 111,
@@ -1198,7 +1029,7 @@
   {
     "Latitude": 33.9014,
     "Longitude": -118.205,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 111,
@@ -1211,7 +1042,7 @@
   {
     "Latitude": 33.792221,
     "Longitude": -118.175278,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 114,
@@ -1224,7 +1055,7 @@
   {
     "Latitude": 35.046528,
     "Longitude": -118.162833,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 22,
@@ -1237,7 +1068,7 @@
   {
     "Latitude": 34.669589,
     "Longitude": -118.130689,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 58,
@@ -1250,7 +1081,7 @@
   {
     "Latitude": 33.830586,
     "Longitude": -117.938509,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 122,
@@ -1263,7 +1094,7 @@
   {
     "Latitude": 36.4878,
     "Longitude": -117.871,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 8,
@@ -1274,22 +1105,9 @@
     "IntlAQSCode": "840060271003"
   },
   {
-    "Latitude": 34.1439,
-    "Longitude": -117.8508,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 67,
-    "Category": 2,
-    "SiteName": "Glendora - Laurel",
-    "AgencyName": "South Coast AQMD",
-    "FullAQSCode": "060370016",
-    "IntlAQSCode": "840060370016"
-  },
-  {
     "Latitude": 33.629991,
     "Longitude": -117.675875,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 73,
@@ -1302,7 +1120,7 @@
   {
     "Latitude": 34.10366,
     "Longitude": -117.629096,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 58,
@@ -1315,7 +1133,7 @@
   {
     "Latitude": 33.999449,
     "Longitude": -117.415831,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 66,
@@ -1328,7 +1146,7 @@
   {
     "Latitude": 33.217026,
     "Longitude": -117.396156,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 60,
@@ -1341,7 +1159,7 @@
   {
     "Latitude": 34.510955,
     "Longitude": -117.32555,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 59,
@@ -1354,7 +1172,7 @@
   {
     "Latitude": 34.243132,
     "Longitude": -117.272275,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 8,
@@ -1367,7 +1185,7 @@
   {
     "Latitude": 32.710177,
     "Longitude": -117.142665,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 70,
@@ -1380,7 +1198,7 @@
   {
     "Latitude": 33.583099,
     "Longitude": -117.072197,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 15,
@@ -1393,7 +1211,7 @@
   {
     "Latitude": 32.523366,
     "Longitude": -116.952495,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 109,
@@ -1406,7 +1224,7 @@
   {
     "Latitude": 32.789561,
     "Longitude": -116.944222,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 56,
@@ -1419,7 +1237,7 @@
   {
     "Latitude": 32.579361,
     "Longitude": -116.929486,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 69,
@@ -1432,7 +1250,7 @@
   {
     "Latitude": 33.920758,
     "Longitude": -116.858419,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 25,
@@ -1445,7 +1263,7 @@
   {
     "Latitude": 32.842297,
     "Longitude": -116.768326,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 10,
@@ -1458,7 +1276,7 @@
   {
     "Latitude": 33.708566,
     "Longitude": -116.215394,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 53,
@@ -1471,7 +1289,7 @@
   {
     "Latitude": 33.71969,
     "Longitude": -116.1897,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 29,
@@ -1482,22 +1300,9 @@
     "IntlAQSCode": "840TT5980500"
   },
   {
-    "Latitude": 32.978298,
-    "Longitude": -115.5383,
-    "UTC": "2021-11-19T15:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 10,
-    "Category": 1,
-    "SiteName": "Brawley - 220 Main Street",
-    "AgencyName": "Imperial County Air Pollution Control District",
-    "FullAQSCode": "060250007",
-    "IntlAQSCode": "840060250007"
-  },
-  {
     "Latitude": 32.6336,
     "Longitude": -115.5042,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 159,
@@ -1510,7 +1315,7 @@
   {
     "Latitude": 32.67618,
     "Longitude": -115.48307,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 91,
@@ -1523,7 +1328,7 @@
   {
     "Latitude": 32.6292,
     "Longitude": -115.4469,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 123,
@@ -1536,7 +1341,7 @@
   {
     "Latitude": 35.785665,
     "Longitude": -115.357087,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 13,
@@ -1549,7 +1354,7 @@
   {
     "Latitude": 36.173415,
     "Longitude": -115.332728,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 21,
@@ -1562,7 +1367,7 @@
   {
     "Latitude": 36.0075,
     "Longitude": -115.263056,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 18,
@@ -1575,7 +1380,7 @@
   {
     "Latitude": 36.169756,
     "Longitude": -115.263038,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 21,
@@ -1588,7 +1393,7 @@
   {
     "Latitude": 36.106389,
     "Longitude": -115.253333,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 30,
@@ -1601,7 +1406,7 @@
   {
     "Latitude": 36.270592,
     "Longitude": -115.238282,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 26,
@@ -1614,7 +1419,7 @@
   {
     "Latitude": 36.139707,
     "Longitude": -115.175654,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 44,
@@ -1627,7 +1432,7 @@
   {
     "Latitude": 35.987908,
     "Longitude": -115.14885,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 30,
@@ -1640,7 +1445,7 @@
   {
     "Latitude": 36.174365,
     "Longitude": -115.13977,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 112,
@@ -1653,7 +1458,7 @@
   {
     "Latitude": 36.163962,
     "Longitude": -115.11393,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 74,
@@ -1666,7 +1471,7 @@
   {
     "Latitude": 36.214465,
     "Longitude": -115.091437,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 55,
@@ -1679,10 +1484,10 @@
   {
     "Latitude": 36.141875,
     "Longitude": -115.078742,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 71,
+    "AQI": 72,
     "Category": 2,
     "SiteName": "Jerome Mack",
     "AgencyName": "Clark County Department of Environment and Sustainability ",
@@ -1692,7 +1497,7 @@
   {
     "Latitude": 36.048705,
     "Longitude": -115.052942,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 28,
@@ -1705,7 +1510,7 @@
   {
     "Latitude": 35.969848,
     "Longitude": -114.835007,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 20,
@@ -1718,7 +1523,7 @@
   {
     "Latitude": 36.815897,
     "Longitude": -114.050347,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 19,
@@ -1731,7 +1536,7 @@
   {
     "Latitude": 34.243889,
     "Longitude": -113.558611,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 18,
@@ -1744,7 +1549,7 @@
   {
     "Latitude": 37.179,
     "Longitude": -113.3052,
-    "UTC": "2021-11-19T15:00",
+    "UTC": "2021-11-19T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
     "AQI": 22,
