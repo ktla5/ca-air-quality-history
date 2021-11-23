@@ -806,6 +806,19 @@
     "IntlAQSCode": "840060830011"
   },
   {
+    "Latitude": 36.3144,
+    "Longitude": -119.6436,
+    "UTC": "2021-11-23T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 66,
+    "Category": 2,
+    "SiteName": "Hanford - S. Irwin Street",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060311004",
+    "IntlAQSCode": "840060311004"
+  },
+  {
     "Latitude": 37.748707,
     "Longitude": -119.587094,
     "UTC": "2021-11-23T20:00",
