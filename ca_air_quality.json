@@ -195,6 +195,19 @@
     "IntlAQSCode": "840060870007"
   },
   {
+    "Latitude": 38.3525,
+    "Longitude": -121.9617,
+    "UTC": "2021-12-08T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 58,
+    "Category": 2,
+    "SiteName": "Vacaville",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060953002",
+    "IntlAQSCode": "840060953002"
+  },
+  {
     "Latitude": 37.701222,
     "Longitude": -121.903019,
     "UTC": "2021-12-08T09:00",
@@ -273,6 +286,32 @@
     "IntlAQSCode": "840060530002"
   },
   {
+    "Latitude": 38.6619,
+    "Longitude": -121.7278,
+    "UTC": "2021-12-08T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 59,
+    "Category": 2,
+    "SiteName": "Woodland",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "061131003",
+    "IntlAQSCode": "840061131003"
+  },
+  {
+    "Latitude": 38.18839,
+    "Longitude": -121.70564,
+    "UTC": "2021-12-08T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 43,
+    "Category": 1,
+    "SiteName": "Rio Vista",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060959999",
+    "IntlAQSCode": "840060959999"
+  },
+  {
     "Latitude": 36.694261,
     "Longitude": -121.623271,
     "UTC": "2021-12-08T09:00",
@@ -338,6 +377,19 @@
     "IntlAQSCode": "840MMCA82035"
   },
   {
+    "Latitude": 38.56844,
+    "Longitude": -121.49311,
+    "UTC": "2021-12-08T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 58,
+    "Category": 2,
+    "SiteName": "Downtown Sacramento - T Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060670010",
+    "IntlAQSCode": "840060670010"
+  },
+  {
     "Latitude": 37.6825,
     "Longitude": -121.4406,
     "UTC": "2021-12-08T09:00",
@@ -388,6 +440,32 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060690002",
     "IntlAQSCode": "840060690002"
+  },
+  {
+    "Latitude": 37.961578,
+    "Longitude": -121.281414,
+    "UTC": "2021-12-08T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 54,
+    "Category": 2,
+    "SiteName": "Stockton - University Park",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060771003",
+    "IntlAQSCode": "840060771003"
+  },
+  {
+    "Latitude": 38.74643,
+    "Longitude": -121.26498,
+    "UTC": "2021-12-08T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 68,
+    "Category": 2,
+    "SiteName": "Roseville - N.Sunrise/Douglas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060610006",
+    "IntlAQSCode": "840060610006"
   },
   {
     "Latitude": 37.8027,
@@ -845,6 +923,19 @@
     "IntlAQSCode": "840MMCA82046"
   },
   {
+    "Latitude": 35.356615,
+    "Longitude": -119.062613,
+    "UTC": "2021-12-08T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 91,
+    "Category": 2,
+    "SiteName": "Bakersfield - California Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060290014",
+    "IntlAQSCode": "840060290014"
+  },
+  {
     "Latitude": 36.0319,
     "Longitude": -119.055,
     "UTC": "2021-12-08T09:00",
@@ -1077,6 +1168,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "060374004",
     "IntlAQSCode": "840060374004"
+  },
+  {
+    "Latitude": 35.046528,
+    "Longitude": -118.162833,
+    "UTC": "2021-12-08T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 9,
+    "Category": 1,
+    "SiteName": "Mojave - CA 58 Business",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060290019",
+    "IntlAQSCode": "840060290019"
   },
   {
     "Latitude": 34.669589,
@@ -1363,6 +1467,19 @@
     "AgencyName": "Baja California",
     "FullAQSCode": "800020014",
     "IntlAQSCode": "484800020014"
+  },
+  {
+    "Latitude": 32.67618,
+    "Longitude": -115.48307,
+    "UTC": "2021-12-08T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 62,
+    "Category": 2,
+    "SiteName": "Calexico - Ethel Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060250005",
+    "IntlAQSCode": "840060250005"
   },
   {
     "Latitude": 32.6292,
