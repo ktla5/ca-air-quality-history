@@ -1274,6 +1274,19 @@
     "IntlAQSCode": "484800020014"
   },
   {
+    "Latitude": 32.67618,
+    "Longitude": -115.48307,
+    "UTC": "2021-12-14T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 153,
+    "Category": 4,
+    "SiteName": "Calexico - Ethel Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060250005",
+    "IntlAQSCode": "840060250005"
+  },
+  {
     "Latitude": 32.6292,
     "Longitude": -115.4469,
     "UTC": "2021-12-14T14:00",
