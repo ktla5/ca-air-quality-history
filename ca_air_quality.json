@@ -135,7 +135,7 @@
     "UTC": "2021-12-15T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 45,
+    "AQI": 24,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -213,7 +213,7 @@
     "UTC": "2021-12-15T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 23,
+    "AQI": 22,
     "Category": 1,
     "SiteName": "Woodland",
     "AgencyName": "Yolo-Solano AQMD",
@@ -226,7 +226,7 @@
     "UTC": "2021-12-15T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 33,
+    "AQI": 27,
     "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -245,6 +245,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060850002",
     "IntlAQSCode": "840060850002"
+  },
+  {
+    "Latitude": 38.593328,
+    "Longitude": -121.503728,
+    "UTC": "2021-12-15T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 17,
+    "Category": 1,
+    "SiteName": "Bercut Dr",
+    "AgencyName": "Sacramento Metro. AQMD",
+    "FullAQSCode": "060670015",
+    "IntlAQSCode": "840060670015"
   },
   {
     "Latitude": 38.568503,
@@ -299,6 +312,32 @@
     "IntlAQSCode": "840060773005"
   },
   {
+    "Latitude": 38.302591,
+    "Longitude": -121.420838,
+    "UTC": "2021-12-15T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 26,
+    "Category": 1,
+    "SiteName": "Elk Grove",
+    "AgencyName": "Sacramento Metro. AQMD",
+    "FullAQSCode": "060670011",
+    "IntlAQSCode": "840060670011"
+  },
+  {
+    "Latitude": 38.613804,
+    "Longitude": -121.368007,
+    "UTC": "2021-12-15T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "Arden Arcade - Del Paso Manor",
+    "AgencyName": "Sacramento Metro. AQMD",
+    "FullAQSCode": "060670006",
+    "IntlAQSCode": "840060670006"
+  },
+  {
     "Latitude": 37.961578,
     "Longitude": -121.281414,
     "UTC": "2021-12-15T17:00",
@@ -336,6 +375,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060772010",
     "IntlAQSCode": "840060772010"
+  },
+  {
+    "Latitude": 38.494475,
+    "Longitude": -121.211131,
+    "UTC": "2021-12-15T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 10,
+    "Category": 1,
+    "SiteName": "Sloughhouse",
+    "AgencyName": "Sacramento Metro. AQMD",
+    "FullAQSCode": "060675003",
+    "IntlAQSCode": "840060675003"
   },
   {
     "Latitude": 37.642165,
