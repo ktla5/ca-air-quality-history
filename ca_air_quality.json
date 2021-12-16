@@ -338,32 +338,6 @@
     "IntlAQSCode": "840060670015"
   },
   {
-    "Latitude": 38.568503,
-    "Longitude": -121.49334,
-    "UTC": "2021-12-16T10:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "MMCA82025",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82025",
-    "IntlAQSCode": "840MMCA82025"
-  },
-  {
-    "Latitude": 38.56846,
-    "Longitude": -121.493254,
-    "UTC": "2021-12-16T10:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "N/A",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82035",
-    "IntlAQSCode": "840MMCA82035"
-  },
-  {
     "Latitude": 38.56844,
     "Longitude": -121.49311,
     "UTC": "2021-12-16T10:00",
@@ -728,19 +702,6 @@
     "IntlAQSCode": "840060195001"
   },
   {
-    "Latitude": 34.944334,
-    "Longitude": -119.691539,
-    "UTC": "2021-12-16T10:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "MMCA82034",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82034",
-    "IntlAQSCode": "840MMCA82034"
-  },
-  {
     "Latitude": 34.42775,
     "Longitude": -119.69091,
     "UTC": "2021-12-16T10:00",
@@ -752,19 +713,6 @@
     "AgencyName": "Santa Barbara County Air Pollution Control District",
     "FullAQSCode": "060830011",
     "IntlAQSCode": "840060830011"
-  },
-  {
-    "Latitude": 37.539897,
-    "Longitude": -119.658172,
-    "UTC": "2021-12-16T10:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "MMNPS1019",
-    "AgencyName": "National Park Service",
-    "FullAQSCode": "MMNPS1019",
-    "IntlAQSCode": "840MMNPS1019"
   },
   {
     "Latitude": 36.3144,
@@ -843,19 +791,6 @@
     "AgencyName": "Great Basin Unified Air Pollution Control District",
     "FullAQSCode": "060510005",
     "IntlAQSCode": "840060510005"
-  },
-  {
-    "Latitude": 36.414485,
-    "Longitude": -119.104199,
-    "UTC": "2021-12-16T10:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": 0,
-    "SiteName": "N/A",
-    "AgencyName": "California Air Resources Board",
-    "FullAQSCode": "840MMCA82046",
-    "IntlAQSCode": "840MMCA82046"
   },
   {
     "Latitude": 35.356615,
