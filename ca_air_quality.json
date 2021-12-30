@@ -429,6 +429,19 @@
     "IntlAQSCode": "840060771003"
   },
   {
+    "Latitude": 38.74643,
+    "Longitude": -121.26498,
+    "UTC": "2021-12-30T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 43,
+    "Category": 1,
+    "SiteName": "Roseville - N.Sunrise/Douglas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060610006",
+    "IntlAQSCode": "840060610006"
+  },
+  {
     "Latitude": 37.8027,
     "Longitude": -121.2208,
     "UTC": "2021-12-30T19:00",
