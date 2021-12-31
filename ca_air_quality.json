@@ -1,15 +1,1 @@
-[
-  {
-    "Latitude": 32.523366,
-    "Longitude": -116.952495,
-    "UTC": "2021-12-31T00:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 26,
-    "Category": 1,
-    "SiteName": "Tijuana",
-    "AgencyName": "U.S. Department of State Mexico - Tijuana",
-    "FullAQSCode": "484MEX010001",
-    "IntlAQSCode": "484MEX010001"
-  }
-]
+[]
