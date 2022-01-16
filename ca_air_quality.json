@@ -845,6 +845,19 @@
     "IntlAQSCode": "840060292009"
   },
   {
+    "Latitude": 36.489399,
+    "Longitude": -118.826897,
+    "UTC": "2022-01-16T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 8,
+    "Category": 1,
+    "SiteName": "Sequoia and Kings Canyon - Ash Mountain",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "061070009",
+    "IntlAQSCode": "840061070009"
+  },
+  {
     "Latitude": 34.40428,
     "Longitude": -118.80998,
     "UTC": "2022-01-16T13:00",
