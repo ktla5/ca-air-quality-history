@@ -182,6 +182,19 @@
     "IntlAQSCode": "840060870007"
   },
   {
+    "Latitude": 38.3525,
+    "Longitude": -121.9617,
+    "UTC": "2022-01-19T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 62,
+    "Category": 2,
+    "SiteName": "Vacaville",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060953002",
+    "IntlAQSCode": "840060953002"
+  },
+  {
     "Latitude": 37.701222,
     "Longitude": -121.903019,
     "UTC": "2022-01-19T09:00",
@@ -234,6 +247,19 @@
     "IntlAQSCode": "840060010007"
   },
   {
+    "Latitude": 38.53455,
+    "Longitude": -121.7734,
+    "UTC": "2022-01-19T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 52,
+    "Category": 2,
+    "SiteName": "Davis - UCD Campus",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "061130004",
+    "IntlAQSCode": "840061130004"
+  },
+  {
     "Latitude": 36.48187,
     "Longitude": -121.73333,
     "UTC": "2022-01-19T09:00",
@@ -245,6 +271,32 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060530002",
     "IntlAQSCode": "840060530002"
+  },
+  {
+    "Latitude": 38.6619,
+    "Longitude": -121.7278,
+    "UTC": "2022-01-19T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 65,
+    "Category": 2,
+    "SiteName": "Woodland",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "061131003",
+    "IntlAQSCode": "840061131003"
+  },
+  {
+    "Latitude": 38.18839,
+    "Longitude": -121.70564,
+    "UTC": "2022-01-19T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 34,
+    "Category": 1,
+    "SiteName": "Rio Vista",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060959999",
+    "IntlAQSCode": "840060959999"
   },
   {
     "Latitude": 36.694261,
@@ -421,7 +473,7 @@
     "UTC": "2022-01-19T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 84,
+    "AQI": 87,
     "Category": 2,
     "SiteName": "Modesto - 14th Street",
     "AgencyName": "California Air Resources Board",
@@ -447,7 +499,7 @@
     "UTC": "2022-01-19T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 79,
+    "AQI": 77,
     "Category": 2,
     "SiteName": "San Andreas",
     "AgencyName": "California Air Resources Board",
@@ -687,6 +739,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060311004",
     "IntlAQSCode": "840060311004"
+  },
+  {
+    "Latitude": 37.748707,
+    "Longitude": -119.587094,
+    "UTC": "2022-01-19T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 30,
+    "Category": 1,
+    "SiteName": "Yosemite Village - Visitor Center",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060431001",
+    "IntlAQSCode": "840060431001"
   },
   {
     "Latitude": 36.102219,
@@ -1266,7 +1331,7 @@
     "UTC": "2022-01-19T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 16,
+    "AQI": 20,
     "Category": 1,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
