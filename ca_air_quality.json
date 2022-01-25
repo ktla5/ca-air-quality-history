@@ -182,6 +182,19 @@
     "IntlAQSCode": "840060870007"
   },
   {
+    "Latitude": 38.3525,
+    "Longitude": -121.9617,
+    "UTC": "2022-01-25T12:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 42,
+    "Category": 1,
+    "SiteName": "Vacaville",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060953002",
+    "IntlAQSCode": "840060953002"
+  },
+  {
     "Latitude": 37.701222,
     "Longitude": -121.903019,
     "UTC": "2022-01-25T12:00",
@@ -260,6 +273,32 @@
     "IntlAQSCode": "840060530002"
   },
   {
+    "Latitude": 38.6619,
+    "Longitude": -121.7278,
+    "UTC": "2022-01-25T12:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 70,
+    "Category": 2,
+    "SiteName": "Woodland",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "061131003",
+    "IntlAQSCode": "840061131003"
+  },
+  {
+    "Latitude": 38.18839,
+    "Longitude": -121.70564,
+    "UTC": "2022-01-25T12:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 63,
+    "Category": 2,
+    "SiteName": "Rio Vista",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060959999",
+    "IntlAQSCode": "840060959999"
+  },
+  {
     "Latitude": 36.694261,
     "Longitude": -121.623271,
     "UTC": "2022-01-25T12:00",
@@ -299,6 +338,19 @@
     "IntlAQSCode": "840060670015"
   },
   {
+    "Latitude": 38.56844,
+    "Longitude": -121.49311,
+    "UTC": "2022-01-25T12:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 105,
+    "Category": 3,
+    "SiteName": "Downtown Sacramento - T Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060670010",
+    "IntlAQSCode": "840060670010"
+  },
+  {
     "Latitude": 37.6825,
     "Longitude": -121.4406,
     "UTC": "2022-01-25T12:00",
@@ -336,6 +388,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060690002",
     "IntlAQSCode": "840060690002"
+  },
+  {
+    "Latitude": 38.74643,
+    "Longitude": -121.26498,
+    "UTC": "2022-01-25T12:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 53,
+    "Category": 2,
+    "SiteName": "Roseville - N.Sunrise/Douglas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060610006",
+    "IntlAQSCode": "840060610006"
   },
   {
     "Latitude": 37.8027,
@@ -713,6 +778,19 @@
     "AgencyName": "Great Basin Unified Air Pollution Control District",
     "FullAQSCode": "060510005",
     "IntlAQSCode": "840060510005"
+  },
+  {
+    "Latitude": 35.356615,
+    "Longitude": -119.062613,
+    "UTC": "2022-01-25T12:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 68,
+    "Category": 2,
+    "SiteName": "Bakersfield - California Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060290014",
+    "IntlAQSCode": "840060290014"
   },
   {
     "Latitude": 36.0319,
