@@ -182,6 +182,19 @@
     "IntlAQSCode": "840060870007"
   },
   {
+    "Latitude": 38.3525,
+    "Longitude": -121.9617,
+    "UTC": "2022-02-01T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 28,
+    "Category": 1,
+    "SiteName": "Vacaville",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060953002",
+    "IntlAQSCode": "840060953002"
+  },
+  {
     "Latitude": 37.701222,
     "Longitude": -121.903019,
     "UTC": "2022-02-01T09:00",
@@ -247,6 +260,32 @@
     "IntlAQSCode": "840061130004"
   },
   {
+    "Latitude": 38.6619,
+    "Longitude": -121.7278,
+    "UTC": "2022-02-01T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 10,
+    "Category": 1,
+    "SiteName": "Woodland",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "061131003",
+    "IntlAQSCode": "840061131003"
+  },
+  {
+    "Latitude": 38.18839,
+    "Longitude": -121.70564,
+    "UTC": "2022-02-01T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 22,
+    "Category": 1,
+    "SiteName": "Rio Vista",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060959999",
+    "IntlAQSCode": "840060959999"
+  },
+  {
     "Latitude": 36.694261,
     "Longitude": -121.623271,
     "UTC": "2022-02-01T09:00",
@@ -291,7 +330,7 @@
     "UTC": "2022-02-01T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 14,
+    "AQI": 19,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -1279,7 +1318,7 @@
     "UTC": "2022-02-01T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 63,
+    "AQI": 70,
     "Category": 2,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
