@@ -780,6 +780,19 @@
     "IntlAQSCode": "840060431001"
   },
   {
+    "Latitude": 36.102219,
+    "Longitude": -119.566002,
+    "UTC": "2022-02-07T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 82,
+    "Category": 2,
+    "SiteName": "Corcoran",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060310004",
+    "IntlAQSCode": "840060310004"
+  },
+  {
     "Latitude": 34.44806,
     "Longitude": -119.2313,
     "UTC": "2022-02-07T17:00",
