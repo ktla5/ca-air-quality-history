@@ -1495,6 +1495,19 @@
     "IntlAQSCode": "840320032003"
   },
   {
+    "Latitude": 36.141875,
+    "Longitude": -115.078742,
+    "UTC": "2022-02-08T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 34,
+    "Category": 1,
+    "SiteName": "Jerome Mack",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030540",
+    "IntlAQSCode": "840320030540"
+  },
+  {
     "Latitude": 36.048705,
     "Longitude": -115.052942,
     "UTC": "2022-02-08T19:00",
