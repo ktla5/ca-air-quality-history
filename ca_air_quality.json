@@ -585,6 +585,19 @@
     "IntlAQSCode": "840060792004"
   },
   {
+    "Latitude": 37.30833,
+    "Longitude": -120.480361,
+    "UTC": "2022-03-08T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 153,
+    "Category": 4,
+    "SiteName": "Merced-M St",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "840060472510",
+    "IntlAQSCode": "840060472510"
+  },
+  {
     "Latitude": 34.637798,
     "Longitude": -120.456703,
     "UTC": "2022-03-08T16:00",
