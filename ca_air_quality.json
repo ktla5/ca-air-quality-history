@@ -247,12 +247,25 @@
     "IntlAQSCode": "840060530002"
   },
   {
+    "Latitude": 38.661239,
+    "Longitude": -121.732683,
+    "UTC": "2022-05-06T22:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Woodland",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "061131003",
+    "IntlAQSCode": "840061131003"
+  },
+  {
     "Latitude": 38.167297,
     "Longitude": -121.688561,
     "UTC": "2022-05-06T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 5,
+    "AQI": 4,
     "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -297,6 +310,19 @@
     "AgencyName": "Sacramento Metro. AQMD",
     "FullAQSCode": "060670015",
     "IntlAQSCode": "840060670015"
+  },
+  {
+    "Latitude": 38.56844,
+    "Longitude": -121.49311,
+    "UTC": "2022-05-06T22:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "Downtown Sacramento - T Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060670010",
+    "IntlAQSCode": "840060670010"
   },
   {
     "Latitude": 37.6825,
@@ -382,7 +408,7 @@
     "UTC": "2022-05-06T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 22,
+    "AQI": 15,
     "Category": 1,
     "SiteName": "Roseville - N.Sunrise/Douglas",
     "AgencyName": "California Air Resources Board",
