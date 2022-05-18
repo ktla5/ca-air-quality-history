@@ -793,6 +793,19 @@
     "IntlAQSCode": "840061113001"
   },
   {
+    "Latitude": 37.962069,
+    "Longitude": -119.120278,
+    "UTC": "2022-05-18T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Lee Vining",
+    "AgencyName": "Great Basin Unified Air Pollution Control District",
+    "FullAQSCode": "060510005",
+    "IntlAQSCode": "840060510005"
+  },
+  {
     "Latitude": 35.356615,
     "Longitude": -119.062613,
     "UTC": "2022-05-18T16:00",
