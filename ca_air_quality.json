@@ -663,6 +663,19 @@
     "IntlAQSCode": "840060832011"
   },
   {
+    "Latitude": 36.71088,
+    "Longitude": -119.77743,
+    "UTC": "2022-05-26T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 55,
+    "Category": 2,
+    "SiteName": "Fresno-Foundry Park",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060192016",
+    "IntlAQSCode": "840060192016"
+  },
+  {
     "Latitude": 36.78538,
     "Longitude": -119.77321,
     "UTC": "2022-05-26T18:00",
