@@ -161,7 +161,7 @@
     "UTC": "2022-06-06T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 1,
+    "AQI": 3,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -239,7 +239,7 @@
     "UTC": "2022-06-06T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 37,
+    "AQI": 39,
     "Category": 1,
     "SiteName": "Woodland",
     "AgencyName": "Yolo-Solano AQMD",
@@ -252,7 +252,7 @@
     "UTC": "2022-06-06T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 22,
+    "AQI": 13,
     "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -297,6 +297,19 @@
     "AgencyName": "Sacramento Metro. AQMD",
     "FullAQSCode": "060670015",
     "IntlAQSCode": "840060670015"
+  },
+  {
+    "Latitude": 38.56844,
+    "Longitude": -121.49311,
+    "UTC": "2022-06-06T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 10,
+    "Category": 1,
+    "SiteName": "Downtown Sacramento - T Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060670010",
+    "IntlAQSCode": "840060670010"
   },
   {
     "Latitude": 37.6825,
@@ -804,6 +817,19 @@
     "AgencyName": "Great Basin Unified Air Pollution Control District",
     "FullAQSCode": "060510005",
     "IntlAQSCode": "840060510005"
+  },
+  {
+    "Latitude": 35.356615,
+    "Longitude": -119.062613,
+    "UTC": "2022-06-06T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Bakersfield - California Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060290014",
+    "IntlAQSCode": "840060290014"
   },
   {
     "Latitude": 36.0319,
