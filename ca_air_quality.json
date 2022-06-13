@@ -265,7 +265,7 @@
     "UTC": "2022-06-13T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 16,
+    "AQI": 23,
     "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -401,6 +401,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060610006",
     "IntlAQSCode": "840060610006"
+  },
+  {
+    "Latitude": 37.8027,
+    "Longitude": -121.2208,
+    "UTC": "2022-06-13T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 11,
+    "Category": 1,
+    "SiteName": "Manteca",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060772010",
+    "IntlAQSCode": "840060772010"
   },
   {
     "Latitude": 38.494475,
