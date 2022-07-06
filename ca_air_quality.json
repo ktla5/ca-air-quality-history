@@ -252,7 +252,7 @@
     "UTC": "2022-07-06T08:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 11,
+    "AQI": 10,
     "Category": 1,
     "SiteName": "Woodland",
     "AgencyName": "Yolo-Solano AQMD",
@@ -265,7 +265,7 @@
     "UTC": "2022-07-06T08:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 3,
+    "AQI": 8,
     "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -908,6 +908,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060292009",
     "IntlAQSCode": "840060292009"
+  },
+  {
+    "Latitude": 36.489399,
+    "Longitude": -118.826897,
+    "UTC": "2022-07-06T08:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 45,
+    "Category": 1,
+    "SiteName": "Sequoia and Kings Canyon - Ash Mountain",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "061070009",
+    "IntlAQSCode": "840061070009"
   },
   {
     "Latitude": 36.1358,
