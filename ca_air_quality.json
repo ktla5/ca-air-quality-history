@@ -1248,6 +1248,19 @@
     "IntlAQSCode": "840060250007"
   },
   {
+    "Latitude": 32.6336,
+    "Longitude": -115.5042,
+    "UTC": "2022-08-15T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 52,
+    "Category": 2,
+    "SiteName": "SPABC14 COBACH",
+    "AgencyName": "Baja California",
+    "FullAQSCode": "800020014",
+    "IntlAQSCode": "840800020014"
+  },
+  {
     "Latitude": 32.67618,
     "Longitude": -115.48307,
     "UTC": "2022-08-15T06:00",
@@ -1259,6 +1272,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060250005",
     "IntlAQSCode": "840060250005"
+  },
+  {
+    "Latitude": 32.6292,
+    "Longitude": -115.4469,
+    "UTC": "2022-08-15T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 38,
+    "Category": 1,
+    "SiteName": "Universidad Autonoma de Baja California",
+    "AgencyName": "Baja California",
+    "FullAQSCode": "800020012",
+    "IntlAQSCode": "840800020012"
   },
   {
     "Latitude": 35.785665,
