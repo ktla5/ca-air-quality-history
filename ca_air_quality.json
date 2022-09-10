@@ -26,6 +26,19 @@
     "IntlAQSCode": "840060870007"
   },
   {
+    "Latitude": 38.356556,
+    "Longitude": -121.949853,
+    "UTC": "2022-09-10T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 48,
+    "Category": 1,
+    "SiteName": "Vacaville",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060953002",
+    "IntlAQSCode": "840060953002"
+  },
+  {
     "Latitude": 38.53455,
     "Longitude": -121.7734,
     "UTC": "2022-09-10T09:00",
@@ -1084,7 +1097,7 @@
     "UTC": "2022-09-10T09:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 40,
+    "AQI": 30,
     "Category": 1,
     "SiteName": "SPABC14 COBACH",
     "AgencyName": "Baja California",
