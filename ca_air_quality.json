@@ -1040,6 +1040,19 @@
     "IntlAQSCode": "840060290019"
   },
   {
+    "Latitude": 34.669589,
+    "Longitude": -118.130689,
+    "UTC": "2022-09-12T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 22,
+    "Category": 1,
+    "SiteName": "Lancaster-Division",
+    "AgencyName": "Mojave Desert AQMD",
+    "FullAQSCode": "060379033",
+    "IntlAQSCode": "840060379033"
+  },
+  {
     "Latitude": 33.830586,
     "Longitude": -117.938509,
     "UTC": "2022-09-12T13:00",
@@ -1279,7 +1292,7 @@
     "UTC": "2022-09-12T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 29,
+    "AQI": 33,
     "Category": 1,
     "SiteName": "SPABC14 COBACH",
     "AgencyName": "Baja California",
@@ -1305,7 +1318,7 @@
     "UTC": "2022-09-12T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 24,
+    "AQI": 20,
     "Category": 1,
     "SiteName": "Universidad Autonoma de Baja California",
     "AgencyName": "Baja California",
