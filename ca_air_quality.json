@@ -1396,7 +1396,7 @@
     "UTC": "2022-09-30T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 15,
+    "AQI": 10,
     "Category": 1,
     "SiteName": "Universidad Autonoma de Baja California",
     "AgencyName": "Baja California",
