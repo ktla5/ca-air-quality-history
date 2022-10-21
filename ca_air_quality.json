@@ -161,7 +161,7 @@
     "UTC": "2022-10-21T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 29,
+    "AQI": 23,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -245,6 +245,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060530002",
     "IntlAQSCode": "840060530002"
+  },
+  {
+    "Latitude": 38.167297,
+    "Longitude": -121.688561,
+    "UTC": "2022-10-21T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 59,
+    "Category": 2,
+    "SiteName": "Rio Vista",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060959999",
+    "IntlAQSCode": "840060959999"
   },
   {
     "Latitude": 36.694261,
