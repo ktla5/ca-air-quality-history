@@ -148,7 +148,7 @@
     "UTC": "2022-11-05T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 2,
+    "AQI": 1,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -291,7 +291,7 @@
     "UTC": "2022-11-05T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 29,
+    "AQI": 32,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -1480,6 +1480,19 @@
     "AgencyName": "Clark County Department of Environment and Sustainability ",
     "FullAQSCode": "320030602",
     "IntlAQSCode": "840320030602"
+  },
+  {
+    "Latitude": 32.690277,
+    "Longitude": -114.614441,
+    "UTC": "2022-11-05T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 34,
+    "Category": 1,
+    "SiteName": "Yuma Supersite",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040278011",
+    "IntlAQSCode": "840040278011"
   },
   {
     "Latitude": 36.815897,
