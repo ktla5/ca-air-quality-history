@@ -148,7 +148,7 @@
     "UTC": "2022-11-07T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 7,
+    "AQI": 12,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -759,7 +759,7 @@
     "UTC": "2022-11-07T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 16,
+    "AQI": 6,
     "Category": 1,
     "SiteName": "Bakersfield - California Ave",
     "AgencyName": "California Air Resources Board",
@@ -1493,6 +1493,19 @@
     "AgencyName": "Clark County Department of Environment and Sustainability ",
     "FullAQSCode": "320030602",
     "IntlAQSCode": "840320030602"
+  },
+  {
+    "Latitude": 32.690277,
+    "Longitude": -114.614441,
+    "UTC": "2022-11-07T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 24,
+    "Category": 1,
+    "SiteName": "Yuma Supersite",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040278011",
+    "IntlAQSCode": "840040278011"
   },
   {
     "Latitude": 36.815897,
