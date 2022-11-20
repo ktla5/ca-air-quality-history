@@ -148,7 +148,7 @@
     "UTC": "2022-11-20T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 21,
+    "AQI": 15,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -226,7 +226,7 @@
     "UTC": "2022-11-20T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 21,
+    "AQI": 17,
     "Category": 1,
     "SiteName": "Woodland",
     "AgencyName": "Yolo-Solano AQMD",
@@ -239,7 +239,7 @@
     "UTC": "2022-11-20T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 53,
+    "AQI": 55,
     "Category": 2,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -291,7 +291,7 @@
     "UTC": "2022-11-20T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 48,
+    "AQI": 35,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -746,7 +746,7 @@
     "UTC": "2022-11-20T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 92,
+    "AQI": 80,
     "Category": 2,
     "SiteName": "Bakersfield - California Ave",
     "AgencyName": "California Air Resources Board",
@@ -1482,6 +1482,19 @@
     "IntlAQSCode": "840320030602"
   },
   {
+    "Latitude": 32.690277,
+    "Longitude": -114.614441,
+    "UTC": "2022-11-20T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 16,
+    "Category": 1,
+    "SiteName": "Yuma Supersite",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040278011",
+    "IntlAQSCode": "840040278011"
+  },
+  {
     "Latitude": 36.815897,
     "Longitude": -114.050347,
     "UTC": "2022-11-20T19:00",
@@ -1493,5 +1506,18 @@
     "AgencyName": "Clark County Department of Environment and Sustainability ",
     "FullAQSCode": "320030024",
     "IntlAQSCode": "840320030024"
+  },
+  {
+    "Latitude": 34.243889,
+    "Longitude": -113.558611,
+    "UTC": "2022-11-20T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Alamo Lake",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040128000",
+    "IntlAQSCode": "840040128000"
   }
 ]
