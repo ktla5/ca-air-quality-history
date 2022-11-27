@@ -447,7 +447,7 @@
     "UTC": "2022-11-27T15:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 54,
+    "AQI": 55,
     "Category": 2,
     "SiteName": "Turlock - S. Minaret Street",
     "AgencyName": "San Joaquin Valley Unified APCD",
@@ -726,6 +726,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060431001",
     "IntlAQSCode": "840060431001"
+  },
+  {
+    "Latitude": 36.102219,
+    "Longitude": -119.566002,
+    "UTC": "2022-11-27T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 94,
+    "Category": 2,
+    "SiteName": "Corcoran",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060310004",
+    "IntlAQSCode": "840060310004"
   },
   {
     "Latitude": 36.30815,
@@ -1318,8 +1331,8 @@
     "UTC": "2022-11-27T15:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": -999,
+    "AQI": 136,
+    "Category": 3,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060250005",
@@ -1493,6 +1506,19 @@
     "AgencyName": "Clark County Department of Environment and Sustainability ",
     "FullAQSCode": "320030602",
     "IntlAQSCode": "840320030602"
+  },
+  {
+    "Latitude": 32.690277,
+    "Longitude": -114.614441,
+    "UTC": "2022-11-27T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 54,
+    "Category": 2,
+    "SiteName": "Yuma Supersite",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040278011",
+    "IntlAQSCode": "840040278011"
   },
   {
     "Latitude": 36.815897,
