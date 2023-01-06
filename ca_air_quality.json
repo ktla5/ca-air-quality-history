@@ -213,7 +213,7 @@
     "UTC": "2023-01-06T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 15,
+    "AQI": 17,
     "Category": 1,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
@@ -299,6 +299,19 @@
     "IntlAQSCode": "840060670015"
   },
   {
+    "Latitude": 38.56844,
+    "Longitude": -121.49311,
+    "UTC": "2023-01-06T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 7,
+    "Category": 1,
+    "SiteName": "Downtown Sacramento - T Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060670010",
+    "IntlAQSCode": "840060670010"
+  },
+  {
     "Latitude": 37.6825,
     "Longitude": -121.4406,
     "UTC": "2023-01-06T20:00",
@@ -375,6 +388,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "840060771003",
     "IntlAQSCode": "840060771003"
+  },
+  {
+    "Latitude": 38.74643,
+    "Longitude": -121.26498,
+    "UTC": "2023-01-06T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 23,
+    "Category": 1,
+    "SiteName": "Roseville - N.Sunrise/Douglas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060610006",
+    "IntlAQSCode": "840060610006"
   },
   {
     "Latitude": 37.8027,
@@ -728,6 +754,19 @@
     "IntlAQSCode": "840060310004"
   },
   {
+    "Latitude": 36.30815,
+    "Longitude": -119.3129,
+    "UTC": "2023-01-06T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "Visalia - W Ashland Avenue",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840061072003",
+    "IntlAQSCode": "840061072003"
+  },
+  {
     "Latitude": 34.44806,
     "Longitude": -119.2313,
     "UTC": "2023-01-06T20:00",
@@ -765,6 +804,19 @@
     "AgencyName": "Great Basin Unified Air Pollution Control District",
     "FullAQSCode": "060510005",
     "IntlAQSCode": "840060510005"
+  },
+  {
+    "Latitude": 35.356615,
+    "Longitude": -119.062613,
+    "UTC": "2023-01-06T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 26,
+    "Category": 1,
+    "SiteName": "Bakersfield - California Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060290014",
+    "IntlAQSCode": "840060290014"
   },
   {
     "Latitude": 36.0319,
@@ -967,7 +1019,7 @@
     "UTC": "2023-01-06T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 11,
+    "AQI": 8,
     "Category": 1,
     "SiteName": "Mojave - CA 58 Business",
     "AgencyName": "California Air Resources Board",
