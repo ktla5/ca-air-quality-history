@@ -746,7 +746,7 @@
     "UTC": "2023-01-07T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 28,
+    "AQI": 25,
     "Category": 1,
     "SiteName": "Visalia - W Ashland Avenue",
     "AgencyName": "California Air Resources Board",
@@ -791,6 +791,19 @@
     "AgencyName": "Great Basin Unified Air Pollution Control District",
     "FullAQSCode": "060510005",
     "IntlAQSCode": "840060510005"
+  },
+  {
+    "Latitude": 35.356615,
+    "Longitude": -119.062613,
+    "UTC": "2023-01-07T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 48,
+    "Category": 1,
+    "SiteName": "Bakersfield - California Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060290014",
+    "IntlAQSCode": "840060290014"
   },
   {
     "Latitude": 36.0319,
@@ -1006,7 +1019,7 @@
     "UTC": "2023-01-07T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 0,
+    "AQI": 1,
     "Category": 1,
     "SiteName": "Mojave - CA 58 Business",
     "AgencyName": "California Air Resources Board",
