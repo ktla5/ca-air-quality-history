@@ -377,6 +377,19 @@
     "IntlAQSCode": "840060612003"
   },
   {
+    "Latitude": 37.961578,
+    "Longitude": -121.281414,
+    "UTC": "2023-01-07T12:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 35,
+    "Category": 1,
+    "SiteName": "Stockton - University Park",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060771003",
+    "IntlAQSCode": "840060771003"
+  },
+  {
     "Latitude": 38.74643,
     "Longitude": -121.26498,
     "UTC": "2023-01-07T12:00",
@@ -447,7 +460,7 @@
     "UTC": "2023-01-07T12:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 38,
+    "AQI": 42,
     "Category": 1,
     "SiteName": "Modesto - 14th Street",
     "AgencyName": "California Air Resources Board",
@@ -728,6 +741,19 @@
     "IntlAQSCode": "840060310004"
   },
   {
+    "Latitude": 36.30815,
+    "Longitude": -119.3129,
+    "UTC": "2023-01-07T12:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 38,
+    "Category": 1,
+    "SiteName": "Visalia - W Ashland Avenue",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840061072003",
+    "IntlAQSCode": "840061072003"
+  },
+  {
     "Latitude": 34.44806,
     "Longitude": -119.2313,
     "UTC": "2023-01-07T12:00",
@@ -772,7 +798,7 @@
     "UTC": "2023-01-07T12:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 71,
+    "AQI": 59,
     "Category": 2,
     "SiteName": "Bakersfield - California Ave",
     "AgencyName": "California Air Resources Board",
@@ -993,7 +1019,7 @@
     "UTC": "2023-01-07T12:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 5,
+    "AQI": 0,
     "Category": 1,
     "SiteName": "Mojave - CA 58 Business",
     "AgencyName": "California Air Resources Board",
