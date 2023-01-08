@@ -200,8 +200,8 @@
     "UTC": "2023-01-08T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": -999,
-    "Category": -999,
+    "AQI": 8,
+    "Category": 1,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "061130004",
@@ -351,6 +351,19 @@
     "IntlAQSCode": "840060771003"
   },
   {
+    "Latitude": 38.74643,
+    "Longitude": -121.26498,
+    "UTC": "2023-01-08T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 7,
+    "Category": 1,
+    "SiteName": "Roseville - N.Sunrise/Douglas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060610006",
+    "IntlAQSCode": "840060610006"
+  },
+  {
     "Latitude": 37.8027,
     "Longitude": -121.2208,
     "UTC": "2023-01-08T13:00",
@@ -427,6 +440,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060990006",
     "IntlAQSCode": "840060990006"
+  },
+  {
+    "Latitude": 38.20185,
+    "Longitude": -120.680277,
+    "UTC": "2023-01-08T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 2,
+    "Category": 1,
+    "SiteName": "San Andreas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060090001",
+    "IntlAQSCode": "840060090001"
   },
   {
     "Latitude": 35.494556,
@@ -676,6 +702,19 @@
     "IntlAQSCode": "840060310004"
   },
   {
+    "Latitude": 36.30815,
+    "Longitude": -119.3129,
+    "UTC": "2023-01-08T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 14,
+    "Category": 1,
+    "SiteName": "Visalia - W Ashland Avenue",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840061072003",
+    "IntlAQSCode": "840061072003"
+  },
+  {
     "Latitude": 34.44806,
     "Longitude": -119.2313,
     "UTC": "2023-01-08T13:00",
@@ -720,7 +759,7 @@
     "UTC": "2023-01-08T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 12,
     "Category": 1,
     "SiteName": "Bakersfield - California Ave",
     "AgencyName": "California Air Resources Board",
@@ -921,6 +960,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "840060374009",
     "IntlAQSCode": "840060374009"
+  },
+  {
+    "Latitude": 35.046528,
+    "Longitude": -118.162833,
+    "UTC": "2023-01-08T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 11,
+    "Category": 1,
+    "SiteName": "Mojave - CA 58 Business",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060290019",
+    "IntlAQSCode": "840060290019"
   },
   {
     "Latitude": 36.5975,
