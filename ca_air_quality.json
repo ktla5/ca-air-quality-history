@@ -715,6 +715,19 @@
     "IntlAQSCode": "840060510005"
   },
   {
+    "Latitude": 35.356615,
+    "Longitude": -119.062613,
+    "UTC": "2023-01-08T07:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 47,
+    "Category": 1,
+    "SiteName": "Bakersfield - California Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060290014",
+    "IntlAQSCode": "840060290014"
+  },
+  {
     "Latitude": 36.0319,
     "Longitude": -119.055,
     "UTC": "2023-01-08T07:00",
