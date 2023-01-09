@@ -200,7 +200,7 @@
     "UTC": "2023-01-09T04:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 3,
+    "AQI": 0,
     "Category": 1,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
@@ -258,6 +258,19 @@
     "AgencyName": "Sacramento Metro. AQMD",
     "FullAQSCode": "060670015",
     "IntlAQSCode": "840060670015"
+  },
+  {
+    "Latitude": 38.56844,
+    "Longitude": -121.49311,
+    "UTC": "2023-01-09T04:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 11,
+    "Category": 1,
+    "SiteName": "Downtown Sacramento - T Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060670010",
+    "IntlAQSCode": "840060670010"
   },
   {
     "Latitude": 37.6825,
@@ -336,6 +349,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "840060771003",
     "IntlAQSCode": "840060771003"
+  },
+  {
+    "Latitude": 38.74643,
+    "Longitude": -121.26498,
+    "UTC": "2023-01-09T04:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Roseville - N.Sunrise/Douglas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060610006",
+    "IntlAQSCode": "840060610006"
   },
   {
     "Latitude": 37.8027,
@@ -681,7 +707,7 @@
     "UTC": "2023-01-09T04:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 27,
+    "AQI": 26,
     "Category": 1,
     "SiteName": "Visalia - W Ashland Avenue",
     "AgencyName": "California Air Resources Board",
@@ -733,7 +759,7 @@
     "UTC": "2023-01-09T04:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 10,
+    "AQI": 17,
     "Category": 1,
     "SiteName": "Bakersfield - California Ave",
     "AgencyName": "California Air Resources Board",
@@ -1246,6 +1272,19 @@
     "AgencyName": "Imperial County Air Pollution Control District",
     "FullAQSCode": "060250007",
     "IntlAQSCode": "840060250007"
+  },
+  {
+    "Latitude": 32.67618,
+    "Longitude": -115.48307,
+    "UTC": "2023-01-09T04:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 60,
+    "Category": 2,
+    "SiteName": "Calexico - Ethel Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060250005",
+    "IntlAQSCode": "840060250005"
   },
   {
     "Latitude": 35.785665,
