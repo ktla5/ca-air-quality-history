@@ -195,6 +195,19 @@
     "IntlAQSCode": "840060010007"
   },
   {
+    "Latitude": 38.53455,
+    "Longitude": -121.7734,
+    "UTC": "2023-01-10T22:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 4,
+    "Category": 1,
+    "SiteName": "Davis - UCD Campus",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "061130004",
+    "IntlAQSCode": "840061130004"
+  },
+  {
     "Latitude": 38.661239,
     "Longitude": -121.732683,
     "UTC": "2023-01-10T22:00",
@@ -941,7 +954,7 @@
     "UTC": "2023-01-10T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 20,
+    "AQI": 19,
     "Category": 1,
     "SiteName": "Mojave - CA 58 Business",
     "AgencyName": "California Air Resources Board",
