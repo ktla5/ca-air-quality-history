@@ -195,6 +195,19 @@
     "IntlAQSCode": "840060010007"
   },
   {
+    "Latitude": 38.53455,
+    "Longitude": -121.7734,
+    "UTC": "2023-01-11T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 17,
+    "Category": 1,
+    "SiteName": "Davis - UCD Campus",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "061130004",
+    "IntlAQSCode": "840061130004"
+  },
+  {
     "Latitude": 36.48187,
     "Longitude": -121.73333,
     "UTC": "2023-01-11T19:00",
