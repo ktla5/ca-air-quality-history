@@ -213,7 +213,7 @@
     "UTC": "2023-01-19T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 10,
+    "AQI": 15,
     "Category": 1,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
@@ -1019,7 +1019,7 @@
     "UTC": "2023-01-19T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 21,
+    "AQI": 19,
     "Category": 1,
     "SiteName": "Mojave - CA 58 Business",
     "AgencyName": "California Air Resources Board",
@@ -1311,6 +1311,19 @@
     "AgencyName": "Imperial County Air Pollution Control District",
     "FullAQSCode": "060250007",
     "IntlAQSCode": "840060250007"
+  },
+  {
+    "Latitude": 32.67618,
+    "Longitude": -115.48307,
+    "UTC": "2023-01-19T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 157,
+    "Category": 4,
+    "SiteName": "Calexico - Ethel Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060250005",
+    "IntlAQSCode": "840060250005"
   },
   {
     "Latitude": 35.785665,
