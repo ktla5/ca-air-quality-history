@@ -213,7 +213,7 @@
     "UTC": "2023-01-21T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 28,
+    "AQI": 36,
     "Category": 1,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
@@ -304,7 +304,7 @@
     "UTC": "2023-01-21T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 41,
+    "AQI": 34,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -375,6 +375,19 @@
     "AgencyName": "Placer County APCD",
     "FullAQSCode": "840060612003",
     "IntlAQSCode": "840060612003"
+  },
+  {
+    "Latitude": 37.961578,
+    "Longitude": -121.281414,
+    "UTC": "2023-01-21T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 56,
+    "Category": 2,
+    "SiteName": "Stockton - University Park",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060771003",
+    "IntlAQSCode": "840060771003"
   },
   {
     "Latitude": 38.74643,
@@ -733,7 +746,7 @@
     "UTC": "2023-01-21T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 58,
+    "AQI": 65,
     "Category": 2,
     "SiteName": "Visalia - W Ashland Avenue",
     "AgencyName": "California Air Resources Board",
@@ -973,6 +986,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "840060374009",
     "IntlAQSCode": "840060374009"
+  },
+  {
+    "Latitude": 35.046528,
+    "Longitude": -118.162833,
+    "UTC": "2023-01-21T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 5,
+    "Category": 1,
+    "SiteName": "Mojave - CA 58 Business",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060290019",
+    "IntlAQSCode": "840060290019"
   },
   {
     "Latitude": 36.5975,
