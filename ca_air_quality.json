@@ -754,6 +754,19 @@
     "IntlAQSCode": "840060310004"
   },
   {
+    "Latitude": 36.30815,
+    "Longitude": -119.3129,
+    "UTC": "2023-01-21T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 56,
+    "Category": 2,
+    "SiteName": "Visalia - W Ashland Avenue",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840061072003",
+    "IntlAQSCode": "840061072003"
+  },
+  {
     "Latitude": 34.25239,
     "Longitude": -119.14318,
     "UTC": "2023-01-21T16:00",
