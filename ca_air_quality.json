@@ -364,6 +364,19 @@
     "IntlAQSCode": "840060612003"
   },
   {
+    "Latitude": 37.961578,
+    "Longitude": -121.281414,
+    "UTC": "2023-01-21T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 75,
+    "Category": 2,
+    "SiteName": "Stockton - University Park",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060771003",
+    "IntlAQSCode": "840060771003"
+  },
+  {
     "Latitude": 38.74643,
     "Longitude": -121.26498,
     "UTC": "2023-01-21T14:00",
@@ -427,6 +440,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060530008",
     "IntlAQSCode": "840060530008"
+  },
+  {
+    "Latitude": 37.642165,
+    "Longitude": -120.994212,
+    "UTC": "2023-01-21T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Modesto - 14th Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060990005",
+    "IntlAQSCode": "840060990005"
   },
   {
     "Latitude": 37.4883,
@@ -967,7 +993,7 @@
     "UTC": "2023-01-21T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 11,
+    "AQI": 9,
     "Category": 1,
     "SiteName": "Mojave - CA 58 Business",
     "AgencyName": "California Air Resources Board",
