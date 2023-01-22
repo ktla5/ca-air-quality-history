@@ -208,6 +208,19 @@
     "IntlAQSCode": "840060010007"
   },
   {
+    "Latitude": 38.53455,
+    "Longitude": -121.7734,
+    "UTC": "2023-01-22T22:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 8,
+    "Category": 1,
+    "SiteName": "Davis - UCD Campus",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "061130004",
+    "IntlAQSCode": "840061130004"
+  },
+  {
     "Latitude": 36.48187,
     "Longitude": -121.73333,
     "UTC": "2023-01-22T22:00",
@@ -356,7 +369,7 @@
     "UTC": "2023-01-22T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 13,
+    "AQI": 9,
     "Category": 1,
     "SiteName": "Stockton - University Park",
     "AgencyName": "California Air Resources Board",
@@ -702,6 +715,19 @@
     "IntlAQSCode": "840060310004"
   },
   {
+    "Latitude": 36.30815,
+    "Longitude": -119.3129,
+    "UTC": "2023-01-22T22:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 66,
+    "Category": 2,
+    "SiteName": "Visalia - W Ashland Avenue",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840061072003",
+    "IntlAQSCode": "840061072003"
+  },
+  {
     "Latitude": 34.25239,
     "Longitude": -119.14318,
     "UTC": "2023-01-22T22:00",
@@ -941,7 +967,7 @@
     "UTC": "2023-01-22T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 10,
+    "AQI": 15,
     "Category": 1,
     "SiteName": "Mojave - CA 58 Business",
     "AgencyName": "California Air Resources Board",
