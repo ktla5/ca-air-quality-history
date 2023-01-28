@@ -213,7 +213,7 @@
     "UTC": "2023-01-28T04:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 51,
+    "AQI": 56,
     "Category": 2,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
@@ -486,7 +486,7 @@
     "UTC": "2023-01-28T04:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 63,
+    "AQI": 74,
     "Category": 2,
     "SiteName": "San Andreas",
     "AgencyName": "California Air Resources Board",
@@ -676,6 +676,19 @@
     "IntlAQSCode": "840060192016"
   },
   {
+    "Latitude": 36.78538,
+    "Longitude": -119.77321,
+    "UTC": "2023-01-28T04:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 93,
+    "Category": 2,
+    "SiteName": "Fresno - Garland",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060190011",
+    "IntlAQSCode": "840060190011"
+  },
+  {
     "Latitude": 36.72622,
     "Longitude": -119.73249,
     "UTC": "2023-01-28T04:00",
@@ -728,6 +741,19 @@
     "IntlAQSCode": "840060311004"
   },
   {
+    "Latitude": 37.748707,
+    "Longitude": -119.587094,
+    "UTC": "2023-01-28T04:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 25,
+    "Category": 1,
+    "SiteName": "Yosemite Village - Visitor Center",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060431001",
+    "IntlAQSCode": "840060431001"
+  },
+  {
     "Latitude": 36.102219,
     "Longitude": -119.566002,
     "UTC": "2023-01-28T04:00",
@@ -746,7 +772,7 @@
     "UTC": "2023-01-28T04:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 87,
+    "AQI": 95,
     "Category": 2,
     "SiteName": "Visalia - W Ashland Avenue",
     "AgencyName": "California Air Resources Board",
