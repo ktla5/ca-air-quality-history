@@ -187,7 +187,7 @@
     "UTC": "2023-02-12T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 3,
+    "AQI": 6,
     "Category": 1,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
@@ -427,6 +427,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060990005",
     "IntlAQSCode": "840060990005"
+  },
+  {
+    "Latitude": 38.20185,
+    "Longitude": -120.680277,
+    "UTC": "2023-02-12T22:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 18,
+    "Category": 1,
+    "SiteName": "San Andreas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060090001",
+    "IntlAQSCode": "840060090001"
   },
   {
     "Latitude": 35.494556,
@@ -700,6 +713,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060310004",
     "IntlAQSCode": "840060310004"
+  },
+  {
+    "Latitude": 36.30815,
+    "Longitude": -119.3129,
+    "UTC": "2023-02-12T22:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 26,
+    "Category": 1,
+    "SiteName": "Visalia - W Ashland Avenue",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840061072003",
+    "IntlAQSCode": "840061072003"
   },
   {
     "Latitude": 34.44806,
