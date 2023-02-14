@@ -148,7 +148,7 @@
     "UTC": "2023-02-14T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 7,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -208,6 +208,19 @@
     "IntlAQSCode": "840060010007"
   },
   {
+    "Latitude": 38.53455,
+    "Longitude": -121.7734,
+    "UTC": "2023-02-14T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 28,
+    "Category": 1,
+    "SiteName": "Davis - UCD Campus",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "061130004",
+    "IntlAQSCode": "840061130004"
+  },
+  {
     "Latitude": 36.48187,
     "Longitude": -121.73333,
     "UTC": "2023-02-14T03:00",
@@ -226,7 +239,7 @@
     "UTC": "2023-02-14T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 45,
+    "AQI": 47,
     "Category": 1,
     "SiteName": "Woodland",
     "AgencyName": "Yolo-Solano AQMD",
@@ -239,8 +252,8 @@
     "UTC": "2023-02-14T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 52,
-    "Category": 2,
+    "AQI": 50,
+    "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
     "FullAQSCode": "060959999",
@@ -284,6 +297,19 @@
     "AgencyName": "Sacramento Metro. AQMD",
     "FullAQSCode": "060670015",
     "IntlAQSCode": "840060670015"
+  },
+  {
+    "Latitude": 38.56844,
+    "Longitude": -121.49311,
+    "UTC": "2023-02-14T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 37,
+    "Category": 1,
+    "SiteName": "Downtown Sacramento - T Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060670010",
+    "IntlAQSCode": "840060670010"
   },
   {
     "Latitude": 37.6825,
@@ -351,6 +377,19 @@
     "IntlAQSCode": "840060612003"
   },
   {
+    "Latitude": 38.74643,
+    "Longitude": -121.26498,
+    "UTC": "2023-02-14T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 65,
+    "Category": 2,
+    "SiteName": "Roseville - N.Sunrise/Douglas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060610006",
+    "IntlAQSCode": "840060610006"
+  },
+  {
     "Latitude": 37.8027,
     "Longitude": -121.2208,
     "UTC": "2023-02-14T03:00",
@@ -401,6 +440,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060990006",
     "IntlAQSCode": "840060990006"
+  },
+  {
+    "Latitude": 38.20185,
+    "Longitude": -120.680277,
+    "UTC": "2023-02-14T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 57,
+    "Category": 2,
+    "SiteName": "San Andreas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060090001",
+    "IntlAQSCode": "840060090001"
   },
   {
     "Latitude": 35.494556,
@@ -637,6 +689,19 @@
     "IntlAQSCode": "840060311004"
   },
   {
+    "Latitude": 37.748707,
+    "Longitude": -119.587094,
+    "UTC": "2023-02-14T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 52,
+    "Category": 2,
+    "SiteName": "Yosemite Village - Visitor Center",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060431001",
+    "IntlAQSCode": "840060431001"
+  },
+  {
     "Latitude": 36.102219,
     "Longitude": -119.566002,
     "UTC": "2023-02-14T03:00",
@@ -674,6 +739,19 @@
     "AgencyName": "Great Basin Unified Air Pollution Control District",
     "FullAQSCode": "060510005",
     "IntlAQSCode": "840060510005"
+  },
+  {
+    "Latitude": 35.356615,
+    "Longitude": -119.062613,
+    "UTC": "2023-02-14T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 28,
+    "Category": 1,
+    "SiteName": "Bakersfield - California Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060290014",
+    "IntlAQSCode": "840060290014"
   },
   {
     "Latitude": 36.0319,
@@ -1181,6 +1259,19 @@
     "AgencyName": "Imperial County Air Pollution Control District",
     "FullAQSCode": "060250007",
     "IntlAQSCode": "840060250007"
+  },
+  {
+    "Latitude": 32.67618,
+    "Longitude": -115.48307,
+    "UTC": "2023-02-14T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 24,
+    "Category": 1,
+    "SiteName": "Calexico - Ethel Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060250005",
+    "IntlAQSCode": "840060250005"
   },
   {
     "Latitude": 35.785665,
