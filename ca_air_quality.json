@@ -395,7 +395,7 @@
     "UTC": "2023-02-22T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 15,
+    "AQI": 22,
     "Category": 1,
     "SiteName": "San Andreas",
     "AgencyName": "California Air Resources Board",
@@ -507,6 +507,19 @@
     "IntlAQSCode": "840060832011"
   },
   {
+    "Latitude": 36.78538,
+    "Longitude": -119.77321,
+    "UTC": "2023-02-22T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 6,
+    "Category": 1,
+    "SiteName": "Fresno - Garland",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060190011",
+    "IntlAQSCode": "840060190011"
+  },
+  {
     "Latitude": 34.42775,
     "Longitude": -119.69091,
     "UTC": "2023-02-22T14:00",
@@ -538,7 +551,7 @@
     "UTC": "2023-02-22T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 13,
+    "AQI": 17,
     "Category": 1,
     "SiteName": "Visalia - W Ashland Avenue",
     "AgencyName": "California Air Resources Board",
