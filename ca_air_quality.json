@@ -512,7 +512,7 @@
     "UTC": "2023-02-22T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 7,
+    "AQI": 4,
     "Category": 1,
     "SiteName": "Fresno - Garland",
     "AgencyName": "California Air Resources Board",
@@ -531,6 +531,19 @@
     "AgencyName": "Santa Barbara County Air Pollution Control District",
     "FullAQSCode": "060830011",
     "IntlAQSCode": "840060830011"
+  },
+  {
+    "Latitude": 37.748707,
+    "Longitude": -119.587094,
+    "UTC": "2023-02-22T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Yosemite Village - Visitor Center",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060431001",
+    "IntlAQSCode": "840060431001"
   },
   {
     "Latitude": 34.44806,
@@ -694,7 +707,7 @@
     "UTC": "2023-02-22T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 13,
+    "AQI": 11,
     "Category": 1,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
