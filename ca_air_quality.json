@@ -135,7 +135,7 @@
     "UTC": "2023-03-13T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 2,
+    "AQI": 9,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -226,7 +226,7 @@
     "UTC": "2023-03-13T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 25,
+    "AQI": 31,
     "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -713,6 +713,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060310004",
     "IntlAQSCode": "840060310004"
+  },
+  {
+    "Latitude": 36.30815,
+    "Longitude": -119.3129,
+    "UTC": "2023-03-13T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "Visalia - W Ashland Avenue",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840061072003",
+    "IntlAQSCode": "840061072003"
   },
   {
     "Latitude": 34.44806,
