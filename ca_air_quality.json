@@ -213,7 +213,7 @@
     "UTC": "2023-03-14T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 9,
+    "AQI": 8,
     "Category": 1,
     "SiteName": "Woodland",
     "AgencyName": "Yolo-Solano AQMD",
@@ -226,7 +226,7 @@
     "UTC": "2023-03-14T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 32,
+    "AQI": 37,
     "Category": 1,
     "SiteName": "Rio Vista",
     "AgencyName": "Yolo-Solano AQMD",
@@ -427,6 +427,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060990006",
     "IntlAQSCode": "840060990006"
+  },
+  {
+    "Latitude": 38.20185,
+    "Longitude": -120.680277,
+    "UTC": "2023-03-14T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 18,
+    "Category": 1,
+    "SiteName": "San Andreas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060090001",
+    "IntlAQSCode": "840060090001"
   },
   {
     "Latitude": 35.494556,
@@ -663,6 +676,19 @@
     "IntlAQSCode": "840060311004"
   },
   {
+    "Latitude": 37.748707,
+    "Longitude": -119.587094,
+    "UTC": "2023-03-14T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 44,
+    "Category": 1,
+    "SiteName": "Yosemite Village - Visitor Center",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060431001",
+    "IntlAQSCode": "840060431001"
+  },
+  {
     "Latitude": 36.102219,
     "Longitude": -119.566002,
     "UTC": "2023-03-14T03:00",
@@ -674,6 +700,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060310004",
     "IntlAQSCode": "840060310004"
+  },
+  {
+    "Latitude": 36.30815,
+    "Longitude": -119.3129,
+    "UTC": "2023-03-14T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 14,
+    "Category": 1,
+    "SiteName": "Visalia - W Ashland Avenue",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840061072003",
+    "IntlAQSCode": "840061072003"
   },
   {
     "Latitude": 34.44806,
