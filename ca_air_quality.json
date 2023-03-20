@@ -161,7 +161,7 @@
     "UTC": "2023-03-20T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 5,
+    "AQI": 6,
     "Category": 1,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
@@ -414,6 +414,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060990006",
     "IntlAQSCode": "840060990006"
+  },
+  {
+    "Latitude": 38.20185,
+    "Longitude": -120.680277,
+    "UTC": "2023-03-20T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 3,
+    "Category": 1,
+    "SiteName": "San Andreas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060090001",
+    "IntlAQSCode": "840060090001"
   },
   {
     "Latitude": 35.494556,
@@ -676,6 +689,19 @@
     "IntlAQSCode": "840060310004"
   },
   {
+    "Latitude": 36.30815,
+    "Longitude": -119.3129,
+    "UTC": "2023-03-20T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 6,
+    "Category": 1,
+    "SiteName": "Visalia - W Ashland Avenue",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840061072003",
+    "IntlAQSCode": "840061072003"
+  },
+  {
     "Latitude": 34.44806,
     "Longitude": -119.2313,
     "UTC": "2023-03-20T18:00",
@@ -876,7 +902,7 @@
     "UTC": "2023-03-20T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 20,
+    "AQI": 16,
     "Category": 1,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
@@ -980,7 +1006,7 @@
     "UTC": "2023-03-20T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 9,
+    "AQI": 10,
     "Category": 1,
     "SiteName": "Lone Pine Paiute/Shoshone Tribe-CA",
     "AgencyName": "Quality Review and Exchange System for Tribes (QREST)",
