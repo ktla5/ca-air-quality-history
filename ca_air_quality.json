@@ -286,6 +286,19 @@
     "IntlAQSCode": "840060670015"
   },
   {
+    "Latitude": 38.56844,
+    "Longitude": -121.49311,
+    "UTC": "2023-04-03T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 5,
+    "Category": 1,
+    "SiteName": "Downtown Sacramento - T Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060670010",
+    "IntlAQSCode": "840060670010"
+  },
+  {
     "Latitude": 38.613804,
     "Longitude": -121.368007,
     "UTC": "2023-04-03T06:00",
@@ -325,6 +338,32 @@
     "IntlAQSCode": "840060612003"
   },
   {
+    "Latitude": 37.961578,
+    "Longitude": -121.281414,
+    "UTC": "2023-04-03T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 17,
+    "Category": 1,
+    "SiteName": "Stockton - University Park",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060771003",
+    "IntlAQSCode": "840060771003"
+  },
+  {
+    "Latitude": 38.74643,
+    "Longitude": -121.26498,
+    "UTC": "2023-04-03T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 6,
+    "Category": 1,
+    "SiteName": "Roseville - N.Sunrise/Douglas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060610006",
+    "IntlAQSCode": "840060610006"
+  },
+  {
     "Latitude": 38.494475,
     "Longitude": -121.211131,
     "UTC": "2023-04-03T06:00",
@@ -362,6 +401,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060530008",
     "IntlAQSCode": "840060530008"
+  },
+  {
+    "Latitude": 37.642165,
+    "Longitude": -120.994212,
+    "UTC": "2023-04-03T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 5,
+    "Category": 1,
+    "SiteName": "Modesto - 14th Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060990005",
+    "IntlAQSCode": "840060990005"
   },
   {
     "Latitude": 37.4883,
@@ -572,6 +624,19 @@
     "IntlAQSCode": "840060192016"
   },
   {
+    "Latitude": 36.78538,
+    "Longitude": -119.77321,
+    "UTC": "2023-04-03T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 7,
+    "Category": 1,
+    "SiteName": "Fresno - Garland",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060190011",
+    "IntlAQSCode": "840060190011"
+  },
+  {
     "Latitude": 36.72622,
     "Longitude": -119.73249,
     "UTC": "2023-04-03T06:00",
@@ -681,12 +746,25 @@
     "UTC": "2023-04-03T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 8,
+    "AQI": 7,
     "Category": 1,
     "SiteName": "Lee Vining",
     "AgencyName": "Great Basin Unified Air Pollution Control District",
     "FullAQSCode": "060510005",
     "IntlAQSCode": "840060510005"
+  },
+  {
+    "Latitude": 35.356615,
+    "Longitude": -119.062613,
+    "UTC": "2023-04-03T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Bakersfield - California Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060290014",
+    "IntlAQSCode": "840060290014"
   },
   {
     "Latitude": 36.0319,
@@ -746,7 +824,7 @@
     "UTC": "2023-04-03T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 23,
+    "AQI": 22,
     "Category": 1,
     "SiteName": "Sequoia and Kings Canyon - Ash Mountain",
     "AgencyName": "National Park Service",
@@ -850,7 +928,7 @@
     "UTC": "2023-04-03T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 10,
+    "AQI": 14,
     "Category": 1,
     "SiteName": "NCORE - Bishop",
     "AgencyName": "Great Basin Unified Air Pollution Control District",
@@ -884,12 +962,25 @@
     "IntlAQSCode": "840060371302"
   },
   {
+    "Latitude": 35.04944,
+    "Longitude": -118.18893,
+    "UTC": "2023-04-03T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 25,
+    "Category": 1,
+    "SiteName": "Mojave - Pat Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060290020",
+    "IntlAQSCode": "840060290020"
+  },
+  {
     "Latitude": 34.7254,
     "Longitude": -118.1786,
     "UTC": "2023-04-03T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 14,
+    "AQI": 13,
     "Category": 1,
     "SiteName": "Lancaster-Fairgrounds",
     "AgencyName": "Antelope Valley AQMD",
@@ -941,7 +1032,7 @@
     "UTC": "2023-04-03T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 24,
+    "AQI": 13,
     "Category": 1,
     "SiteName": "Keeler",
     "AgencyName": "Great Basin Unified Air Pollution Control District",
@@ -1149,7 +1240,7 @@
     "UTC": "2023-04-03T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 64,
+    "AQI": 53,
     "Category": 2,
     "SiteName": "Indio-29 Palms",
     "AgencyName": "Twenty-Nine Palms Band of Mission Indians",
@@ -1162,8 +1253,8 @@
     "UTC": "2023-04-03T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 47,
-    "Category": 1,
+    "AQI": 52,
+    "Category": 2,
     "SiteName": "Salton Sea Beach",
     "AgencyName": "Torres Martinez Desert Cahuilla Indians",
     "FullAQSCode": "840TT5950010",
@@ -1181,6 +1272,19 @@
     "AgencyName": "Imperial County Air Pollution Control District",
     "FullAQSCode": "060250007",
     "IntlAQSCode": "840060250007"
+  },
+  {
+    "Latitude": 32.67618,
+    "Longitude": -115.48307,
+    "UTC": "2023-04-03T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Calexico - Ethel Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060250005",
+    "IntlAQSCode": "840060250005"
   },
   {
     "Latitude": 35.785665,
