@@ -195,6 +195,19 @@
     "IntlAQSCode": "840060010007"
   },
   {
+    "Latitude": 38.53455,
+    "Longitude": -121.7734,
+    "UTC": "2023-04-12T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 16,
+    "Category": 1,
+    "SiteName": "Davis - UCD Campus",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "061130004",
+    "IntlAQSCode": "840061130004"
+  },
+  {
     "Latitude": 36.48187,
     "Longitude": -121.73333,
     "UTC": "2023-04-12T03:00",
@@ -427,6 +440,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060990006",
     "IntlAQSCode": "840060990006"
+  },
+  {
+    "Latitude": 38.20185,
+    "Longitude": -120.680277,
+    "UTC": "2023-04-12T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 7,
+    "Category": 1,
+    "SiteName": "San Andreas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060090001",
+    "IntlAQSCode": "840060090001"
   },
   {
     "Latitude": 35.494556,
@@ -663,6 +689,19 @@
     "IntlAQSCode": "840060311004"
   },
   {
+    "Latitude": 37.748707,
+    "Longitude": -119.587094,
+    "UTC": "2023-04-12T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 25,
+    "Category": 1,
+    "SiteName": "Yosemite Village - Visitor Center",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060431001",
+    "IntlAQSCode": "840060431001"
+  },
+  {
     "Latitude": 36.102219,
     "Longitude": -119.566002,
     "UTC": "2023-04-12T03:00",
@@ -674,6 +713,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060310004",
     "IntlAQSCode": "840060310004"
+  },
+  {
+    "Latitude": 36.30815,
+    "Longitude": -119.3129,
+    "UTC": "2023-04-12T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 19,
+    "Category": 1,
+    "SiteName": "Visalia - W Ashland Avenue",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840061072003",
+    "IntlAQSCode": "840061072003"
   },
   {
     "Latitude": 34.44806,
@@ -863,7 +915,7 @@
     "UTC": "2023-04-12T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 19,
+    "AQI": 21,
     "Category": 1,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
@@ -954,7 +1006,7 @@
     "UTC": "2023-04-12T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 16,
+    "AQI": 17,
     "Category": 1,
     "SiteName": "Lone Pine Paiute/Shoshone Tribe-CA",
     "AgencyName": "Quality Review and Exchange System for Tribes (QREST)",
