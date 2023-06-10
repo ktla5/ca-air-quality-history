@@ -772,7 +772,7 @@
     "UTC": "2023-06-10T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 23,
+    "AQI": 22,
     "Category": 1,
     "SiteName": "Lee Vining",
     "AgencyName": "Great Basin Unified Air Pollution Control District",
@@ -967,7 +967,7 @@
     "UTC": "2023-06-10T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 28,
+    "AQI": 30,
     "Category": 1,
     "SiteName": "Lancaster-Fairgrounds",
     "AgencyName": "Antelope Valley AQMD",
@@ -1012,6 +1012,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "060590007",
     "IntlAQSCode": "840060590007"
+  },
+  {
+    "Latitude": 36.4878,
+    "Longitude": -117.871,
+    "UTC": "2023-06-10T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 42,
+    "Category": 1,
+    "SiteName": "Keeler",
+    "AgencyName": "Great Basin Unified Air Pollution Control District",
+    "FullAQSCode": "060271003",
+    "IntlAQSCode": "840060271003"
   },
   {
     "Latitude": 34.1439,
