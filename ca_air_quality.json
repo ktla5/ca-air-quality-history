@@ -325,6 +325,19 @@
     "IntlAQSCode": "840060771003"
   },
   {
+    "Latitude": 38.74643,
+    "Longitude": -121.26498,
+    "UTC": "2023-06-14T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Roseville - N.Sunrise/Douglas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060610006",
+    "IntlAQSCode": "840060610006"
+  },
+  {
     "Latitude": 37.8027,
     "Longitude": -121.2208,
     "UTC": "2023-06-14T18:00",
@@ -577,7 +590,7 @@
     "UTC": "2023-06-14T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 22,
     "Category": 1,
     "SiteName": "Fresno - Garland",
     "AgencyName": "California Air Resources Board",
@@ -676,6 +689,19 @@
     "IntlAQSCode": "840061072003"
   },
   {
+    "Latitude": 36.90575,
+    "Longitude": -119.2954,
+    "UTC": "2023-06-14T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 51,
+    "Category": 2,
+    "SiteName": "Trimmer",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840060199998",
+    "IntlAQSCode": "840060199998"
+  },
+  {
     "Latitude": 34.44806,
     "Longitude": -119.2313,
     "UTC": "2023-06-14T18:00",
@@ -720,7 +746,7 @@
     "UTC": "2023-06-14T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 31,
+    "AQI": 28,
     "Category": 1,
     "SiteName": "Bakersfield - California Ave",
     "AgencyName": "California Air Resources Board",
