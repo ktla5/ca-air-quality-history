@@ -148,7 +148,7 @@
     "UTC": "2023-06-19T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 15,
+    "AQI": 5,
     "Category": 1,
     "SiteName": "Vacaville",
     "AgencyName": "Yolo-Solano AQMD",
@@ -1495,6 +1495,19 @@
     "IntlAQSCode": "840320030602"
   },
   {
+    "Latitude": 32.690277,
+    "Longitude": -114.614441,
+    "UTC": "2023-06-19T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 32,
+    "Category": 1,
+    "SiteName": "Yuma Supersite",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040278011",
+    "IntlAQSCode": "840040278011"
+  },
+  {
     "Latitude": 36.815897,
     "Longitude": -114.050347,
     "UTC": "2023-06-19T17:00",
@@ -1513,7 +1526,7 @@
     "UTC": "2023-06-19T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 13,
+    "AQI": 0,
     "Category": 1,
     "SiteName": "Alamo Lake",
     "AgencyName": "Arizona Department of Environmental Quality",
