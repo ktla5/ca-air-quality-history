@@ -1253,8 +1253,8 @@
     "UTC": "2023-07-15T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 48,
-    "Category": 1,
+    "AQI": 53,
+    "Category": 2,
     "SiteName": "Morongo School",
     "AgencyName": "Morongo Band of Mission Indians",
     "FullAQSCode": "840TT5821016",
@@ -1272,6 +1272,19 @@
     "AgencyName": "San Diego APCD",
     "FullAQSCode": "060731006",
     "IntlAQSCode": "840060731006"
+  },
+  {
+    "Latitude": 33.71969,
+    "Longitude": -116.1897,
+    "UTC": "2023-07-15T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 206,
+    "Category": 5,
+    "SiteName": "Indio-29 Palms",
+    "AgencyName": "Twenty-Nine Palms Band of Mission Indians",
+    "FullAQSCode": "840TT5980500",
+    "IntlAQSCode": "840TT5980500"
   },
   {
     "Latitude": 33.37911,
