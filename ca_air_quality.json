@@ -44,7 +44,7 @@
     "UTC": "2023-08-10T11:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 10,
+    "AQI": 3,
     "Category": 1,
     "SiteName": "Laney College",
     "AgencyName": "San Francisco Bay Area AQMD",
