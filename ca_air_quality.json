@@ -746,7 +746,7 @@
     "UTC": "2023-08-21T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 7,
+    "AQI": 9,
     "Category": 1,
     "SiteName": "Lee Vining",
     "AgencyName": "Great Basin Unified Air Pollution Control District",
@@ -928,7 +928,7 @@
     "UTC": "2023-08-21T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 11,
+    "AQI": 10,
     "Category": 1,
     "SiteName": "NCORE - Bishop",
     "AgencyName": "Great Basin Unified Air Pollution Control District",
@@ -1467,6 +1467,19 @@
     "AgencyName": "Clark County Department of Environment and Sustainability ",
     "FullAQSCode": "320030602",
     "IntlAQSCode": "840320030602"
+  },
+  {
+    "Latitude": 32.690277,
+    "Longitude": -114.614441,
+    "UTC": "2023-08-21T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 53,
+    "Category": 2,
+    "SiteName": "Yuma Supersite",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040278011",
+    "IntlAQSCode": "840040278011"
   },
   {
     "Latitude": 36.815897,
