@@ -187,7 +187,7 @@
     "UTC": "2023-08-30T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 162,
+    "AQI": 160,
     "Category": 4,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
@@ -278,7 +278,7 @@
     "UTC": "2023-08-30T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 155,
+    "AQI": 154,
     "Category": 4,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -369,7 +369,7 @@
     "UTC": "2023-08-30T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 59,
+    "AQI": 54,
     "Category": 2,
     "SiteName": "Roseville - N.Sunrise/Douglas",
     "AgencyName": "California Air Resources Board",
@@ -434,7 +434,7 @@
     "UTC": "2023-08-30T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 110,
+    "AQI": 144,
     "Category": 3,
     "SiteName": "Modesto - 14th Street",
     "AgencyName": "California Air Resources Board",
@@ -650,6 +650,19 @@
     "IntlAQSCode": "840060192016"
   },
   {
+    "Latitude": 36.78538,
+    "Longitude": -119.77321,
+    "UTC": "2023-08-30T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 54,
+    "Category": 2,
+    "SiteName": "Fresno - Garland",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060190011",
+    "IntlAQSCode": "840060190011"
+  },
+  {
     "Latitude": 36.72622,
     "Longitude": -119.73249,
     "UTC": "2023-08-30T14:00",
@@ -741,6 +754,19 @@
     "IntlAQSCode": "840061072003"
   },
   {
+    "Latitude": 36.90575,
+    "Longitude": -119.2954,
+    "UTC": "2023-08-30T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 20,
+    "Category": 1,
+    "SiteName": "Trimmer",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840060199998",
+    "IntlAQSCode": "840060199998"
+  },
+  {
     "Latitude": 34.44806,
     "Longitude": -119.2313,
     "UTC": "2023-08-30T14:00",
@@ -806,6 +832,19 @@
     "IntlAQSCode": "840061072010"
   },
   {
+    "Latitude": 36.6972,
+    "Longitude": -119.0189,
+    "UTC": "2023-08-30T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 33,
+    "Category": 1,
+    "SiteName": "Pinehurst",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840060199999",
+    "IntlAQSCode": "840060199999"
+  },
+  {
     "Latitude": 35.3853,
     "Longitude": -119.014702,
     "UTC": "2023-08-30T14:00",
@@ -856,6 +895,19 @@
     "AgencyName": "National Park Service",
     "FullAQSCode": "061070009",
     "IntlAQSCode": "840061070009"
+  },
+  {
+    "Latitude": 36.1358,
+    "Longitude": -118.8108,
+    "UTC": "2023-08-30T14:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 66,
+    "Category": 2,
+    "SiteName": "Springville",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840061079998",
+    "IntlAQSCode": "840061079998"
   },
   {
     "Latitude": 34.40428,
@@ -915,7 +967,7 @@
     "UTC": "2023-08-30T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 22,
     "Category": 1,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
@@ -1344,7 +1396,7 @@
     "UTC": "2023-08-30T14:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 34,
+    "AQI": 33,
     "Category": 1,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
