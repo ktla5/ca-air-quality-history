@@ -1,5 +1,18 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2023-09-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 14,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2023-09-02T10:00",
@@ -24,6 +37,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060750005",
     "IntlAQSCode": "840060750005"
+  },
+  {
+    "Latitude": 37.9604,
+    "Longitude": -122.3571,
+    "UTC": "2023-09-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 23,
+    "Category": 1,
+    "SiteName": "San Pablo - Rumrill",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060131004",
+    "IntlAQSCode": "840060131004"
   },
   {
     "Latitude": 37.793624,
@@ -65,6 +91,19 @@
     "IntlAQSCode": "840060871005"
   },
   {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2023-09-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "Concord",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
+  },
+  {
     "Latitude": 36.98332,
     "Longitude": -121.98822,
     "UTC": "2023-09-02T10:00",
@@ -89,6 +128,32 @@
     "AgencyName": "Yolo-Solano AQMD",
     "FullAQSCode": "060953002",
     "IntlAQSCode": "840060953002"
+  },
+  {
+    "Latitude": 37.3483,
+    "Longitude": -121.8947,
+    "UTC": "2023-09-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 19,
+    "Category": 1,
+    "SiteName": "San Jose - Jackson St.",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060850005",
+    "IntlAQSCode": "840060850005"
+  },
+  {
+    "Latitude": 37.338202,
+    "Longitude": -121.849892,
+    "UTC": "2023-09-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 24,
+    "Category": 1,
+    "SiteName": "San Jose - Knox Ave",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060850006",
+    "IntlAQSCode": "840060850006"
   },
   {
     "Latitude": 37.687526,
@@ -156,6 +221,19 @@
     "IntlAQSCode": "840060531003"
   },
   {
+    "Latitude": 36.999571,
+    "Longitude": -121.574684,
+    "UTC": "2023-09-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 4,
+    "Category": 1,
+    "SiteName": "Gilory - 9th Street",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060850002",
+    "IntlAQSCode": "840060850002"
+  },
+  {
     "Latitude": 38.593328,
     "Longitude": -121.503728,
     "UTC": "2023-09-02T10:00",
@@ -167,6 +245,19 @@
     "AgencyName": "Sacramento Metro. AQMD",
     "FullAQSCode": "060670015",
     "IntlAQSCode": "840060670015"
+  },
+  {
+    "Latitude": 38.56844,
+    "Longitude": -121.49311,
+    "UTC": "2023-09-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Downtown Sacramento - T Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060670010",
+    "IntlAQSCode": "840060670010"
   },
   {
     "Latitude": 37.6825,
@@ -239,7 +330,7 @@
     "UTC": "2023-09-02T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 26,
+    "AQI": 25,
     "Category": 1,
     "SiteName": "Stockton - University Park",
     "AgencyName": "California Air Resources Board",
@@ -317,7 +408,7 @@
     "UTC": "2023-09-02T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 22,
+    "AQI": 21,
     "Category": 1,
     "SiteName": "Modesto - 14th Street",
     "AgencyName": "California Air Resources Board",
@@ -538,7 +629,7 @@
     "UTC": "2023-09-02T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 0,
+    "AQI": 12,
     "Category": 1,
     "SiteName": "Fresno - Garland",
     "AgencyName": "California Air Resources Board",
@@ -603,7 +694,7 @@
     "UTC": "2023-09-02T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 35,
+    "AQI": 36,
     "Category": 1,
     "SiteName": "Yosemite Village - Visitor Center",
     "AgencyName": "California Air Resources Board",
@@ -681,7 +772,7 @@
     "UTC": "2023-09-02T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 41,
+    "AQI": 38,
     "Category": 1,
     "SiteName": "Bakersfield - California Ave",
     "AgencyName": "California Air Resources Board",
@@ -700,6 +791,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "061072010",
     "IntlAQSCode": "840061072010"
+  },
+  {
+    "Latitude": 36.6972,
+    "Longitude": -119.0189,
+    "UTC": "2023-09-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 41,
+    "Category": 1,
+    "SiteName": "Pinehurst",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840060199999",
+    "IntlAQSCode": "840060199999"
   },
   {
     "Latitude": 35.3853,
@@ -752,6 +856,19 @@
     "AgencyName": "National Park Service",
     "FullAQSCode": "061070009",
     "IntlAQSCode": "840061070009"
+  },
+  {
+    "Latitude": 36.1358,
+    "Longitude": -118.8108,
+    "UTC": "2023-09-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 56,
+    "Category": 2,
+    "SiteName": "Springville",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840061079998",
+    "IntlAQSCode": "840061079998"
   },
   {
     "Latitude": 34.40428,
@@ -811,7 +928,7 @@
     "UTC": "2023-09-02T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 30,
+    "AQI": 31,
     "Category": 1,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
