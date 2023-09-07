@@ -26,6 +26,19 @@
     "IntlAQSCode": "840060410001"
   },
   {
+    "Latitude": 37.9604,
+    "Longitude": -122.3571,
+    "UTC": "2023-09-07T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "San Pablo - Rumrill",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060131004",
+    "IntlAQSCode": "840060131004"
+  },
+  {
     "Latitude": 37.8148,
     "Longitude": -122.282402,
     "UTC": "2023-09-07T13:00",
@@ -941,7 +954,7 @@
     "UTC": "2023-09-07T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 25,
+    "AQI": 27,
     "Category": 1,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
