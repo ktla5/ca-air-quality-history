@@ -1097,7 +1097,7 @@
     "UTC": "2023-09-07T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 24,
+    "AQI": 22,
     "Category": 1,
     "SiteName": "Keeler",
     "AgencyName": "Great Basin Unified Air Pollution Control District",
@@ -1344,7 +1344,7 @@
     "UTC": "2023-09-07T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 33,
+    "AQI": 48,
     "Category": 1,
     "SiteName": "Morongo School",
     "AgencyName": "Morongo Band of Mission Indians",
@@ -1370,8 +1370,8 @@
     "UTC": "2023-09-07T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 42,
-    "Category": 1,
+    "AQI": 52,
+    "Category": 2,
     "SiteName": "Indio-29 Palms",
     "AgencyName": "Twenty-Nine Palms Band of Mission Indians",
     "FullAQSCode": "840TT5980500",
@@ -1597,5 +1597,18 @@
     "AgencyName": "Clark County Department of Environment and Sustainability ",
     "FullAQSCode": "320030024",
     "IntlAQSCode": "840320030024"
+  },
+  {
+    "Latitude": 34.243889,
+    "Longitude": -113.558611,
+    "UTC": "2023-09-07T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Alamo Lake",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040128000",
+    "IntlAQSCode": "840040128000"
   }
 ]
