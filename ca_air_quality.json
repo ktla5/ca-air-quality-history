@@ -52,6 +52,19 @@
     "IntlAQSCode": "840060010011"
   },
   {
+    "Latitude": 37.793624,
+    "Longitude": -122.263376,
+    "UTC": "2023-09-13T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 41,
+    "Category": 1,
+    "SiteName": "Laney College",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010012",
+    "IntlAQSCode": "840060010012"
+  },
+  {
     "Latitude": 37.4828,
     "Longitude": -122.2022,
     "UTC": "2023-09-13T16:00",
