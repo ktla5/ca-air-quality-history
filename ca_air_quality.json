@@ -91,6 +91,19 @@
     "IntlAQSCode": "840060010009"
   },
   {
+    "Latitude": 37.06315,
+    "Longitude": -122.083092,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 37,
+    "Category": 1,
+    "SiteName": "SLV Middle School AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060871005",
+    "IntlAQSCode": "840060871005"
+  },
+  {
     "Latitude": 37.9383,
     "Longitude": -122.025,
     "UTC": "2023-09-29T01:00",
@@ -102,6 +115,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060130002",
     "IntlAQSCode": "840060130002"
+  },
+  {
+    "Latitude": 36.98332,
+    "Longitude": -121.98822,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 43,
+    "Category": 1,
+    "SiteName": "Santa Cruz AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060870007",
+    "IntlAQSCode": "840060870007"
   },
   {
     "Latitude": 37.701222,
@@ -154,6 +180,32 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060010007",
     "IntlAQSCode": "840060010007"
+  },
+  {
+    "Latitude": 36.48187,
+    "Longitude": -121.73333,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 22,
+    "Category": 1,
+    "SiteName": "Carmel Valley AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060530002",
+    "IntlAQSCode": "840060530002"
+  },
+  {
+    "Latitude": 36.694261,
+    "Longitude": -121.623271,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 44,
+    "Category": 1,
+    "SiteName": "Salinas AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060531003",
+    "IntlAQSCode": "840060531003"
   },
   {
     "Latitude": 36.999571,
@@ -234,6 +286,19 @@
     "IntlAQSCode": "840060670006"
   },
   {
+    "Latitude": 36.843425,
+    "Longitude": -121.3621,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 31,
+    "Category": 1,
+    "SiteName": "Hollister AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060690002",
+    "IntlAQSCode": "840060690002"
+  },
+  {
     "Latitude": 37.961578,
     "Longitude": -121.281414,
     "UTC": "2023-09-29T01:00",
@@ -297,6 +362,19 @@
     "AgencyName": "Sacramento Metro. AQMD",
     "FullAQSCode": "060670012",
     "IntlAQSCode": "840060670012"
+  },
+  {
+    "Latitude": 36.209286,
+    "Longitude": -121.126371,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 33,
+    "Category": 1,
+    "SiteName": "King City AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060530008",
+    "IntlAQSCode": "840060530008"
   },
   {
     "Latitude": 37.642165,
@@ -585,6 +663,19 @@
     "IntlAQSCode": "840061072003"
   },
   {
+    "Latitude": 36.90575,
+    "Longitude": -119.2954,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 25,
+    "Category": 1,
+    "SiteName": "Trimmer",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840060199998",
+    "IntlAQSCode": "840060199998"
+  },
+  {
     "Latitude": 34.44806,
     "Longitude": -119.2313,
     "UTC": "2023-09-29T01:00",
@@ -611,6 +702,19 @@
     "IntlAQSCode": "840061113001"
   },
   {
+    "Latitude": 37.962069,
+    "Longitude": -119.120278,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 12,
+    "Category": 1,
+    "SiteName": "Lee Vining",
+    "AgencyName": "Great Basin Unified Air Pollution Control District",
+    "FullAQSCode": "060510005",
+    "IntlAQSCode": "840060510005"
+  },
+  {
     "Latitude": 35.356615,
     "Longitude": -119.062613,
     "UTC": "2023-09-29T01:00",
@@ -635,6 +739,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "061072010",
     "IntlAQSCode": "840061072010"
+  },
+  {
+    "Latitude": 36.6972,
+    "Longitude": -119.0189,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 32,
+    "Category": 1,
+    "SiteName": "Pinehurst",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840060199999",
+    "IntlAQSCode": "840060199999"
   },
   {
     "Latitude": 35.3853,
@@ -674,6 +791,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060292009",
     "IntlAQSCode": "840060292009"
+  },
+  {
+    "Latitude": 36.489399,
+    "Longitude": -118.826897,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 40,
+    "Category": 1,
+    "SiteName": "Sequoia and Kings Canyon - Ash Mountain",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "061070009",
+    "IntlAQSCode": "840061070009"
   },
   {
     "Latitude": 34.40428,
@@ -741,6 +871,19 @@
     "IntlAQSCode": "840060374010"
   },
   {
+    "Latitude": 37.360701,
+    "Longitude": -118.330835,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 22,
+    "Category": 1,
+    "SiteName": "NCORE - Bishop",
+    "AgencyName": "Great Basin Unified Air Pollution Control District",
+    "FullAQSCode": "060270002",
+    "IntlAQSCode": "840060270002"
+  },
+  {
     "Latitude": 34.066429,
     "Longitude": -118.226755,
     "UTC": "2023-09-29T01:00",
@@ -804,6 +947,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "060590007",
     "IntlAQSCode": "840060590007"
+  },
+  {
+    "Latitude": 36.4878,
+    "Longitude": -117.871,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 33,
+    "Category": 1,
+    "SiteName": "Keeler",
+    "AgencyName": "Great Basin Unified Air Pollution Control District",
+    "FullAQSCode": "060271003",
+    "IntlAQSCode": "840060271003"
   },
   {
     "Latitude": 34.1439,
@@ -1027,6 +1183,19 @@
     "IntlAQSCode": "840060650012"
   },
   {
+    "Latitude": 33.9446,
+    "Longitude": -116.8303,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 46,
+    "Category": 1,
+    "SiteName": "Morongo School",
+    "AgencyName": "Morongo Band of Mission Indians",
+    "FullAQSCode": "840TT5821016",
+    "IntlAQSCode": "840TT5821016"
+  },
+  {
     "Latitude": 32.842297,
     "Longitude": -116.768326,
     "UTC": "2023-09-29T01:00",
@@ -1079,6 +1248,175 @@
     "IntlAQSCode": "840060250005"
   },
   {
+    "Latitude": 35.785665,
+    "Longitude": -115.357087,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 10,
+    "Category": 1,
+    "SiteName": "Jean",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320031019",
+    "IntlAQSCode": "840320031019"
+  },
+  {
+    "Latitude": 36.173415,
+    "Longitude": -115.332728,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Palo Verde",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030073",
+    "IntlAQSCode": "840320030073"
+  },
+  {
+    "Latitude": 36.0075,
+    "Longitude": -115.263056,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 14,
+    "Category": 1,
+    "SiteName": "Mountains Edge",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030044",
+    "IntlAQSCode": "840320030044"
+  },
+  {
+    "Latitude": 36.169756,
+    "Longitude": -115.263038,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Walter Johnson",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030071",
+    "IntlAQSCode": "840320030071"
+  },
+  {
+    "Latitude": 36.106389,
+    "Longitude": -115.253333,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 12,
+    "Category": 1,
+    "SiteName": "Paul Meyer",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030043",
+    "IntlAQSCode": "840320030043"
+  },
+  {
+    "Latitude": 36.270592,
+    "Longitude": -115.238282,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Joe Neal",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030075",
+    "IntlAQSCode": "840320030075"
+  },
+  {
+    "Latitude": 36.139707,
+    "Longitude": -115.175654,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "RT",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320031501",
+    "IntlAQSCode": "840320031501"
+  },
+  {
+    "Latitude": 35.987908,
+    "Longitude": -115.14885,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Liberty High School",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030299",
+    "IntlAQSCode": "840320030299"
+  },
+  {
+    "Latitude": 36.163962,
+    "Longitude": -115.11393,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "Sunrise Acres",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030561",
+    "IntlAQSCode": "840320030561"
+  },
+  {
+    "Latitude": 36.214465,
+    "Longitude": -115.091437,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "Walnut Rec.",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320032003",
+    "IntlAQSCode": "840320032003"
+  },
+  {
+    "Latitude": 36.141875,
+    "Longitude": -115.078742,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Jerome Mack",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030540",
+    "IntlAQSCode": "840320030540"
+  },
+  {
+    "Latitude": 36.048705,
+    "Longitude": -115.052942,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 15,
+    "Category": 1,
+    "SiteName": "GreenValley",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030298",
+    "IntlAQSCode": "840320030298"
+  },
+  {
+    "Latitude": 35.969848,
+    "Longitude": -114.835007,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 16,
+    "Category": 1,
+    "SiteName": "Garrett Jr. High",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030602",
+    "IntlAQSCode": "840320030602"
+  },
+  {
     "Latitude": 32.690277,
     "Longitude": -114.614441,
     "UTC": "2023-09-29T01:00",
@@ -1090,6 +1428,19 @@
     "AgencyName": "Arizona Department of Environmental Quality",
     "FullAQSCode": "040278011",
     "IntlAQSCode": "840040278011"
+  },
+  {
+    "Latitude": 36.815897,
+    "Longitude": -114.050347,
+    "UTC": "2023-09-29T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Virgin Valley",
+    "AgencyName": "Clark County Department of Environment and Sustainability ",
+    "FullAQSCode": "320030024",
+    "IntlAQSCode": "840320030024"
   },
   {
     "Latitude": 34.243889,
