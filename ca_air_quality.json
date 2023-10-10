@@ -91,6 +91,19 @@
     "IntlAQSCode": "840060010009"
   },
   {
+    "Latitude": 37.06315,
+    "Longitude": -122.083092,
+    "UTC": "2023-10-10T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 38,
+    "Category": 1,
+    "SiteName": "SLV Middle School AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060871005",
+    "IntlAQSCode": "840060871005"
+  },
+  {
     "Latitude": 37.9383,
     "Longitude": -122.025,
     "UTC": "2023-10-10T21:00",
@@ -102,6 +115,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060130002",
     "IntlAQSCode": "840060130002"
+  },
+  {
+    "Latitude": 36.98332,
+    "Longitude": -121.98822,
+    "UTC": "2023-10-10T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Santa Cruz AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060870007",
+    "IntlAQSCode": "840060870007"
   },
   {
     "Latitude": 38.356556,
@@ -182,6 +208,19 @@
     "IntlAQSCode": "840061130004"
   },
   {
+    "Latitude": 36.48187,
+    "Longitude": -121.73333,
+    "UTC": "2023-10-10T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 3,
+    "Category": 1,
+    "SiteName": "Carmel Valley AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060530002",
+    "IntlAQSCode": "840060530002"
+  },
+  {
     "Latitude": 38.661239,
     "Longitude": -121.732683,
     "UTC": "2023-10-10T21:00",
@@ -206,6 +245,19 @@
     "AgencyName": "Yolo-Solano AQMD",
     "FullAQSCode": "060959999",
     "IntlAQSCode": "840060959999"
+  },
+  {
+    "Latitude": 36.694261,
+    "Longitude": -121.623271,
+    "UTC": "2023-10-10T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 28,
+    "Category": 1,
+    "SiteName": "Salinas AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060531003",
+    "IntlAQSCode": "840060531003"
   },
   {
     "Latitude": 36.999571,
@@ -271,6 +323,19 @@
     "AgencyName": "Sacramento Metro. AQMD",
     "FullAQSCode": "060670011",
     "IntlAQSCode": "840060670011"
+  },
+  {
+    "Latitude": 36.843425,
+    "Longitude": -121.3621,
+    "UTC": "2023-10-10T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 4,
+    "Category": 1,
+    "SiteName": "Hollister AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060690002",
+    "IntlAQSCode": "840060690002"
   },
   {
     "Latitude": 38.86794,
@@ -349,6 +414,19 @@
     "AgencyName": "Sacramento Metro. AQMD",
     "FullAQSCode": "060670012",
     "IntlAQSCode": "840060670012"
+  },
+  {
+    "Latitude": 36.209286,
+    "Longitude": -121.126371,
+    "UTC": "2023-10-10T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 8,
+    "Category": 1,
+    "SiteName": "King City AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060530008",
+    "IntlAQSCode": "840060530008"
   },
   {
     "Latitude": 37.4883,
@@ -889,7 +967,7 @@
     "UTC": "2023-10-10T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 12,
+    "AQI": 10,
     "Category": 1,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
@@ -993,7 +1071,7 @@
     "UTC": "2023-10-10T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 1,
+    "AQI": 4,
     "Category": 1,
     "SiteName": "Lone Pine Paiute/Shoshone Tribe-CA",
     "AgencyName": "Quality Review and Exchange System for Tribes (QREST)",
