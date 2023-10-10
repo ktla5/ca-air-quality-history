@@ -949,6 +949,19 @@
     "IntlAQSCode": "840060376012"
   },
   {
+    "Latitude": 37.3667,
+    "Longitude": -118.4167,
+    "UTC": "2023-10-10T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 37,
+    "Category": 1,
+    "SiteName": "Bishop Paiute Tribe-CA",
+    "AgencyName": "Bishop Paiute Tribe",
+    "FullAQSCode": "060271023",
+    "IntlAQSCode": "840060271023"
+  },
+  {
     "Latitude": 34.181977,
     "Longitude": -118.363036,
     "UTC": "2023-10-10T15:00",
@@ -1038,6 +1051,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "840060374009",
     "IntlAQSCode": "840060374009"
+  },
+  {
+    "Latitude": 36.5975,
+    "Longitude": -118.04,
+    "UTC": "2023-10-10T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 9,
+    "Category": 1,
+    "SiteName": "Lone Pine Paiute/Shoshone Tribe-CA",
+    "AgencyName": "Quality Review and Exchange System for Tribes (QREST)",
+    "FullAQSCode": "060271018",
+    "IntlAQSCode": "840060271018"
   },
   {
     "Latitude": 33.830586,
