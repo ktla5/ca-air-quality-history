@@ -806,6 +806,19 @@
     "IntlAQSCode": "840060199999"
   },
   {
+    "Latitude": 35.3853,
+    "Longitude": -119.014702,
+    "UTC": "2023-12-12T11:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 119,
+    "Category": 3,
+    "SiteName": "Bakersfield - Golden State Highway",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060290010",
+    "IntlAQSCode": "840060290010"
+  },
+  {
     "Latitude": 34.21017,
     "Longitude": -118.87051,
     "UTC": "2023-12-12T11:00",
@@ -915,7 +928,7 @@
     "UTC": "2023-12-12T11:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 97,
+    "AQI": 76,
     "Category": 2,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
@@ -1006,7 +1019,7 @@
     "UTC": "2023-12-12T11:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 25,
+    "AQI": 22,
     "Category": 1,
     "SiteName": "Lone Pine Paiute/Shoshone Tribe-CA",
     "AgencyName": "Quality Review and Exchange System for Tribes (QREST)",
