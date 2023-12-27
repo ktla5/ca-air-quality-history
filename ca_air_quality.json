@@ -767,6 +767,19 @@
     "IntlAQSCode": "840061072003"
   },
   {
+    "Latitude": 36.90575,
+    "Longitude": -119.2954,
+    "UTC": "2023-12-27T08:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 29,
+    "Category": 1,
+    "SiteName": "Trimmer",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840060199998",
+    "IntlAQSCode": "840060199998"
+  },
+  {
     "Latitude": 34.44806,
     "Longitude": -119.2313,
     "UTC": "2023-12-27T08:00",
@@ -798,7 +811,7 @@
     "UTC": "2023-12-27T08:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 9,
+    "AQI": 8,
     "Category": 1,
     "SiteName": "Lee Vining",
     "AgencyName": "Great Basin Unified Air Pollution Control District",
@@ -830,6 +843,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "061072010",
     "IntlAQSCode": "840061072010"
+  },
+  {
+    "Latitude": 36.6972,
+    "Longitude": -119.0189,
+    "UTC": "2023-12-27T08:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Pinehurst",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840060199999",
+    "IntlAQSCode": "840060199999"
   },
   {
     "Latitude": 35.3853,
@@ -869,6 +895,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060292009",
     "IntlAQSCode": "840060292009"
+  },
+  {
+    "Latitude": 36.1358,
+    "Longitude": -118.8108,
+    "UTC": "2023-12-27T08:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 52,
+    "Category": 2,
+    "SiteName": "Springville",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840061079998",
+    "IntlAQSCode": "840061079998"
   },
   {
     "Latitude": 34.40428,
@@ -1006,7 +1045,7 @@
     "UTC": "2023-12-27T08:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 24,
+    "AQI": 27,
     "Category": 1,
     "SiteName": "Lancaster-Fairgrounds",
     "AgencyName": "Antelope Valley AQMD",
@@ -1058,7 +1097,7 @@
     "UTC": "2023-12-27T08:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 20,
+    "AQI": 19,
     "Category": 1,
     "SiteName": "Keeler",
     "AgencyName": "Great Basin Unified Air Pollution Control District",
