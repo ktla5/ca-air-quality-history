@@ -1435,7 +1435,7 @@
     "UTC": "2024-01-19T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 41,
+    "AQI": 35,
     "Category": 1,
     "SiteName": "Yuma Supersite",
     "AgencyName": "Arizona Department of Environmental Quality",
@@ -1454,6 +1454,19 @@
     "AgencyName": "Clark County Department of Environment and Sustainability ",
     "FullAQSCode": "320030024",
     "IntlAQSCode": "840320030024"
+  },
+  {
+    "Latitude": 34.243889,
+    "Longitude": -113.558611,
+    "UTC": "2024-01-19T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 20,
+    "Category": 1,
+    "SiteName": "Alamo Lake",
+    "AgencyName": "Arizona Department of Environmental Quality",
+    "FullAQSCode": "040128000",
+    "IntlAQSCode": "840040128000"
   },
   {
     "Latitude": 37.179,
