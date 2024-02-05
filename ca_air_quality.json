@@ -109,7 +109,7 @@
     "UTC": "2024-02-05T01:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 56,
+    "AQI": 53,
     "Category": 2,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
@@ -156,6 +156,19 @@
     "IntlAQSCode": "840060670015"
   },
   {
+    "Latitude": 38.56844,
+    "Longitude": -121.49311,
+    "UTC": "2024-02-05T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Downtown Sacramento - T Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060670010",
+    "IntlAQSCode": "840060670010"
+  },
+  {
     "Latitude": 37.6825,
     "Longitude": -121.4406,
     "UTC": "2024-02-05T01:00",
@@ -200,7 +213,7 @@
     "UTC": "2024-02-05T01:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 4,
+    "AQI": 6,
     "Category": 1,
     "SiteName": "Roseville - N.Sunrise/Douglas",
     "AgencyName": "California Air Resources Board",
