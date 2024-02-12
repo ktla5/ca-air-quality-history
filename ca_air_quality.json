@@ -174,7 +174,7 @@
     "UTC": "2024-02-12T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 35,
+    "AQI": 29,
     "Category": 1,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
@@ -265,8 +265,8 @@
     "UTC": "2024-02-12T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 51,
-    "Category": 2,
+    "AQI": 50,
+    "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060670010",
@@ -356,7 +356,7 @@
     "UTC": "2024-02-12T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 38,
+    "AQI": 31,
     "Category": 1,
     "SiteName": "Roseville - N.Sunrise/Douglas",
     "AgencyName": "California Air Resources Board",
@@ -884,6 +884,19 @@
     "IntlAQSCode": "840060376012"
   },
   {
+    "Latitude": 37.3667,
+    "Longitude": -118.4167,
+    "UTC": "2024-02-12T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Bishop Paiute Tribe-CA",
+    "AgencyName": "Bishop Paiute Tribe",
+    "FullAQSCode": "060271023",
+    "IntlAQSCode": "840060271023"
+  },
+  {
     "Latitude": 34.181977,
     "Longitude": -118.363036,
     "UTC": "2024-02-12T21:00",
@@ -975,6 +988,19 @@
     "IntlAQSCode": "840060374009"
   },
   {
+    "Latitude": 36.5975,
+    "Longitude": -118.04,
+    "UTC": "2024-02-12T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Lone Pine Paiute/Shoshone Tribe-CA",
+    "AgencyName": "Quality Review and Exchange System for Tribes (QREST)",
+    "FullAQSCode": "060271018",
+    "IntlAQSCode": "840060271018"
+  },
+  {
     "Latitude": 33.830586,
     "Longitude": -117.938509,
     "UTC": "2024-02-12T21:00",
@@ -1053,6 +1079,19 @@
     "IntlAQSCode": "840060658001"
   },
   {
+    "Latitude": 33.217026,
+    "Longitude": -117.396156,
+    "UTC": "2024-02-12T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 14,
+    "Category": 1,
+    "SiteName": "Camp Pendleton",
+    "AgencyName": "San Diego APCD",
+    "FullAQSCode": "060731008",
+    "IntlAQSCode": "840060731008"
+  },
+  {
     "Latitude": 33.676535,
     "Longitude": -117.331027,
     "UTC": "2024-02-12T21:00",
@@ -1092,6 +1131,45 @@
     "IntlAQSCode": "840060710005"
   },
   {
+    "Latitude": 32.710177,
+    "Longitude": -117.142665,
+    "UTC": "2024-02-12T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 16,
+    "Category": 1,
+    "SiteName": "San Diego - Sherman Elementary School",
+    "AgencyName": "San Diego APCD",
+    "FullAQSCode": "840060731026",
+    "IntlAQSCode": "840060731026"
+  },
+  {
+    "Latitude": 32.845467,
+    "Longitude": -117.123894,
+    "UTC": "2024-02-12T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 11,
+    "Category": 1,
+    "SiteName": "San Diego - Kearny Villa Rd.",
+    "AgencyName": "San Diego APCD",
+    "FullAQSCode": "060731016",
+    "IntlAQSCode": "840060731016"
+  },
+  {
+    "Latitude": 32.985442,
+    "Longitude": -117.08218,
+    "UTC": "2024-02-12T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 10,
+    "Category": 1,
+    "SiteName": "San Diego - Rancho Carmel Drive",
+    "AgencyName": "San Diego APCD",
+    "FullAQSCode": "840060731017",
+    "IntlAQSCode": "840060731017"
+  },
+  {
     "Latitude": 33.583099,
     "Longitude": -117.072197,
     "UTC": "2024-02-12T21:00",
@@ -1103,6 +1181,58 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "060650016",
     "IntlAQSCode": "840060650016"
+  },
+  {
+    "Latitude": 32.631229,
+    "Longitude": -117.059074,
+    "UTC": "2024-02-12T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 20,
+    "Category": 1,
+    "SiteName": "Chula Vista",
+    "AgencyName": "San Diego APCD",
+    "FullAQSCode": "060730001",
+    "IntlAQSCode": "840060730001"
+  },
+  {
+    "Latitude": 32.552794,
+    "Longitude": -117.047286,
+    "UTC": "2024-02-12T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 18,
+    "Category": 1,
+    "SiteName": "N/A",
+    "AgencyName": "San Diego APCD",
+    "FullAQSCode": "840060731025",
+    "IntlAQSCode": "840060731025"
+  },
+  {
+    "Latitude": 32.789561,
+    "Longitude": -116.944222,
+    "UTC": "2024-02-12T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 10,
+    "Category": 1,
+    "SiteName": "El Cajon - Lexington Elementary School",
+    "AgencyName": "San Diego APCD",
+    "FullAQSCode": "060731022",
+    "IntlAQSCode": "840060731022"
+  },
+  {
+    "Latitude": 32.579361,
+    "Longitude": -116.929486,
+    "UTC": "2024-02-12T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 8,
+    "Category": 1,
+    "SiteName": "Otay Mesa - Donovan",
+    "AgencyName": "San Diego APCD",
+    "FullAQSCode": "060731014",
+    "IntlAQSCode": "840060731014"
   },
   {
     "Latitude": 34.264706,
@@ -1142,6 +1272,19 @@
     "AgencyName": "Morongo Band of Mission Indians",
     "FullAQSCode": "840TT5821016",
     "IntlAQSCode": "840TT5821016"
+  },
+  {
+    "Latitude": 32.842297,
+    "Longitude": -116.768326,
+    "UTC": "2024-02-12T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 5,
+    "Category": 1,
+    "SiteName": "Alpine",
+    "AgencyName": "San Diego APCD",
+    "FullAQSCode": "060731006",
+    "IntlAQSCode": "840060731006"
   },
   {
     "Latitude": 33.72537,
