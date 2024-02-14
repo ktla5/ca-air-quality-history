@@ -91,6 +91,19 @@
     "IntlAQSCode": "840060010009"
   },
   {
+    "Latitude": 37.06315,
+    "Longitude": -122.083092,
+    "UTC": "2024-02-14T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 27,
+    "Category": 1,
+    "SiteName": "SLV Middle School AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060871005",
+    "IntlAQSCode": "840060871005"
+  },
+  {
     "Latitude": 37.9383,
     "Longitude": -122.025,
     "UTC": "2024-02-14T16:00",
@@ -102,6 +115,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060130002",
     "IntlAQSCode": "840060130002"
+  },
+  {
+    "Latitude": 36.98332,
+    "Longitude": -121.98822,
+    "UTC": "2024-02-14T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 28,
+    "Category": 1,
+    "SiteName": "Santa Cruz AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060870007",
+    "IntlAQSCode": "840060870007"
   },
   {
     "Latitude": 38.356556,
@@ -148,12 +174,25 @@
     "UTC": "2024-02-14T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 13,
+    "AQI": 12,
     "Category": 1,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "061130004",
     "IntlAQSCode": "840061130004"
+  },
+  {
+    "Latitude": 36.48187,
+    "Longitude": -121.73333,
+    "UTC": "2024-02-14T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 12,
+    "Category": 1,
+    "SiteName": "Carmel Valley AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060530002",
+    "IntlAQSCode": "840060530002"
   },
   {
     "Latitude": 38.661239,
@@ -180,6 +219,19 @@
     "AgencyName": "Yolo-Solano AQMD",
     "FullAQSCode": "060959999",
     "IntlAQSCode": "840060959999"
+  },
+  {
+    "Latitude": 36.694261,
+    "Longitude": -121.623271,
+    "UTC": "2024-02-14T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 5,
+    "Category": 1,
+    "SiteName": "Salinas AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060531003",
+    "IntlAQSCode": "840060531003"
   },
   {
     "Latitude": 36.999571,
@@ -260,6 +312,19 @@
     "IntlAQSCode": "840060670006"
   },
   {
+    "Latitude": 36.843425,
+    "Longitude": -121.3621,
+    "UTC": "2024-02-14T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 21,
+    "Category": 1,
+    "SiteName": "Hollister AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060690002",
+    "IntlAQSCode": "840060690002"
+  },
+  {
     "Latitude": 38.86794,
     "Longitude": -121.33835,
     "UTC": "2024-02-14T16:00",
@@ -338,12 +403,25 @@
     "IntlAQSCode": "840060670012"
   },
   {
+    "Latitude": 36.209286,
+    "Longitude": -121.126371,
+    "UTC": "2024-02-14T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "King City AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060530008",
+    "IntlAQSCode": "840060530008"
+  },
+  {
     "Latitude": 37.642165,
     "Longitude": -120.994212,
     "UTC": "2024-02-14T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 61,
+    "AQI": 66,
     "Category": 2,
     "SiteName": "Modesto - 14th Street",
     "AgencyName": "California Air Resources Board",
@@ -564,7 +642,7 @@
     "UTC": "2024-02-14T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 52,
+    "AQI": 62,
     "Category": 2,
     "SiteName": "Fresno - Garland",
     "AgencyName": "California Air Resources Board",
@@ -845,6 +923,19 @@
     "IntlAQSCode": "840060376012"
   },
   {
+    "Latitude": 37.3667,
+    "Longitude": -118.4167,
+    "UTC": "2024-02-14T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 76,
+    "Category": 2,
+    "SiteName": "Bishop Paiute Tribe-CA",
+    "AgencyName": "Bishop Paiute Tribe",
+    "FullAQSCode": "060271023",
+    "IntlAQSCode": "840060271023"
+  },
+  {
     "Latitude": 34.181977,
     "Longitude": -118.363036,
     "UTC": "2024-02-14T16:00",
@@ -934,6 +1025,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "840060374009",
     "IntlAQSCode": "840060374009"
+  },
+  {
+    "Latitude": 36.5975,
+    "Longitude": -118.04,
+    "UTC": "2024-02-14T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Lone Pine Paiute/Shoshone Tribe-CA",
+    "AgencyName": "Quality Review and Exchange System for Tribes (QREST)",
+    "FullAQSCode": "060271018",
+    "IntlAQSCode": "840060271018"
   },
   {
     "Latitude": 33.830586,
@@ -1253,8 +1357,8 @@
     "UTC": "2024-02-14T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 97,
-    "Category": 2,
+    "AQI": 102,
+    "Category": 3,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060250005",
