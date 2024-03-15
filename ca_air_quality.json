@@ -96,7 +96,7 @@
     "UTC": "2024-03-15T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 0,
+    "AQI": 6,
     "Category": 1,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
@@ -174,7 +174,7 @@
     "UTC": "2024-03-15T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 3,
+    "AQI": 0,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -538,7 +538,7 @@
     "UTC": "2024-03-15T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 26,
+    "AQI": 22,
     "Category": 1,
     "SiteName": "Fresno - Garland",
     "AgencyName": "California Air Resources Board",
@@ -793,17 +793,56 @@
     "IntlAQSCode": "840061112002"
   },
   {
+    "Latitude": 34.1992,
+    "Longitude": -118.5331,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 6,
+    "Category": 1,
+    "SiteName": "Reseda",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060371201",
+    "IntlAQSCode": "840060371201"
+  },
+  {
+    "Latitude": 34.3833,
+    "Longitude": -118.5283,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 22,
+    "Category": 1,
+    "SiteName": "Santa Clarita",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060376012",
+    "IntlAQSCode": "840060376012"
+  },
+  {
     "Latitude": 37.3667,
     "Longitude": -118.4167,
     "UTC": "2024-03-15T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 7,
+    "AQI": 8,
     "Category": 1,
     "SiteName": "Bishop Paiute Tribe-CA",
     "AgencyName": "Bishop Paiute Tribe",
     "FullAQSCode": "060271023",
     "IntlAQSCode": "840060271023"
+  },
+  {
+    "Latitude": 34.181977,
+    "Longitude": -118.363036,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 10,
+    "Category": 1,
+    "SiteName": "North Holywood",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "840060374010",
+    "IntlAQSCode": "840060374010"
   },
   {
     "Latitude": 37.360701,
@@ -817,6 +856,32 @@
     "AgencyName": "Great Basin Unified Air Pollution Control District",
     "FullAQSCode": "060270002",
     "IntlAQSCode": "840060270002"
+  },
+  {
+    "Latitude": 34.066429,
+    "Longitude": -118.226755,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 25,
+    "Category": 1,
+    "SiteName": "Los Angeles - N. Main Street",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060371103",
+    "IntlAQSCode": "840060371103"
+  },
+  {
+    "Latitude": 33.9014,
+    "Longitude": -118.205,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 10,
+    "Category": 1,
+    "SiteName": "Compton",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060371302",
+    "IntlAQSCode": "840060371302"
   },
   {
     "Latitude": 35.04944,
@@ -845,6 +910,19 @@
     "IntlAQSCode": "840060379035"
   },
   {
+    "Latitude": 33.793713,
+    "Longitude": -118.171019,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 20,
+    "Category": 1,
+    "SiteName": "Long Beach Signal Hill",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "840060374009",
+    "IntlAQSCode": "840060374009"
+  },
+  {
     "Latitude": 36.5975,
     "Longitude": -118.04,
     "UTC": "2024-03-15T20:00",
@@ -856,6 +934,19 @@
     "AgencyName": "Quality Review and Exchange System for Tribes (QREST)",
     "FullAQSCode": "060271018",
     "IntlAQSCode": "840060271018"
+  },
+  {
+    "Latitude": 33.830586,
+    "Longitude": -117.938509,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Anaheim",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060590007",
+    "IntlAQSCode": "840060590007"
   },
   {
     "Latitude": 36.4878,
@@ -871,6 +962,58 @@
     "IntlAQSCode": "840060271003"
   },
   {
+    "Latitude": 34.1439,
+    "Longitude": -117.8508,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Glendora - Laurel",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060370016",
+    "IntlAQSCode": "840060370016"
+  },
+  {
+    "Latitude": 33.996387,
+    "Longitude": -117.4925,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 9,
+    "Category": 1,
+    "SiteName": "Mira Loma - Van Buren",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060658005",
+    "IntlAQSCode": "840060658005"
+  },
+  {
+    "Latitude": 34.100132,
+    "Longitude": -117.491982,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 2,
+    "Category": 1,
+    "SiteName": "Fontana - Arrow Highway",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060712002",
+    "IntlAQSCode": "840060712002"
+  },
+  {
+    "Latitude": 33.999449,
+    "Longitude": -117.415831,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 17,
+    "Category": 1,
+    "SiteName": "Riverside - Rubidoux",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060658001",
+    "IntlAQSCode": "840060658001"
+  },
+  {
     "Latitude": 33.217026,
     "Longitude": -117.396156,
     "UTC": "2024-03-15T20:00",
@@ -884,6 +1027,19 @@
     "IntlAQSCode": "840060731008"
   },
   {
+    "Latitude": 33.676535,
+    "Longitude": -117.331027,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 11,
+    "Category": 1,
+    "SiteName": "Lake Elsinore - W. Flint Street",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060659001",
+    "IntlAQSCode": "840060659001"
+  },
+  {
     "Latitude": 34.510955,
     "Longitude": -117.32555,
     "UTC": "2024-03-15T20:00",
@@ -895,6 +1051,19 @@
     "AgencyName": "Mojave Desert AQMD",
     "FullAQSCode": "060710306",
     "IntlAQSCode": "840060710306"
+  },
+  {
+    "Latitude": 34.243132,
+    "Longitude": -117.272275,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 8,
+    "Category": 1,
+    "SiteName": "Crestline - Lake Gregory",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060710005",
+    "IntlAQSCode": "840060710005"
   },
   {
     "Latitude": 32.710177,
@@ -934,6 +1103,19 @@
     "AgencyName": "San Diego APCD",
     "FullAQSCode": "840060731017",
     "IntlAQSCode": "840060731017"
+  },
+  {
+    "Latitude": 33.583099,
+    "Longitude": -117.072197,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 19,
+    "Category": 1,
+    "SiteName": "Temecula (Lake Skinner)",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060650016",
+    "IntlAQSCode": "840060650016"
   },
   {
     "Latitude": 32.631229,
@@ -988,6 +1170,32 @@
     "IntlAQSCode": "840060731014"
   },
   {
+    "Latitude": 34.264706,
+    "Longitude": -116.861653,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 2,
+    "Category": 1,
+    "SiteName": "Big Bear",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "840060718001",
+    "IntlAQSCode": "840060718001"
+  },
+  {
+    "Latitude": 33.920758,
+    "Longitude": -116.858419,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 25,
+    "Category": 1,
+    "SiteName": "Banning - South Hathaway Street",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "060650012",
+    "IntlAQSCode": "840060650012"
+  },
+  {
     "Latitude": 33.9446,
     "Longitude": -116.8303,
     "UTC": "2024-03-15T20:00",
@@ -1012,6 +1220,19 @@
     "AgencyName": "San Diego APCD",
     "FullAQSCode": "060731006",
     "IntlAQSCode": "840060731006"
+  },
+  {
+    "Latitude": 33.72537,
+    "Longitude": -116.20684,
+    "UTC": "2024-03-15T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 7,
+    "Category": 1,
+    "SiteName": "Indio Amistad High School",
+    "AgencyName": "South Coast AQMD",
+    "FullAQSCode": "840060652007",
+    "IntlAQSCode": "840060652007"
   },
   {
     "Latitude": 32.7917,
@@ -1045,7 +1266,7 @@
     "UTC": "2024-03-15T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 3,
+    "AQI": 0,
     "Category": 1,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
