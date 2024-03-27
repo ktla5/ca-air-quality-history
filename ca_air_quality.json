@@ -317,7 +317,7 @@
     "UTC": "2024-03-27T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 8,
+    "AQI": 4,
     "Category": 1,
     "SiteName": "Roseville - N.Sunrise/Douglas",
     "AgencyName": "California Air Resources Board",
@@ -733,7 +733,7 @@
     "UTC": "2024-03-27T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 21,
+    "AQI": 23,
     "Category": 1,
     "SiteName": "Bakersfield - California Ave",
     "AgencyName": "California Air Resources Board",
@@ -871,6 +871,19 @@
     "IntlAQSCode": "840060376012"
   },
   {
+    "Latitude": 37.3667,
+    "Longitude": -118.4167,
+    "UTC": "2024-03-27T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 73,
+    "Category": 2,
+    "SiteName": "Bishop Paiute Tribe-CA",
+    "AgencyName": "Bishop Paiute Tribe",
+    "FullAQSCode": "060271023",
+    "IntlAQSCode": "840060271023"
+  },
+  {
     "Latitude": 34.181977,
     "Longitude": -118.363036,
     "UTC": "2024-03-27T13:00",
@@ -960,6 +973,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "840060374009",
     "IntlAQSCode": "840060374009"
+  },
+  {
+    "Latitude": 36.5975,
+    "Longitude": -118.04,
+    "UTC": "2024-03-27T13:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 18,
+    "Category": 1,
+    "SiteName": "Lone Pine Paiute/Shoshone Tribe-CA",
+    "AgencyName": "Quality Review and Exchange System for Tribes (QREST)",
+    "FullAQSCode": "060271018",
+    "IntlAQSCode": "840060271018"
   },
   {
     "Latitude": 33.830586,
@@ -1292,7 +1318,7 @@
     "UTC": "2024-03-27T13:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 71,
+    "AQI": 83,
     "Category": 2,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
