@@ -304,7 +304,7 @@
     "UTC": "2024-04-01T11:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 11,
+    "AQI": 8,
     "Category": 1,
     "SiteName": "Roseville - N.Sunrise/Douglas",
     "AgencyName": "California Air Resources Board",
@@ -577,7 +577,7 @@
     "UTC": "2024-04-01T11:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 19,
+    "AQI": 16,
     "Category": 1,
     "SiteName": "Fresno - Garland",
     "AgencyName": "California Air Resources Board",
@@ -713,6 +713,19 @@
     "AgencyName": "Great Basin Unified Air Pollution Control District",
     "FullAQSCode": "060510005",
     "IntlAQSCode": "840060510005"
+  },
+  {
+    "Latitude": 35.356615,
+    "Longitude": -119.062613,
+    "UTC": "2024-04-01T11:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Bakersfield - California Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060290014",
+    "IntlAQSCode": "840060290014"
   },
   {
     "Latitude": 36.0319,
