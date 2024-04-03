@@ -65,6 +65,19 @@
     "IntlAQSCode": "840060811001"
   },
   {
+    "Latitude": 37.743061,
+    "Longitude": -122.169907,
+    "UTC": "2024-04-03T11:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 23,
+    "Category": 1,
+    "SiteName": "Oakland",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010009",
+    "IntlAQSCode": "840060010009"
+  },
+  {
     "Latitude": 37.06315,
     "Longitude": -122.083092,
     "UTC": "2024-04-03T11:00",
@@ -291,7 +304,7 @@
     "UTC": "2024-04-03T11:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 32,
+    "AQI": 30,
     "Category": 1,
     "SiteName": "Roseville - N.Sunrise/Douglas",
     "AgencyName": "California Air Resources Board",
@@ -733,7 +746,7 @@
     "UTC": "2024-04-03T11:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 41,
+    "AQI": 43,
     "Category": 1,
     "SiteName": "Bakersfield - California Ave",
     "AgencyName": "California Air Resources Board",
