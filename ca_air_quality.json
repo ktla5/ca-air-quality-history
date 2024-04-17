@@ -728,6 +728,19 @@
     "IntlAQSCode": "840061072003"
   },
   {
+    "Latitude": 36.90575,
+    "Longitude": -119.2954,
+    "UTC": "2024-04-17T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 32,
+    "Category": 1,
+    "SiteName": "Trimmer",
+    "AgencyName": "Forest Service",
+    "FullAQSCode": "840060199998",
+    "IntlAQSCode": "840060199998"
+  },
+  {
     "Latitude": 34.44806,
     "Longitude": -119.2313,
     "UTC": "2024-04-17T06:00",
@@ -1526,7 +1539,7 @@
     "UTC": "2024-04-17T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 35,
+    "AQI": 40,
     "Category": 1,
     "SiteName": "Yuma Supersite",
     "AgencyName": "Arizona Department of Environmental Quality",
@@ -1552,7 +1565,7 @@
     "UTC": "2024-04-17T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 11,
+    "AQI": 10,
     "Category": 1,
     "SiteName": "Alamo Lake",
     "AgencyName": "Arizona Department of Environmental Quality",
