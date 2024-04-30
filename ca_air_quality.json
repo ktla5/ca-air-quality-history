@@ -26,6 +26,19 @@
     "IntlAQSCode": "840060750005"
   },
   {
+    "Latitude": 37.864767,
+    "Longitude": -122.302741,
+    "UTC": "2024-04-30T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Berkeley Aquatic Park",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010013",
+    "IntlAQSCode": "840060010013"
+  },
+  {
     "Latitude": 37.8148,
     "Longitude": -122.282402,
     "UTC": "2024-04-30T17:00",
