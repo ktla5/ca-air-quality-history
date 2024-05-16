@@ -239,7 +239,7 @@
     "UTC": "2024-05-16T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 7,
+    "AQI": 6,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -616,7 +616,7 @@
     "UTC": "2024-05-16T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 52,
+    "AQI": 51,
     "Category": 2,
     "SiteName": "Fresno - Garland",
     "AgencyName": "California Air Resources Board",
@@ -910,6 +910,19 @@
     "IntlAQSCode": "840060376012"
   },
   {
+    "Latitude": 37.3667,
+    "Longitude": -118.4167,
+    "UTC": "2024-05-16T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 29,
+    "Category": 1,
+    "SiteName": "Bishop Paiute Tribe-CA",
+    "AgencyName": "Bishop Paiute Tribe",
+    "FullAQSCode": "060271023",
+    "IntlAQSCode": "840060271023"
+  },
+  {
     "Latitude": 34.181977,
     "Longitude": -118.363036,
     "UTC": "2024-05-16T16:00",
@@ -999,6 +1012,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "840060374009",
     "IntlAQSCode": "840060374009"
+  },
+  {
+    "Latitude": 36.5975,
+    "Longitude": -118.04,
+    "UTC": "2024-05-16T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 16,
+    "Category": 1,
+    "SiteName": "Lone Pine Paiute/Shoshone Tribe-CA",
+    "AgencyName": "Quality Review and Exchange System for Tribes (QREST)",
+    "FullAQSCode": "060271018",
+    "IntlAQSCode": "840060271018"
   },
   {
     "Latitude": 33.830586,
