@@ -239,7 +239,7 @@
     "UTC": "2024-05-20T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 12,
+    "AQI": 15,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -616,7 +616,7 @@
     "UTC": "2024-05-20T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 54,
+    "AQI": 55,
     "Category": 2,
     "SiteName": "Fresno - Garland",
     "AgencyName": "California Air Resources Board",
@@ -1337,6 +1337,19 @@
     "AgencyName": "Imperial County Air Pollution Control District",
     "FullAQSCode": "060250007",
     "IntlAQSCode": "840060250007"
+  },
+  {
+    "Latitude": 32.67618,
+    "Longitude": -115.48307,
+    "UTC": "2024-05-20T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 53,
+    "Category": 2,
+    "SiteName": "Calexico - Ethel Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060250005",
+    "IntlAQSCode": "840060250005"
   },
   {
     "Latitude": 35.785665,
