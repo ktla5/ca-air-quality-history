@@ -174,7 +174,7 @@
     "UTC": "2024-06-26T15:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 28,
+    "AQI": 24,
     "Category": 1,
     "SiteName": "Davis - UCD Campus",
     "AgencyName": "California Air Resources Board",
@@ -252,7 +252,7 @@
     "UTC": "2024-06-26T15:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 22,
+    "AQI": 19,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -622,6 +622,19 @@
     "AgencyName": "San Joaquin Valley Unified APCD",
     "FullAQSCode": "060192016",
     "IntlAQSCode": "840060192016"
+  },
+  {
+    "Latitude": 36.78538,
+    "Longitude": -119.77321,
+    "UTC": "2024-06-26T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 21,
+    "Category": 1,
+    "SiteName": "Fresno - Garland",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060190011",
+    "IntlAQSCode": "840060190011"
   },
   {
     "Latitude": 36.72622,
