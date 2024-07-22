@@ -5,8 +5,8 @@
     "UTC": "2024-07-22T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 51,
-    "Category": 2,
+    "AQI": 48,
+    "Category": 1,
     "SiteName": "Sebastopol",
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060970004",
@@ -50,6 +50,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060131004",
     "IntlAQSCode": "840060131004"
+  },
+  {
+    "Latitude": 37.864767,
+    "Longitude": -122.302741,
+    "UTC": "2024-07-22T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 56,
+    "Category": 2,
+    "SiteName": "Berkeley Aquatic Park",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010013",
+    "IntlAQSCode": "840060010013"
   },
   {
     "Latitude": 37.8148,
