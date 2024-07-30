@@ -1,5 +1,44 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2024-07-30T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
+    "Latitude": 37.9604,
+    "Longitude": -122.3571,
+    "UTC": "2024-07-30T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 8,
+    "Category": 1,
+    "SiteName": "San Pablo - Rumrill",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060131004",
+    "IntlAQSCode": "840060131004"
+  },
+  {
+    "Latitude": 37.864767,
+    "Longitude": -122.302741,
+    "UTC": "2024-07-30T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 8,
+    "Category": 1,
+    "SiteName": "Berkeley Aquatic Park",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010013",
+    "IntlAQSCode": "840060010013"
+  },
+  {
     "Latitude": 37.8148,
     "Longitude": -122.282402,
     "UTC": "2024-07-30T10:00",
@@ -50,6 +89,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060010009",
     "IntlAQSCode": "840060010009"
+  },
+  {
+    "Latitude": 38.05043,
+    "Longitude": -122.15454,
+    "UTC": "2024-07-30T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 19,
+    "Category": 1,
+    "SiteName": "Benicia - Fitzgerald",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "840060950007",
+    "IntlAQSCode": "840060950007"
   },
   {
     "Latitude": 37.06315,
