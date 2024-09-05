@@ -109,7 +109,7 @@
     "UTC": "2024-09-05T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 17,
     "Category": 1,
     "SiteName": "Benicia - Fitzgerald",
     "AgencyName": "San Francisco Bay Area AQMD",
@@ -167,6 +167,19 @@
     "AgencyName": "Yolo-Solano AQMD",
     "FullAQSCode": "060953003",
     "IntlAQSCode": "840060953003"
+  },
+  {
+    "Latitude": 37.701222,
+    "Longitude": -121.903019,
+    "UTC": "2024-09-05T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Pleasanton - Owens Ct.",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010015",
+    "IntlAQSCode": "840060010015"
   },
   {
     "Latitude": 37.3483,
