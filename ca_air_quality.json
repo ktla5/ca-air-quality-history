@@ -5,7 +5,7 @@
     "UTC": "2024-09-06T05:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 8,
+    "AQI": 1,
     "Category": 1,
     "SiteName": "Sebastopol",
     "AgencyName": "San Francisco Bay Area AQMD",
@@ -102,6 +102,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060010009",
     "IntlAQSCode": "840060010009"
+  },
+  {
+    "Latitude": 38.05043,
+    "Longitude": -122.15454,
+    "UTC": "2024-09-06T05:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 26,
+    "Category": 1,
+    "SiteName": "Benicia - Fitzgerald",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "840060950007",
+    "IntlAQSCode": "840060950007"
   },
   {
     "Latitude": 37.06315,
