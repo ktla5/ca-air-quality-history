@@ -1,5 +1,18 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2024-09-17T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 30,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2024-09-17T10:00",
@@ -11,6 +24,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060410001",
     "IntlAQSCode": "840060410001"
+  },
+  {
+    "Latitude": 37.864767,
+    "Longitude": -122.302741,
+    "UTC": "2024-09-17T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 56,
+    "Category": 2,
+    "SiteName": "Berkeley Aquatic Park",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010013",
+    "IntlAQSCode": "840060010013"
   },
   {
     "Latitude": 37.8148,
@@ -37,6 +63,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060010012",
     "IntlAQSCode": "840060010012"
+  },
+  {
+    "Latitude": 38.102507,
+    "Longitude": -122.237976,
+    "UTC": "2024-09-17T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 41,
+    "Category": 1,
+    "SiteName": "Vallejo",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060950004",
+    "IntlAQSCode": "840060950004"
   },
   {
     "Latitude": 37.4828,
@@ -70,7 +109,7 @@
     "UTC": "2024-09-17T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 47,
+    "AQI": 46,
     "Category": 1,
     "SiteName": "Benicia - Fitzgerald",
     "AgencyName": "San Francisco Bay Area AQMD",
@@ -89,6 +128,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060871005",
     "IntlAQSCode": "840060871005"
+  },
+  {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2024-09-17T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 41,
+    "Category": 1,
+    "SiteName": "Concord",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
   },
   {
     "Latitude": 36.98332,
@@ -122,7 +174,7 @@
     "UTC": "2024-09-17T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 27,
+    "AQI": 24,
     "Category": 1,
     "SiteName": "Pleasanton - Owens Ct.",
     "AgencyName": "San Francisco Bay Area AQMD",
