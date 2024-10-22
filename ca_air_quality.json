@@ -234,6 +234,19 @@
     "IntlAQSCode": "840060850006"
   },
   {
+    "Latitude": 38.53455,
+    "Longitude": -121.7734,
+    "UTC": "2024-10-22T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 53,
+    "Category": 2,
+    "SiteName": "Davis - UCD Campus",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "061130004",
+    "IntlAQSCode": "840061130004"
+  },
+  {
     "Latitude": 37.68975,
     "Longitude": -121.77155,
     "UTC": "2024-10-22T16:00",
@@ -330,7 +343,7 @@
     "UTC": "2024-10-22T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 24,
+    "AQI": 22,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -499,7 +512,7 @@
     "UTC": "2024-10-22T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 17,
     "Category": 1,
     "SiteName": "San Andreas",
     "AgencyName": "California Air Resources Board",
