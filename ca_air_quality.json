@@ -1,5 +1,18 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2024-10-22T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 12,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2024-10-22T10:00",
@@ -24,6 +37,32 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060750005",
     "IntlAQSCode": "840060750005"
+  },
+  {
+    "Latitude": 37.9604,
+    "Longitude": -122.3571,
+    "UTC": "2024-10-22T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 33,
+    "Category": 1,
+    "SiteName": "San Pablo - Rumrill",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060131004",
+    "IntlAQSCode": "840060131004"
+  },
+  {
+    "Latitude": 37.864767,
+    "Longitude": -122.302741,
+    "UTC": "2024-10-22T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 45,
+    "Category": 1,
+    "SiteName": "Berkeley Aquatic Park",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010013",
+    "IntlAQSCode": "840060010013"
   },
   {
     "Latitude": 37.8148,
@@ -52,6 +91,19 @@
     "IntlAQSCode": "840060010012"
   },
   {
+    "Latitude": 38.102507,
+    "Longitude": -122.237976,
+    "UTC": "2024-10-22T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 16,
+    "Category": 1,
+    "SiteName": "Vallejo",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060950004",
+    "IntlAQSCode": "840060950004"
+  },
+  {
     "Latitude": 37.743061,
     "Longitude": -122.169907,
     "UTC": "2024-10-22T10:00",
@@ -65,6 +117,19 @@
     "IntlAQSCode": "840060010009"
   },
   {
+    "Latitude": 38.05043,
+    "Longitude": -122.15454,
+    "UTC": "2024-10-22T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 38,
+    "Category": 1,
+    "SiteName": "Benicia - Fitzgerald",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "840060950007",
+    "IntlAQSCode": "840060950007"
+  },
+  {
     "Latitude": 37.06315,
     "Longitude": -122.083092,
     "UTC": "2024-10-22T10:00",
@@ -76,6 +141,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060871005",
     "IntlAQSCode": "840060871005"
+  },
+  {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2024-10-22T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 2,
+    "Category": 1,
+    "SiteName": "Concord",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
   },
   {
     "Latitude": 36.98332,
@@ -109,7 +187,7 @@
     "UTC": "2024-10-22T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 32,
+    "AQI": 33,
     "Category": 1,
     "SiteName": "Pleasanton - Owens Ct.",
     "AgencyName": "San Francisco Bay Area AQMD",
@@ -252,7 +330,7 @@
     "UTC": "2024-10-22T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 13,
+    "AQI": 9,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -1370,8 +1448,8 @@
     "UTC": "2024-10-22T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 46,
-    "Category": 1,
+    "AQI": 53,
+    "Category": 2,
     "SiteName": "Brawley - 220 Main Street",
     "AgencyName": "Imperial County Air Pollution Control District",
     "FullAQSCode": "060250007",
@@ -1448,7 +1526,7 @@
     "UTC": "2024-10-22T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 23,
+    "AQI": 25,
     "Category": 1,
     "SiteName": "Paul Meyer",
     "AgencyName": "Clark County Department of Environment and Sustainability ",
