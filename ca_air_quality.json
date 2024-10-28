@@ -156,6 +156,19 @@
     "IntlAQSCode": "840060953003"
   },
   {
+    "Latitude": 37.701222,
+    "Longitude": -121.903019,
+    "UTC": "2024-10-28T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 16,
+    "Category": 1,
+    "SiteName": "Pleasanton - Owens Ct.",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010015",
+    "IntlAQSCode": "840060010015"
+  },
+  {
     "Latitude": 37.3483,
     "Longitude": -121.8947,
     "UTC": "2024-10-28T19:00",
@@ -284,6 +297,19 @@
     "AgencyName": "Sacramento Metro. AQMD",
     "FullAQSCode": "060670015",
     "IntlAQSCode": "840060670015"
+  },
+  {
+    "Latitude": 38.56844,
+    "Longitude": -121.49311,
+    "UTC": "2024-10-28T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 21,
+    "Category": 1,
+    "SiteName": "Downtown Sacramento - T Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060670010",
+    "IntlAQSCode": "840060670010"
   },
   {
     "Latitude": 37.6825,
