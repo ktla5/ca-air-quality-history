@@ -1,5 +1,18 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2024-10-28T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2024-10-28T18:00",
@@ -141,6 +154,19 @@
     "AgencyName": "Yolo-Solano AQMD",
     "FullAQSCode": "060953003",
     "IntlAQSCode": "840060953003"
+  },
+  {
+    "Latitude": 37.701222,
+    "Longitude": -121.903019,
+    "UTC": "2024-10-28T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 7,
+    "Category": 1,
+    "SiteName": "Pleasanton - Owens Ct.",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010015",
+    "IntlAQSCode": "840060010015"
   },
   {
     "Latitude": 37.3483,
