@@ -5,8 +5,8 @@
     "UTC": "2024-10-29T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 52,
-    "Category": 2,
+    "AQI": 49,
+    "Category": 1,
     "SiteName": "Sebastopol",
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060970004",
@@ -24,6 +24,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060410001",
     "IntlAQSCode": "840060410001"
+  },
+  {
+    "Latitude": 37.864767,
+    "Longitude": -122.302741,
+    "UTC": "2024-10-29T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 44,
+    "Category": 1,
+    "SiteName": "Berkeley Aquatic Park",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010013",
+    "IntlAQSCode": "840060010013"
   },
   {
     "Latitude": 37.8148,
@@ -89,6 +102,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060010009",
     "IntlAQSCode": "840060010009"
+  },
+  {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2024-10-29T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Concord",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
   },
   {
     "Latitude": 36.98332,
@@ -265,7 +291,7 @@
     "UTC": "2024-10-29T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 36,
+    "AQI": 23,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -1422,7 +1448,7 @@
     "UTC": "2024-10-29T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 65,
+    "AQI": 67,
     "Category": 2,
     "SiteName": "Brawley - 220 Main Street",
     "AgencyName": "Imperial County Air Pollution Control District",
