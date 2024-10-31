@@ -1,5 +1,18 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2024-10-31T08:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2024-10-31T08:00",
@@ -174,7 +187,7 @@
     "UTC": "2024-10-31T08:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 11,
+    "AQI": 19,
     "Category": 1,
     "SiteName": "Pleasanton - Owens Ct.",
     "AgencyName": "San Francisco Bay Area AQMD",
@@ -317,7 +330,7 @@
     "UTC": "2024-10-31T08:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 11,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
