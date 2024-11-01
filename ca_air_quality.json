@@ -1,5 +1,18 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2024-11-01T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 12,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2024-11-01T10:00",
@@ -26,6 +39,19 @@
     "IntlAQSCode": "840060750005"
   },
   {
+    "Latitude": 37.9604,
+    "Longitude": -122.3571,
+    "UTC": "2024-11-01T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 32,
+    "Category": 1,
+    "SiteName": "San Pablo - Rumrill",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060131004",
+    "IntlAQSCode": "840060131004"
+  },
+  {
     "Latitude": 37.8148,
     "Longitude": -122.282402,
     "UTC": "2024-11-01T10:00",
@@ -50,6 +76,19 @@
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060010012",
     "IntlAQSCode": "840060010012"
+  },
+  {
+    "Latitude": 38.102507,
+    "Longitude": -122.237976,
+    "UTC": "2024-11-01T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 36,
+    "Category": 1,
+    "SiteName": "Vallejo",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060950004",
+    "IntlAQSCode": "840060950004"
   },
   {
     "Latitude": 37.4828,
@@ -265,7 +304,7 @@
     "UTC": "2024-11-01T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 46,
+    "AQI": 36,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
