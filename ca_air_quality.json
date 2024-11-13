@@ -117,6 +117,19 @@
     "IntlAQSCode": "840060950007"
   },
   {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2024-11-13T09:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 3,
+    "Category": 1,
+    "SiteName": "Concord",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
+  },
+  {
     "Latitude": 38.356556,
     "Longitude": -121.949853,
     "UTC": "2024-11-13T09:00",
