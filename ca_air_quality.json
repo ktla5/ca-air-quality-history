@@ -1,5 +1,44 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2024-11-16T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 19,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
+    "Latitude": 37.7658,
+    "Longitude": -122.3978,
+    "UTC": "2024-11-16T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 11,
+    "Category": 1,
+    "SiteName": "San Francisco",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060750005",
+    "IntlAQSCode": "840060750005"
+  },
+  {
+    "Latitude": 37.9604,
+    "Longitude": -122.3571,
+    "UTC": "2024-11-16T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 14,
+    "Category": 1,
+    "SiteName": "San Pablo - Rumrill",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060131004",
+    "IntlAQSCode": "840060131004"
+  },
+  {
     "Latitude": 37.864767,
     "Longitude": -122.302741,
     "UTC": "2024-11-16T16:00",
@@ -18,12 +57,25 @@
     "UTC": "2024-11-16T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 28,
+    "AQI": 19,
     "Category": 1,
     "SiteName": "Oakland",
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "060010009",
     "IntlAQSCode": "840060010009"
+  },
+  {
+    "Latitude": 38.05043,
+    "Longitude": -122.15454,
+    "UTC": "2024-11-16T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 33,
+    "Category": 1,
+    "SiteName": "Benicia - Fitzgerald",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "840060950007",
+    "IntlAQSCode": "840060950007"
   },
   {
     "Latitude": 37.06315,
