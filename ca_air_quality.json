@@ -117,6 +117,19 @@
     "IntlAQSCode": "840060811001"
   },
   {
+    "Latitude": 37.743061,
+    "Longitude": -122.169907,
+    "UTC": "2024-12-04T12:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 58,
+    "Category": 2,
+    "SiteName": "Oakland",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060010009",
+    "IntlAQSCode": "840060010009"
+  },
+  {
     "Latitude": 37.06315,
     "Longitude": -122.083092,
     "UTC": "2024-12-04T12:00",
@@ -1461,8 +1474,8 @@
     "UTC": "2024-12-04T12:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 121,
-    "Category": 3,
+    "AQI": 87,
+    "Category": 2,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060250005",
