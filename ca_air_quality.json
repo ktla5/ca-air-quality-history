@@ -1,5 +1,18 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2024-12-31T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 43,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2024-12-31T10:00",
@@ -26,6 +39,19 @@
     "IntlAQSCode": "840060750005"
   },
   {
+    "Latitude": 37.9604,
+    "Longitude": -122.3571,
+    "UTC": "2024-12-31T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 30,
+    "Category": 1,
+    "SiteName": "San Pablo - Rumrill",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060131004",
+    "IntlAQSCode": "840060131004"
+  },
+  {
     "Latitude": 37.8148,
     "Longitude": -122.282402,
     "UTC": "2024-12-31T10:00",
@@ -44,7 +70,7 @@
     "UTC": "2024-12-31T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 37,
+    "AQI": 41,
     "Category": 1,
     "SiteName": "Laney College",
     "AgencyName": "San Francisco Bay Area AQMD",
@@ -78,6 +104,19 @@
     "IntlAQSCode": "840060010009"
   },
   {
+    "Latitude": 38.05043,
+    "Longitude": -122.15454,
+    "UTC": "2024-12-31T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 27,
+    "Category": 1,
+    "SiteName": "Benicia - Fitzgerald",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "840060950007",
+    "IntlAQSCode": "840060950007"
+  },
+  {
     "Latitude": 37.06315,
     "Longitude": -122.083092,
     "UTC": "2024-12-31T10:00",
@@ -89,6 +128,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060871005",
     "IntlAQSCode": "840060871005"
+  },
+  {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2024-12-31T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Concord",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
   },
   {
     "Latitude": 36.98332,
@@ -109,7 +161,7 @@
     "UTC": "2024-12-31T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 12,
+    "AQI": 20,
     "Category": 1,
     "SiteName": "Pleasanton - Owens Ct.",
     "AgencyName": "San Francisco Bay Area AQMD",
@@ -122,7 +174,7 @@
     "UTC": "2024-12-31T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 64,
+    "AQI": 60,
     "Category": 2,
     "SiteName": "San Jose - Jackson St.",
     "AgencyName": "San Francisco Bay Area AQMD",
@@ -161,7 +213,7 @@
     "UTC": "2024-12-31T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 39,
+    "AQI": 36,
     "Category": 1,
     "SiteName": "Livermore-Portola",
     "AgencyName": "San Francisco Bay Area AQMD",
