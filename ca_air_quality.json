@@ -5,7 +5,7 @@
     "UTC": "2025-01-10T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 41,
+    "AQI": 34,
     "Category": 1,
     "SiteName": "Sebastopol",
     "AgencyName": "San Francisco Bay Area AQMD",
@@ -96,7 +96,7 @@
     "UTC": "2025-01-10T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 78,
+    "AQI": 74,
     "Category": 2,
     "SiteName": "Vallejo",
     "AgencyName": "San Francisco Bay Area AQMD",
@@ -135,12 +135,25 @@
     "UTC": "2025-01-10T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 93,
+    "AQI": 92,
     "Category": 2,
     "SiteName": "Benicia - Fitzgerald",
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "840060950007",
     "IntlAQSCode": "840060950007"
+  },
+  {
+    "Latitude": 37.06315,
+    "Longitude": -122.083092,
+    "UTC": "2025-01-10T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 52,
+    "Category": 2,
+    "SiteName": "SLV Middle School AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060871005",
+    "IntlAQSCode": "840060871005"
   },
   {
     "Latitude": 37.9383,
@@ -156,12 +169,25 @@
     "IntlAQSCode": "840060130002"
   },
   {
+    "Latitude": 36.98332,
+    "Longitude": -121.98822,
+    "UTC": "2025-01-10T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 24,
+    "Category": 1,
+    "SiteName": "Santa Cruz AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060870007",
+    "IntlAQSCode": "840060870007"
+  },
+  {
     "Latitude": 37.701222,
     "Longitude": -121.903019,
     "UTC": "2025-01-10T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 40,
+    "AQI": 37,
     "Category": 1,
     "SiteName": "Pleasanton - Owens Ct.",
     "AgencyName": "San Francisco Bay Area AQMD",
@@ -213,12 +239,25 @@
     "UTC": "2025-01-10T18:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 59,
+    "AQI": 51,
     "Category": 2,
     "SiteName": "Livermore-Portola",
     "AgencyName": "San Francisco Bay Area AQMD",
     "FullAQSCode": "840060010016",
     "IntlAQSCode": "840060010016"
+  },
+  {
+    "Latitude": 36.48187,
+    "Longitude": -121.73333,
+    "UTC": "2025-01-10T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 11,
+    "Category": 1,
+    "SiteName": "Carmel Valley AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060530002",
+    "IntlAQSCode": "840060530002"
   },
   {
     "Latitude": 38.661239,
@@ -325,6 +364,19 @@
     "IntlAQSCode": "840060670006"
   },
   {
+    "Latitude": 36.843425,
+    "Longitude": -121.3621,
+    "UTC": "2025-01-10T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 26,
+    "Category": 1,
+    "SiteName": "Hollister AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060690002",
+    "IntlAQSCode": "840060690002"
+  },
+  {
     "Latitude": 38.86794,
     "Longitude": -121.33835,
     "UTC": "2025-01-10T18:00",
@@ -401,6 +453,19 @@
     "AgencyName": "Sacramento Metro. AQMD",
     "FullAQSCode": "060670012",
     "IntlAQSCode": "840060670012"
+  },
+  {
+    "Latitude": 36.209286,
+    "Longitude": -121.126371,
+    "UTC": "2025-01-10T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 31,
+    "Category": 1,
+    "SiteName": "King City AMS",
+    "AgencyName": "Monterey Bay Unified APCD",
+    "FullAQSCode": "060530008",
+    "IntlAQSCode": "840060530008"
   },
   {
     "Latitude": 37.642165,
