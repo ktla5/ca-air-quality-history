@@ -247,6 +247,19 @@
     "IntlAQSCode": "840060531003"
   },
   {
+    "Latitude": 36.999571,
+    "Longitude": -121.574684,
+    "UTC": "2025-01-18T01:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 58,
+    "Category": 2,
+    "SiteName": "Gilroy - 9th Street",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060850002",
+    "IntlAQSCode": "840060850002"
+  },
+  {
     "Latitude": 38.593328,
     "Longitude": -121.503728,
     "UTC": "2025-01-18T01:00",
