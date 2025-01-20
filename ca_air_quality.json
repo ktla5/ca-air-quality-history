@@ -1,5 +1,18 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2025-01-20T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 44,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2025-01-20T10:00",
@@ -52,6 +65,19 @@
     "IntlAQSCode": "840060010012"
   },
   {
+    "Latitude": 38.102507,
+    "Longitude": -122.237976,
+    "UTC": "2025-01-20T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 28,
+    "Category": 1,
+    "SiteName": "Vallejo",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060950004",
+    "IntlAQSCode": "840060950004"
+  },
+  {
     "Latitude": 37.4828,
     "Longitude": -122.2022,
     "UTC": "2025-01-20T10:00",
@@ -78,6 +104,19 @@
     "IntlAQSCode": "840060010009"
   },
   {
+    "Latitude": 38.05043,
+    "Longitude": -122.15454,
+    "UTC": "2025-01-20T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 52,
+    "Category": 2,
+    "SiteName": "Benicia - Fitzgerald",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "840060950007",
+    "IntlAQSCode": "840060950007"
+  },
+  {
     "Latitude": 37.06315,
     "Longitude": -122.083092,
     "UTC": "2025-01-20T10:00",
@@ -89,6 +128,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060871005",
     "IntlAQSCode": "840060871005"
+  },
+  {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2025-01-20T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 54,
+    "Category": 2,
+    "SiteName": "Concord",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
   },
   {
     "Latitude": 36.98332,
@@ -130,6 +182,19 @@
     "IntlAQSCode": "840060010015"
   },
   {
+    "Latitude": 37.3483,
+    "Longitude": -121.8947,
+    "UTC": "2025-01-20T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "San Jose - Jackson St.",
+    "AgencyName": "San Francisco Bay Area AQMD",
+    "FullAQSCode": "060850005",
+    "IntlAQSCode": "840060850005"
+  },
+  {
     "Latitude": 38.53455,
     "Longitude": -121.7734,
     "UTC": "2025-01-20T10:00",
@@ -148,7 +213,7 @@
     "UTC": "2025-01-20T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 62,
+    "AQI": 61,
     "Category": 2,
     "SiteName": "Livermore-Portola",
     "AgencyName": "San Francisco Bay Area AQMD",
