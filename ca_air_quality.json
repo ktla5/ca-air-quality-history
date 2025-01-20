@@ -169,6 +169,19 @@
     "IntlAQSCode": "840060010015"
   },
   {
+    "Latitude": 38.53455,
+    "Longitude": -121.7734,
+    "UTC": "2025-01-20T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 59,
+    "Category": 2,
+    "SiteName": "Davis - UCD Campus",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "061130004",
+    "IntlAQSCode": "840061130004"
+  },
+  {
     "Latitude": 37.68975,
     "Longitude": -121.77155,
     "UTC": "2025-01-20T06:00",
@@ -286,6 +299,19 @@
     "IntlAQSCode": "840060612003"
   },
   {
+    "Latitude": 37.961578,
+    "Longitude": -121.281414,
+    "UTC": "2025-01-20T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 63,
+    "Category": 2,
+    "SiteName": "Stockton - University Park",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060771003",
+    "IntlAQSCode": "840060771003"
+  },
+  {
     "Latitude": 38.494475,
     "Longitude": -121.211131,
     "UTC": "2025-01-20T06:00",
@@ -323,6 +349,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060530008",
     "IntlAQSCode": "840060530008"
+  },
+  {
+    "Latitude": 37.642165,
+    "Longitude": -120.994212,
+    "UTC": "2025-01-20T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 78,
+    "Category": 2,
+    "SiteName": "Modesto - 14th Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060990005",
+    "IntlAQSCode": "840060990005"
   },
   {
     "Latitude": 35.494556,
@@ -429,6 +468,19 @@
     "IntlAQSCode": "840060832011"
   },
   {
+    "Latitude": 36.78538,
+    "Longitude": -119.77321,
+    "UTC": "2025-01-20T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 114,
+    "Category": 3,
+    "SiteName": "Fresno - Garland",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060190011",
+    "IntlAQSCode": "840060190011"
+  },
+  {
     "Latitude": 34.42775,
     "Longitude": -119.69091,
     "UTC": "2025-01-20T06:00",
@@ -453,6 +505,19 @@
     "AgencyName": "Santa Barbara County Air Pollution Control District",
     "FullAQSCode": "840060839001",
     "IntlAQSCode": "840060839001"
+  },
+  {
+    "Latitude": 36.30815,
+    "Longitude": -119.3129,
+    "UTC": "2025-01-20T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 123,
+    "Category": 3,
+    "SiteName": "Visalia - W Ashland Avenue",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840061072003",
+    "IntlAQSCode": "840061072003"
   },
   {
     "Latitude": 34.25239,
@@ -481,6 +546,19 @@
     "IntlAQSCode": "840060510005"
   },
   {
+    "Latitude": 35.356615,
+    "Longitude": -119.062613,
+    "UTC": "2025-01-20T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 99,
+    "Category": 2,
+    "SiteName": "Bakersfield - California Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060290014",
+    "IntlAQSCode": "840060290014"
+  },
+  {
     "Latitude": 36.6972,
     "Longitude": -119.0189,
     "UTC": "2025-01-20T06:00",
@@ -505,6 +583,19 @@
     "AgencyName": "Ventura County APCD",
     "FullAQSCode": "061110007",
     "IntlAQSCode": "840061110007"
+  },
+  {
+    "Latitude": 36.489399,
+    "Longitude": -118.826897,
+    "UTC": "2025-01-20T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 66,
+    "Category": 2,
+    "SiteName": "Sequoia and Kings Canyon - Ash Mountain",
+    "AgencyName": "National Park Service",
+    "FullAQSCode": "061070009",
+    "IntlAQSCode": "840061070009"
   },
   {
     "Latitude": 36.1358,
@@ -648,6 +739,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "060371302",
     "IntlAQSCode": "840060371302"
+  },
+  {
+    "Latitude": 35.04944,
+    "Longitude": -118.18893,
+    "UTC": "2025-01-20T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 29,
+    "Category": 1,
+    "SiteName": "Mojave - Pat Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060290020",
+    "IntlAQSCode": "840060290020"
   },
   {
     "Latitude": 34.7254,
@@ -1168,5 +1272,18 @@
     "AgencyName": "Clark County Department of Environment and Sustainability ",
     "FullAQSCode": "320030024",
     "IntlAQSCode": "840320030024"
+  },
+  {
+    "Latitude": 37.179,
+    "Longitude": -113.3052,
+    "UTC": "2025-01-20T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 20,
+    "Category": 1,
+    "SiteName": "Hurricane",
+    "AgencyName": "Utah Department of Environmental Quality",
+    "FullAQSCode": "490530007",
+    "IntlAQSCode": "840490530007"
   }
 ]
