@@ -1,5 +1,18 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2025-01-27T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 33,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2025-01-27T20:00",
@@ -44,7 +57,7 @@
     "UTC": "2025-01-27T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 25,
+    "AQI": 14,
     "Category": 1,
     "SiteName": "Vallejo",
     "AgencyName": "Bay Area Air District",
@@ -143,6 +156,19 @@
     "IntlAQSCode": "840060953003"
   },
   {
+    "Latitude": 37.701222,
+    "Longitude": -121.903019,
+    "UTC": "2025-01-27T20:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Pleasanton - Owens Ct.",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060010015",
+    "IntlAQSCode": "840060010015"
+  },
+  {
     "Latitude": 37.3483,
     "Longitude": -121.8947,
     "UTC": "2025-01-27T20:00",
@@ -239,7 +265,7 @@
     "UTC": "2025-01-27T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 8,
+    "AQI": 18,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -1370,7 +1396,7 @@
     "UTC": "2025-01-27T20:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 10,
+    "AQI": 13,
     "Category": 1,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
