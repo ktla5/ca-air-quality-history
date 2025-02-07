@@ -5,7 +5,7 @@
     "UTC": "2025-02-07T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 18,
+    "AQI": 6,
     "Category": 1,
     "SiteName": "Sebastopol",
     "AgencyName": "Bay Area Air District",
@@ -39,6 +39,19 @@
     "IntlAQSCode": "840060750005"
   },
   {
+    "Latitude": 37.864767,
+    "Longitude": -122.302741,
+    "UTC": "2025-02-07T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 40,
+    "Category": 1,
+    "SiteName": "Berkeley Aquatic Park",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060010013",
+    "IntlAQSCode": "840060010013"
+  },
+  {
     "Latitude": 37.8148,
     "Longitude": -122.282402,
     "UTC": "2025-02-07T03:00",
@@ -70,7 +83,7 @@
     "UTC": "2025-02-07T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 13,
+    "AQI": 26,
     "Category": 1,
     "SiteName": "Vallejo",
     "AgencyName": "Bay Area Air District",
@@ -161,7 +174,7 @@
     "UTC": "2025-02-07T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 5,
+    "AQI": 11,
     "Category": 1,
     "SiteName": "Pleasanton - Owens Ct.",
     "AgencyName": "Bay Area Air District",
@@ -180,6 +193,19 @@
     "AgencyName": "Bay Area Air District",
     "FullAQSCode": "060850005",
     "IntlAQSCode": "840060850005"
+  },
+  {
+    "Latitude": 37.338202,
+    "Longitude": -121.849892,
+    "UTC": "2025-02-07T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 7,
+    "Category": 1,
+    "SiteName": "San Jose - Knox Ave",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060850006",
+    "IntlAQSCode": "840060850006"
   },
   {
     "Latitude": 37.68975,
