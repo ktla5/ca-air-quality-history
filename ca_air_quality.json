@@ -39,6 +39,19 @@
     "IntlAQSCode": "840060750005"
   },
   {
+    "Latitude": 37.864767,
+    "Longitude": -122.302741,
+    "UTC": "2025-02-15T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 55,
+    "Category": 2,
+    "SiteName": "Berkeley Aquatic Park",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060010013",
+    "IntlAQSCode": "840060010013"
+  },
+  {
     "Latitude": 37.8148,
     "Longitude": -122.282402,
     "UTC": "2025-02-15T03:00",
@@ -96,7 +109,7 @@
     "UTC": "2025-02-15T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 57,
+    "AQI": 54,
     "Category": 2,
     "SiteName": "Benicia - Fitzgerald",
     "AgencyName": "Bay Area Air District",
@@ -161,7 +174,7 @@
     "UTC": "2025-02-15T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 28,
+    "AQI": 25,
     "Category": 1,
     "SiteName": "Pleasanton - Owens Ct.",
     "AgencyName": "Bay Area Air District",
