@@ -1118,6 +1118,19 @@
     "IntlAQSCode": "840060590007"
   },
   {
+    "Latitude": 36.4878,
+    "Longitude": -117.871,
+    "UTC": "2025-03-31T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 27,
+    "Category": 1,
+    "SiteName": "Keeler",
+    "AgencyName": "Great Basin Unified Air Pollution Control District",
+    "FullAQSCode": "060271003",
+    "IntlAQSCode": "840060271003"
+  },
+  {
     "Latitude": 34.1439,
     "Longitude": -117.8508,
     "UTC": "2025-03-31T16:00",
@@ -1578,7 +1591,7 @@
     "UTC": "2025-03-31T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 19,
+    "AQI": 16,
     "Category": 1,
     "SiteName": "Yuma Supersite",
     "AgencyName": "Arizona Department of Environmental Quality",
