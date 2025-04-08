@@ -44,7 +44,7 @@
     "UTC": "2025-04-08T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 34,
+    "AQI": 25,
     "Category": 1,
     "SiteName": "San Pablo - Rumrill",
     "AgencyName": "Bay Area Air District",
@@ -986,19 +986,6 @@
     "AgencyName": "Forest Service",
     "FullAQSCode": "840060299999",
     "IntlAQSCode": "840060299999"
-  },
-  {
-    "Latitude": 37.3667,
-    "Longitude": -118.4167,
-    "UTC": "2025-04-08T17:00",
-    "Parameter": "PM2.5",
-    "Unit": "UG/M3",
-    "AQI": 31,
-    "Category": 1,
-    "SiteName": "Bishop Paiute Tribe-CA",
-    "AgencyName": "Bishop Paiute Tribe",
-    "FullAQSCode": "060271023",
-    "IntlAQSCode": "840060271023"
   },
   {
     "Latitude": 34.181977,
