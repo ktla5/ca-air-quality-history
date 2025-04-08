@@ -304,7 +304,7 @@
     "UTC": "2025-04-08T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 17,
+    "AQI": 14,
     "Category": 1,
     "SiteName": "Downtown Sacramento - T Street",
     "AgencyName": "California Air Resources Board",
@@ -388,6 +388,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "840060771003",
     "IntlAQSCode": "840060771003"
+  },
+  {
+    "Latitude": 38.74643,
+    "Longitude": -121.26498,
+    "UTC": "2025-04-08T22:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 30,
+    "Category": 1,
+    "SiteName": "Roseville - N.Sunrise/Douglas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060610006",
+    "IntlAQSCode": "840060610006"
   },
   {
     "Latitude": 37.8027,
@@ -1578,7 +1591,7 @@
     "UTC": "2025-04-08T22:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 24,
+    "AQI": 21,
     "Category": 1,
     "SiteName": "Yuma Supersite",
     "AgencyName": "Arizona Department of Environmental Quality",
