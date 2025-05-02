@@ -1,5 +1,18 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2025-05-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 23,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2025-05-02T10:00",
@@ -37,6 +50,19 @@
     "AgencyName": "Bay Area Air District",
     "FullAQSCode": "060131004",
     "IntlAQSCode": "840060131004"
+  },
+  {
+    "Latitude": 37.864767,
+    "Longitude": -122.302741,
+    "UTC": "2025-05-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 56,
+    "Category": 2,
+    "SiteName": "Berkeley Aquatic Park",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060010013",
+    "IntlAQSCode": "840060010013"
   },
   {
     "Latitude": 37.8148,
@@ -78,6 +104,19 @@
     "IntlAQSCode": "840060010009"
   },
   {
+    "Latitude": 38.05043,
+    "Longitude": -122.15454,
+    "UTC": "2025-05-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 54,
+    "Category": 2,
+    "SiteName": "Benicia - Fitzgerald",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "840060950007",
+    "IntlAQSCode": "840060950007"
+  },
+  {
     "Latitude": 37.06315,
     "Longitude": -122.083092,
     "UTC": "2025-05-02T10:00",
@@ -89,6 +128,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060871005",
     "IntlAQSCode": "840060871005"
+  },
+  {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2025-05-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 19,
+    "Category": 1,
+    "SiteName": "Concord",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
   },
   {
     "Latitude": 36.98332,
@@ -122,8 +174,8 @@
     "UTC": "2025-05-02T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 46,
-    "Category": 1,
+    "AQI": 52,
+    "Category": 2,
     "SiteName": "San Jose - Jackson St.",
     "AgencyName": "Bay Area Air District",
     "FullAQSCode": "060850005",
@@ -135,8 +187,8 @@
     "UTC": "2025-05-02T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 47,
-    "Category": 1,
+    "AQI": 51,
+    "Category": 2,
     "SiteName": "San Jose - Knox Ave",
     "AgencyName": "Bay Area Air District",
     "FullAQSCode": "060850006",
@@ -200,7 +252,7 @@
     "UTC": "2025-05-02T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 49,
+    "AQI": 41,
     "Category": 1,
     "SiteName": "Gilroy - 9th Street",
     "AgencyName": "Bay Area Air District",
