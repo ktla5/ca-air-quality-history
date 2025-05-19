@@ -26,6 +26,19 @@
     "IntlAQSCode": "840060410001"
   },
   {
+    "Latitude": 37.864767,
+    "Longitude": -122.302741,
+    "UTC": "2025-05-19T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 52,
+    "Category": 2,
+    "SiteName": "Berkeley Aquatic Park",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060010013",
+    "IntlAQSCode": "840060010013"
+  },
+  {
     "Latitude": 37.8148,
     "Longitude": -122.282402,
     "UTC": "2025-05-19T17:00",
@@ -44,7 +57,7 @@
     "UTC": "2025-05-19T17:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 31,
+    "AQI": 32,
     "Category": 1,
     "SiteName": "Vallejo",
     "AgencyName": "Bay Area Air District",
