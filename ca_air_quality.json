@@ -44,7 +44,7 @@
     "UTC": "2025-05-26T06:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 29,
+    "AQI": 31,
     "Category": 1,
     "SiteName": "Berkeley Aquatic Park",
     "AgencyName": "Bay Area Air District",
@@ -219,6 +219,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "061130004",
     "IntlAQSCode": "840061130004"
+  },
+  {
+    "Latitude": 37.68975,
+    "Longitude": -121.77155,
+    "UTC": "2025-05-26T06:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 43,
+    "Category": 1,
+    "SiteName": "Livermore-Portola",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "840060010016",
+    "IntlAQSCode": "840060010016"
   },
   {
     "Latitude": 36.48187,
