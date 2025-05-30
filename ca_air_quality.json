@@ -1,5 +1,18 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2025-05-30T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 11,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2025-05-30T10:00",
@@ -24,6 +37,19 @@
     "AgencyName": "Bay Area Air District",
     "FullAQSCode": "060750005",
     "IntlAQSCode": "840060750005"
+  },
+  {
+    "Latitude": 37.864767,
+    "Longitude": -122.302741,
+    "UTC": "2025-05-30T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 42,
+    "Category": 1,
+    "SiteName": "Berkeley Aquatic Park",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060010013",
+    "IntlAQSCode": "840060010013"
   },
   {
     "Latitude": 37.8148,
@@ -52,6 +78,19 @@
     "IntlAQSCode": "840060010012"
   },
   {
+    "Latitude": 38.102507,
+    "Longitude": -122.237976,
+    "UTC": "2025-05-30T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 29,
+    "Category": 1,
+    "SiteName": "Vallejo",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060950004",
+    "IntlAQSCode": "840060950004"
+  },
+  {
     "Latitude": 37.4828,
     "Longitude": -122.2022,
     "UTC": "2025-05-30T10:00",
@@ -65,6 +104,19 @@
     "IntlAQSCode": "840060811001"
   },
   {
+    "Latitude": 38.05043,
+    "Longitude": -122.15454,
+    "UTC": "2025-05-30T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 38,
+    "Category": 1,
+    "SiteName": "Benicia - Fitzgerald",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "840060950007",
+    "IntlAQSCode": "840060950007"
+  },
+  {
     "Latitude": 37.06315,
     "Longitude": -122.083092,
     "UTC": "2025-05-30T10:00",
@@ -76,6 +128,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060871005",
     "IntlAQSCode": "840060871005"
+  },
+  {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2025-05-30T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Concord",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
   },
   {
     "Latitude": 36.98332,
@@ -122,7 +187,7 @@
     "UTC": "2025-05-30T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 35,
+    "AQI": 39,
     "Category": 1,
     "SiteName": "San Jose - Jackson St.",
     "AgencyName": "Bay Area Air District",
@@ -135,8 +200,8 @@
     "UTC": "2025-05-30T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 46,
-    "Category": 1,
+    "AQI": 56,
+    "Category": 2,
     "SiteName": "San Jose - Knox Ave",
     "AgencyName": "Bay Area Air District",
     "FullAQSCode": "060850006",
@@ -154,6 +219,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "061130004",
     "IntlAQSCode": "840061130004"
+  },
+  {
+    "Latitude": 37.68975,
+    "Longitude": -121.77155,
+    "UTC": "2025-05-30T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 21,
+    "Category": 1,
+    "SiteName": "Livermore-Portola",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "840060010016",
+    "IntlAQSCode": "840060010016"
   },
   {
     "Latitude": 36.48187,
