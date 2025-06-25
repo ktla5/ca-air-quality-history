@@ -247,6 +247,19 @@
     "IntlAQSCode": "840061130004"
   },
   {
+    "Latitude": 37.68975,
+    "Longitude": -121.77155,
+    "UTC": "2025-06-25T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Livermore-Portola",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "840060010016",
+    "IntlAQSCode": "840060010016"
+  },
+  {
     "Latitude": 36.48187,
     "Longitude": -121.73333,
     "UTC": "2025-06-25T03:00",
