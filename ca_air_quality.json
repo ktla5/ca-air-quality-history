@@ -83,7 +83,7 @@
     "UTC": "2025-09-09T12:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 9,
+    "AQI": 10,
     "Category": 1,
     "SiteName": "Vallejo",
     "AgencyName": "Bay Area Air District",
