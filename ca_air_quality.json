@@ -18,7 +18,7 @@
     "UTC": "2025-09-15T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 9,
+    "AQI": 10,
     "Category": 1,
     "SiteName": "San Rafael",
     "AgencyName": "Bay Area Air District",
@@ -31,7 +31,7 @@
     "UTC": "2025-09-15T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 25,
+    "AQI": 18,
     "Category": 1,
     "SiteName": "San Francisco",
     "AgencyName": "Bay Area Air District",
@@ -52,6 +52,19 @@
     "IntlAQSCode": "840060131004"
   },
   {
+    "Latitude": 37.864767,
+    "Longitude": -122.302741,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 55,
+    "Category": 2,
+    "SiteName": "Berkeley Aquatic Park",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060010013",
+    "IntlAQSCode": "840060010013"
+  },
+  {
     "Latitude": 37.793624,
     "Longitude": -122.263376,
     "UTC": "2025-09-15T19:00",
@@ -70,7 +83,7 @@
     "UTC": "2025-09-15T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 45,
+    "AQI": 50,
     "Category": 1,
     "SiteName": "Vallejo",
     "AgencyName": "Bay Area Air District",
@@ -83,7 +96,7 @@
     "UTC": "2025-09-15T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 14,
+    "AQI": 18,
     "Category": 1,
     "SiteName": "Redwood City",
     "AgencyName": "Bay Area Air District",
@@ -96,7 +109,7 @@
     "UTC": "2025-09-15T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 31,
+    "AQI": 32,
     "Category": 1,
     "SiteName": "Oakland",
     "AgencyName": "Bay Area Air District",
@@ -109,12 +122,25 @@
     "UTC": "2025-09-15T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 38,
+    "AQI": 30,
     "Category": 1,
     "SiteName": "Benicia - Fitzgerald",
     "AgencyName": "Bay Area Air District",
     "FullAQSCode": "840060950007",
     "IntlAQSCode": "840060950007"
+  },
+  {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 18,
+    "Category": 1,
+    "SiteName": "Concord",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
   },
   {
     "Latitude": 36.98332,
@@ -148,7 +174,7 @@
     "UTC": "2025-09-15T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 15,
+    "AQI": 16,
     "Category": 1,
     "SiteName": "Pleasanton - Owens Ct.",
     "AgencyName": "Bay Area Air District",
@@ -161,7 +187,7 @@
     "UTC": "2025-09-15T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 54,
+    "AQI": 56,
     "Category": 2,
     "SiteName": "San Jose - Jackson St.",
     "AgencyName": "Bay Area Air District",
@@ -174,7 +200,7 @@
     "UTC": "2025-09-15T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 36,
+    "AQI": 46,
     "Category": 1,
     "SiteName": "San Jose - Knox Ave",
     "AgencyName": "Bay Area Air District",
@@ -265,7 +291,7 @@
     "UTC": "2025-09-15T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 29,
+    "AQI": 31,
     "Category": 1,
     "SiteName": "Gilroy - 9th Street",
     "AgencyName": "Bay Area Air District",
@@ -377,6 +403,19 @@
     "IntlAQSCode": "840060610006"
   },
   {
+    "Latitude": 37.8027,
+    "Longitude": -121.2208,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 24,
+    "Category": 1,
+    "SiteName": "Manteca",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060772010",
+    "IntlAQSCode": "840060772010"
+  },
+  {
     "Latitude": 38.494475,
     "Longitude": -121.211131,
     "UTC": "2025-09-15T19:00",
@@ -427,6 +466,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "060990005",
     "IntlAQSCode": "840060990005"
+  },
+  {
+    "Latitude": 37.4883,
+    "Longitude": -120.8358,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 32,
+    "Category": 1,
+    "SiteName": "Turlock - S. Minaret Street",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060990006",
+    "IntlAQSCode": "840060990006"
   },
   {
     "Latitude": 38.20185,
@@ -494,6 +546,19 @@
     "IntlAQSCode": "840060792004"
   },
   {
+    "Latitude": 37.30833,
+    "Longitude": -120.480361,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 19,
+    "Category": 1,
+    "SiteName": "Merced-M St",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "840060472510",
+    "IntlAQSCode": "840060472510"
+  },
+  {
     "Latitude": 34.637798,
     "Longitude": -120.456703,
     "UTC": "2025-09-15T19:00",
@@ -520,6 +585,45 @@
     "IntlAQSCode": "840060831009"
   },
   {
+    "Latitude": 37.28973,
+    "Longitude": -120.42972,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 33,
+    "Category": 1,
+    "SiteName": "Merced-Vierra",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "840060472024",
+    "IntlAQSCode": "840060472024"
+  },
+  {
+    "Latitude": 36.6324,
+    "Longitude": -120.3822,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 29,
+    "Category": 1,
+    "SiteName": "Tranquillity",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060192009",
+    "IntlAQSCode": "840060192009"
+  },
+  {
+    "Latitude": 36.1994,
+    "Longitude": -120.0991,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 24,
+    "Category": 1,
+    "SiteName": "Huron",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060192008",
+    "IntlAQSCode": "840060192008"
+  },
+  {
     "Latitude": 34.605819,
     "Longitude": -120.07506,
     "UTC": "2025-09-15T19:00",
@@ -531,6 +635,19 @@
     "AgencyName": "Santa Barbara County Air Pollution Control District",
     "FullAQSCode": "060833001",
     "IntlAQSCode": "840060833001"
+  },
+  {
+    "Latitude": 36.9533,
+    "Longitude": -120.0341,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 45,
+    "Category": 1,
+    "SiteName": "Madera-City",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060392010",
+    "IntlAQSCode": "840060392010"
   },
   {
     "Latitude": 34.445301,
@@ -546,6 +663,19 @@
     "IntlAQSCode": "840060832011"
   },
   {
+    "Latitude": 36.71088,
+    "Longitude": -119.77743,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 61,
+    "Category": 2,
+    "SiteName": "Fresno-Foundry Park",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060192016",
+    "IntlAQSCode": "840060192016"
+  },
+  {
     "Latitude": 36.78538,
     "Longitude": -119.77321,
     "UTC": "2025-09-15T19:00",
@@ -559,6 +689,32 @@
     "IntlAQSCode": "840060190011"
   },
   {
+    "Latitude": 36.72622,
+    "Longitude": -119.73249,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 43,
+    "Category": 1,
+    "SiteName": "Fresno-Pacific",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "840060195025",
+    "IntlAQSCode": "840060195025"
+  },
+  {
+    "Latitude": 36.819199,
+    "Longitude": -119.7164,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 41,
+    "Category": 1,
+    "SiteName": "Clovis - N. Villa Ave",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060195001",
+    "IntlAQSCode": "840060195001"
+  },
+  {
     "Latitude": 34.42775,
     "Longitude": -119.69091,
     "UTC": "2025-09-15T19:00",
@@ -570,6 +726,32 @@
     "AgencyName": "Santa Barbara County Air Pollution Control District",
     "FullAQSCode": "060830011",
     "IntlAQSCode": "840060830011"
+  },
+  {
+    "Latitude": 36.3144,
+    "Longitude": -119.6436,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 61,
+    "Category": 2,
+    "SiteName": "Hanford - S. Irwin Street",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060311004",
+    "IntlAQSCode": "840060311004"
+  },
+  {
+    "Latitude": 36.102219,
+    "Longitude": -119.566002,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 33,
+    "Category": 1,
+    "SiteName": "Corcoran",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060310004",
+    "IntlAQSCode": "840060310004"
   },
   {
     "Latitude": 34.39424,
@@ -650,6 +832,19 @@
     "IntlAQSCode": "840060290014"
   },
   {
+    "Latitude": 36.0319,
+    "Longitude": -119.055,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 55,
+    "Category": 2,
+    "SiteName": "Porterville-NFS",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "061072010",
+    "IntlAQSCode": "840061072010"
+  },
+  {
     "Latitude": 36.6972,
     "Longitude": -119.0189,
     "UTC": "2025-09-15T19:00",
@@ -663,6 +858,19 @@
     "IntlAQSCode": "840060199999"
   },
   {
+    "Latitude": 35.3853,
+    "Longitude": -119.014702,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 57,
+    "Category": 2,
+    "SiteName": "Bakersfield - Golden State Highway",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060290010",
+    "IntlAQSCode": "840060290010"
+  },
+  {
     "Latitude": 34.21017,
     "Longitude": -118.87051,
     "UTC": "2025-09-15T19:00",
@@ -674,6 +882,19 @@
     "AgencyName": "Ventura County APCD",
     "FullAQSCode": "061110007",
     "IntlAQSCode": "840061110007"
+  },
+  {
+    "Latitude": 34.8416,
+    "Longitude": -118.8647,
+    "UTC": "2025-09-15T19:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 1,
+    "Category": 1,
+    "SiteName": "Lebec",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "060292009",
+    "IntlAQSCode": "840060292009"
   },
   {
     "Latitude": 36.489399,
