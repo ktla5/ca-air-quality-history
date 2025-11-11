@@ -1404,6 +1404,19 @@
     "IntlAQSCode": "840TT5980500"
   },
   {
+    "Latitude": 33.37911,
+    "Longitude": -116.016056,
+    "UTC": "2025-11-11T22:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 54,
+    "Category": 2,
+    "SiteName": "Salton Sea Beach",
+    "AgencyName": "Torres Martinez Desert Cahuilla Indians",
+    "FullAQSCode": "840TT5950010",
+    "IntlAQSCode": "840TT5950010"
+  },
+  {
     "Latitude": 32.7917,
     "Longitude": -115.5617,
     "UTC": "2025-11-11T22:00",
