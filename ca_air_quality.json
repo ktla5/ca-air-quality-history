@@ -13,6 +13,19 @@
     "IntlAQSCode": "840060750005"
   },
   {
+    "Latitude": 37.9604,
+    "Longitude": -122.3571,
+    "UTC": "2025-11-14T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 27,
+    "Category": 1,
+    "SiteName": "San Pablo - Rumrill",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060131004",
+    "IntlAQSCode": "840060131004"
+  },
+  {
     "Latitude": 37.793624,
     "Longitude": -122.263376,
     "UTC": "2025-11-14T10:00",
@@ -44,7 +57,7 @@
     "UTC": "2025-11-14T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 15,
+    "AQI": 13,
     "Category": 1,
     "SiteName": "Oakland",
     "AgencyName": "Bay Area Air District",
@@ -96,7 +109,7 @@
     "UTC": "2025-11-14T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 21,
+    "AQI": 18,
     "Category": 1,
     "SiteName": "Pleasanton - Owens Ct.",
     "AgencyName": "Bay Area Air District",
