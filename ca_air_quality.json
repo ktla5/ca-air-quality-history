@@ -130,6 +130,19 @@
     "IntlAQSCode": "840060871005"
   },
   {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2025-11-17T17:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": -999,
+    "Category": -999,
+    "SiteName": "Concord",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
+  },
+  {
     "Latitude": 36.98332,
     "Longitude": -121.98822,
     "UTC": "2025-11-17T17:00",
