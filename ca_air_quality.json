@@ -1,5 +1,18 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2025-11-18T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 16,
+    "Category": 1,
+    "SiteName": "Sebastopol",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2025-11-18T10:00",
@@ -52,6 +65,19 @@
     "IntlAQSCode": "840060010012"
   },
   {
+    "Latitude": 38.102507,
+    "Longitude": -122.237976,
+    "UTC": "2025-11-18T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Vallejo",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060950004",
+    "IntlAQSCode": "840060950004"
+  },
+  {
     "Latitude": 37.4828,
     "Longitude": -122.2022,
     "UTC": "2025-11-18T10:00",
@@ -70,12 +96,25 @@
     "UTC": "2025-11-18T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 31,
+    "AQI": 23,
     "Category": 1,
     "SiteName": "Oakland",
     "AgencyName": "Bay Area Air District",
     "FullAQSCode": "060010009",
     "IntlAQSCode": "840060010009"
+  },
+  {
+    "Latitude": 38.05043,
+    "Longitude": -122.15454,
+    "UTC": "2025-11-18T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Benicia - Fitzgerald",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "840060950007",
+    "IntlAQSCode": "840060950007"
   },
   {
     "Latitude": 37.060738,
@@ -122,7 +161,7 @@
     "UTC": "2025-11-18T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 29,
+    "AQI": 23,
     "Category": 1,
     "SiteName": "Pleasanton - Owens Ct.",
     "AgencyName": "Bay Area Air District",
@@ -135,7 +174,7 @@
     "UTC": "2025-11-18T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 13,
+    "AQI": 4,
     "Category": 1,
     "SiteName": "San Jose - Knox Ave",
     "AgencyName": "Bay Area Air District",
@@ -154,6 +193,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "061130004",
     "IntlAQSCode": "840061130004"
+  },
+  {
+    "Latitude": 37.68975,
+    "Longitude": -121.77155,
+    "UTC": "2025-11-18T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 13,
+    "Category": 1,
+    "SiteName": "Livermore-Portola",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "840060010016",
+    "IntlAQSCode": "840060010016"
   },
   {
     "Latitude": 36.48187,
