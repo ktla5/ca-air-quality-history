@@ -130,6 +130,19 @@
     "IntlAQSCode": "840060010009"
   },
   {
+    "Latitude": 38.05043,
+    "Longitude": -122.15454,
+    "UTC": "2025-12-04T03:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 24,
+    "Category": 1,
+    "SiteName": "Benicia - Fitzgerald",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "840060950007",
+    "IntlAQSCode": "840060950007"
+  },
+  {
     "Latitude": 37.060738,
     "Longitude": -122.083493,
     "UTC": "2025-12-04T03:00",
@@ -226,7 +239,7 @@
     "UTC": "2025-12-04T03:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 27,
+    "AQI": 30,
     "Category": 1,
     "SiteName": "Livermore-Portola",
     "AgencyName": "Bay Area Air District",
