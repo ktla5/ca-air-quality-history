@@ -364,6 +364,32 @@
     "IntlAQSCode": "840060612003"
   },
   {
+    "Latitude": 37.961578,
+    "Longitude": -121.281414,
+    "UTC": "2025-12-06T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 68,
+    "Category": 2,
+    "SiteName": "Stockton - University Park",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060771003",
+    "IntlAQSCode": "840060771003"
+  },
+  {
+    "Latitude": 38.74643,
+    "Longitude": -121.26498,
+    "UTC": "2025-12-06T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 76,
+    "Category": 2,
+    "SiteName": "Roseville - N.Sunrise/Douglas",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060610006",
+    "IntlAQSCode": "840060610006"
+  },
+  {
     "Latitude": 38.494475,
     "Longitude": -121.211131,
     "UTC": "2025-12-06T16:00",
@@ -401,6 +427,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060530008",
     "IntlAQSCode": "840060530008"
+  },
+  {
+    "Latitude": 37.642165,
+    "Longitude": -120.994212,
+    "UTC": "2025-12-06T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 93,
+    "Category": 2,
+    "SiteName": "Modesto - 14th Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060990005",
+    "IntlAQSCode": "840060990005"
   },
   {
     "Latitude": 38.20185,
@@ -791,6 +830,19 @@
     "AgencyName": "South Coast AQMD",
     "FullAQSCode": "060371302",
     "IntlAQSCode": "840060371302"
+  },
+  {
+    "Latitude": 35.04944,
+    "Longitude": -118.18893,
+    "UTC": "2025-12-06T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 0,
+    "Category": 1,
+    "SiteName": "Mojave - Pat Ave",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "840060290020",
+    "IntlAQSCode": "840060290020"
   },
   {
     "Latitude": 34.7254,
