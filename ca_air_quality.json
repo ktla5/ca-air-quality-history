@@ -135,7 +135,7 @@
     "UTC": "2025-12-17T15:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 6,
+    "AQI": 0,
     "Category": 1,
     "SiteName": "Concord",
     "AgencyName": "Bay Area Air District",
@@ -1469,6 +1469,19 @@
     "IntlAQSCode": "840060250007"
   },
   {
+    "Latitude": 32.67618,
+    "Longitude": -115.48307,
+    "UTC": "2025-12-17T15:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 186,
+    "Category": 4,
+    "SiteName": "Calexico - Ethel Street",
+    "AgencyName": "California Air Resources Board",
+    "FullAQSCode": "060250005",
+    "IntlAQSCode": "840060250005"
+  },
+  {
     "Latitude": 35.785665,
     "Longitude": -115.357087,
     "UTC": "2025-12-17T15:00",
@@ -1526,7 +1539,7 @@
     "UTC": "2025-12-17T15:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 79,
+    "AQI": 86,
     "Category": 2,
     "SiteName": "Paul Meyer",
     "AgencyName": "Clark County Department of Environment and Sustainability ",
