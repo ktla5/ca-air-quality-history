@@ -1,11 +1,24 @@
 [
   {
+    "Latitude": 38.403765,
+    "Longitude": -122.818294,
+    "UTC": "2025-12-19T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 65,
+    "Category": 2,
+    "SiteName": "Sebastopol",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060970004",
+    "IntlAQSCode": "840060970004"
+  },
+  {
     "Latitude": 37.9722,
     "Longitude": -122.5189,
     "UTC": "2025-12-19T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 51,
+    "AQI": 53,
     "Category": 2,
     "SiteName": "San Rafael",
     "AgencyName": "Bay Area Air District",
@@ -24,6 +37,19 @@
     "AgencyName": "Bay Area Air District",
     "FullAQSCode": "060750005",
     "IntlAQSCode": "840060750005"
+  },
+  {
+    "Latitude": 37.9604,
+    "Longitude": -122.3571,
+    "UTC": "2025-12-19T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 53,
+    "Category": 2,
+    "SiteName": "San Pablo - Rumrill",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060131004",
+    "IntlAQSCode": "840060131004"
   },
   {
     "Latitude": 37.864767,
@@ -52,6 +78,19 @@
     "IntlAQSCode": "840060010011"
   },
   {
+    "Latitude": 38.102507,
+    "Longitude": -122.237976,
+    "UTC": "2025-12-19T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 54,
+    "Category": 2,
+    "SiteName": "Vallejo",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060950004",
+    "IntlAQSCode": "840060950004"
+  },
+  {
     "Latitude": 37.4828,
     "Longitude": -122.2022,
     "UTC": "2025-12-19T10:00",
@@ -76,6 +115,19 @@
     "AgencyName": "Bay Area Air District",
     "FullAQSCode": "060010009",
     "IntlAQSCode": "840060010009"
+  },
+  {
+    "Latitude": 38.05043,
+    "Longitude": -122.15454,
+    "UTC": "2025-12-19T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 46,
+    "Category": 1,
+    "SiteName": "Benicia - Fitzgerald",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "840060950007",
+    "IntlAQSCode": "840060950007"
   },
   {
     "Latitude": 37.060738,
@@ -135,7 +187,7 @@
     "UTC": "2025-12-19T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 57,
+    "AQI": 55,
     "Category": 2,
     "SiteName": "San Jose - Jackson St.",
     "AgencyName": "Bay Area Air District",
@@ -167,6 +219,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "061130004",
     "IntlAQSCode": "840061130004"
+  },
+  {
+    "Latitude": 37.68975,
+    "Longitude": -121.77155,
+    "UTC": "2025-12-19T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 39,
+    "Category": 1,
+    "SiteName": "Livermore-Portola",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "840060010016",
+    "IntlAQSCode": "840060010016"
   },
   {
     "Latitude": 36.48187,
@@ -226,8 +291,8 @@
     "UTC": "2025-12-19T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 49,
-    "Category": 1,
+    "AQI": 52,
+    "Category": 2,
     "SiteName": "Gilroy - 9th Street",
     "AgencyName": "Bay Area Air District",
     "FullAQSCode": "060850002",
