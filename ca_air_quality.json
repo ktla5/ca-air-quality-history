@@ -533,6 +533,19 @@
     "IntlAQSCode": "840060195001"
   },
   {
+    "Latitude": 34.42775,
+    "Longitude": -119.69091,
+    "UTC": "2026-01-17T08:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 54,
+    "Category": 2,
+    "SiteName": "Santa Barbara",
+    "AgencyName": "Santa Barbara County Air Pollution Control District",
+    "FullAQSCode": "060830011",
+    "IntlAQSCode": "840060830011"
+  },
+  {
     "Latitude": 36.3144,
     "Longitude": -119.6436,
     "UTC": "2026-01-17T08:00",
@@ -1279,7 +1292,7 @@
     "UTC": "2026-01-17T08:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 43,
+    "AQI": 50,
     "Category": 1,
     "SiteName": "Calexico - Ethel Street",
     "AgencyName": "California Air Resources Board",
