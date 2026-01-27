@@ -161,7 +161,7 @@
     "UTC": "2026-01-27T16:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 56,
+    "AQI": 55,
     "Category": 2,
     "SiteName": "Concord",
     "AgencyName": "Bay Area Air District",
@@ -180,6 +180,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060870007",
     "IntlAQSCode": "840060870007"
+  },
+  {
+    "Latitude": 38.356556,
+    "Longitude": -121.949853,
+    "UTC": "2026-01-27T16:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 61,
+    "Category": 2,
+    "SiteName": "Vacaville",
+    "AgencyName": "Yolo-Solano AQMD",
+    "FullAQSCode": "060953003",
+    "IntlAQSCode": "840060953003"
   },
   {
     "Latitude": 37.701222,
