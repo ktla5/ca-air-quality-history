@@ -57,7 +57,7 @@
     "UTC": "2026-01-28T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 24,
+    "AQI": 23,
     "Category": 1,
     "SiteName": "Berkeley Aquatic Park",
     "AgencyName": "Bay Area Air District",
@@ -156,6 +156,19 @@
     "IntlAQSCode": "840060871005"
   },
   {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2026-01-28T21:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 41,
+    "Category": 1,
+    "SiteName": "Concord",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
+  },
+  {
     "Latitude": 36.98332,
     "Longitude": -121.98822,
     "UTC": "2026-01-28T21:00",
@@ -239,7 +252,7 @@
     "UTC": "2026-01-28T21:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 31,
+    "AQI": 29,
     "Category": 1,
     "SiteName": "Livermore-Portola",
     "AgencyName": "Bay Area Air District",
