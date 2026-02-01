@@ -52,6 +52,32 @@
     "IntlAQSCode": "840060010013"
   },
   {
+    "Latitude": 37.8148,
+    "Longitude": -122.282402,
+    "UTC": "2026-02-01T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 68,
+    "Category": 2,
+    "SiteName": "Oakland West",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060010011",
+    "IntlAQSCode": "840060010011"
+  },
+  {
+    "Latitude": 37.793624,
+    "Longitude": -122.263376,
+    "UTC": "2026-02-01T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 74,
+    "Category": 2,
+    "SiteName": "Laney College",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060010012",
+    "IntlAQSCode": "840060010012"
+  },
+  {
     "Latitude": 38.102507,
     "Longitude": -122.237976,
     "UTC": "2026-02-01T18:00",
@@ -143,6 +169,19 @@
     "IntlAQSCode": "840060953003"
   },
   {
+    "Latitude": 37.701222,
+    "Longitude": -121.903019,
+    "UTC": "2026-02-01T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 66,
+    "Category": 2,
+    "SiteName": "Pleasanton - Owens Ct.",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060010015",
+    "IntlAQSCode": "840060010015"
+  },
+  {
     "Latitude": 37.3483,
     "Longitude": -121.8947,
     "UTC": "2026-02-01T18:00",
@@ -167,6 +206,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "061130004",
     "IntlAQSCode": "840061130004"
+  },
+  {
+    "Latitude": 37.68975,
+    "Longitude": -121.77155,
+    "UTC": "2026-02-01T18:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 59,
+    "Category": 2,
+    "SiteName": "Livermore-Portola",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "840060010016",
+    "IntlAQSCode": "840060010016"
   },
   {
     "Latitude": 36.48187,
