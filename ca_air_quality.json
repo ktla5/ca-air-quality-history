@@ -57,7 +57,7 @@
     "UTC": "2026-02-02T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 55,
+    "AQI": 52,
     "Category": 2,
     "SiteName": "Berkeley Aquatic Park",
     "AgencyName": "Bay Area Air District",
@@ -154,6 +154,19 @@
     "AgencyName": "Monterey Bay Unified APCD",
     "FullAQSCode": "060871005",
     "IntlAQSCode": "840060871005"
+  },
+  {
+    "Latitude": 37.9383,
+    "Longitude": -122.025,
+    "UTC": "2026-02-02T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 16,
+    "Category": 1,
+    "SiteName": "Concord",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060130002",
+    "IntlAQSCode": "840060130002"
   },
   {
     "Latitude": 36.98332,
