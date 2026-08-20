@@ -39,6 +39,19 @@
     "IntlAQSCode": "840060750005"
   },
   {
+    "Latitude": 37.9604,
+    "Longitude": -122.3571,
+    "UTC": "2026-08-20T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 12,
+    "Category": 1,
+    "SiteName": "San Pablo - Rumrill",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060131004",
+    "IntlAQSCode": "840060131004"
+  },
+  {
     "Latitude": 37.864767,
     "Longitude": -122.302741,
     "UTC": "2026-08-20T10:00",
@@ -193,6 +206,19 @@
     "AgencyName": "California Air Resources Board",
     "FullAQSCode": "061130004",
     "IntlAQSCode": "840061130004"
+  },
+  {
+    "Latitude": 37.68975,
+    "Longitude": -121.77155,
+    "UTC": "2026-08-20T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 61,
+    "Category": 2,
+    "SiteName": "Livermore-Portola",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "840060010016",
+    "IntlAQSCode": "840060010016"
   },
   {
     "Latitude": 36.48187,
@@ -557,6 +583,19 @@
     "AgencyName": "Santa Barbara County Air Pollution Control District",
     "FullAQSCode": "840060831009",
     "IntlAQSCode": "840060831009"
+  },
+  {
+    "Latitude": 37.28973,
+    "Longitude": -120.42972,
+    "UTC": "2026-08-20T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 55,
+    "Category": 2,
+    "SiteName": "Merced-Vierra",
+    "AgencyName": "San Joaquin Valley Unified APCD",
+    "FullAQSCode": "840060472024",
+    "IntlAQSCode": "840060472024"
   },
   {
     "Latitude": 36.6324,
