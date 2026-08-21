@@ -213,7 +213,7 @@
     "UTC": "2026-08-21T19:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 32,
+    "AQI": 24,
     "Category": 1,
     "SiteName": "Livermore-Portola",
     "AgencyName": "Bay Area Air District",
