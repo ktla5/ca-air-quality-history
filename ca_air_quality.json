@@ -39,6 +39,19 @@
     "IntlAQSCode": "840060750005"
   },
   {
+    "Latitude": 37.9604,
+    "Longitude": -122.3571,
+    "UTC": "2026-08-24T10:00",
+    "Parameter": "PM2.5",
+    "Unit": "UG/M3",
+    "AQI": 42,
+    "Category": 1,
+    "SiteName": "San Pablo - Rumrill",
+    "AgencyName": "Bay Area Air District",
+    "FullAQSCode": "060131004",
+    "IntlAQSCode": "840060131004"
+  },
+  {
     "Latitude": 37.864767,
     "Longitude": -122.302741,
     "UTC": "2026-08-24T10:00",
@@ -1292,8 +1305,8 @@
     "UTC": "2026-08-24T10:00",
     "Parameter": "PM2.5",
     "Unit": "UG/M3",
-    "AQI": 126,
-    "Category": 3,
+    "AQI": 92,
+    "Category": 2,
     "SiteName": "San Ysidro",
     "AgencyName": "San Diego APCD",
     "FullAQSCode": "840060731025",
